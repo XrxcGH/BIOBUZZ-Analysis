@@ -1,0 +1,312 @@
+### Hedge / vagueness words (ambiguity = loophole surface)
+287:FIRST is committed to Equity, Diversity, and Inclusion and as such, FIRST makes reasonable accommodations
+290:Local leadership may make exceptions to rules to allow for reasonable accommodation given the exceptions
+310:These conventions are used to alert the reader to important information and are intended to help teams in
+343:                   their contents as they’re intended to provide insight into the reasoning behind a
+348:                   actual rule (if there is an inadvertent conflict between a rule and its orange box,
+369:Team resources that are not generally season specific (for example, what to expect at an event,
+393:Team Updates are posted on the Game and Season web page and are generally posted at 1pm Eastern.
+574:               team but is not intended to prohibit or discourage assistance from other teams
+576:               game strategy, contributing COMPONENTS and/or MECHANISMS).
+578:               Examples that would generally not be considered MAJOR MECHANISMS, and
+751:*At the discretion of the Program Delivery Partner, a Qualifying Tournament (QT) host team may be granted
+760:through the end of the event with departure from the venue. They are high-level rules intended to promote an
+764:                   Safety is always paramount, and many rules are intended to establish norms at
+775:         Universal Violation Note: A violation of any Event Rules (E) will result in a verbal warning. Egregious or
+817:                    extended period (Team members momentarily holding up team signs while
+825:               Use of imagery that, to a reasonably astute observer, mimics the AprilTags
+898:      venue service providers or attempt to use venue internet connections reserved for event purposes (e.g.,
+928:               As a guideline, reasonable flags are less than 3 ft. by 5 ft. (~91 cm by 152 cm) in
+929:               size and weigh less than 2 lbs. (~907g). Reasonable flagpoles may not be more
+955:public agenda), to help teams with repair and fabrication of their ROBOT. Machine shops are typically
+978:      *Don’t interfere with wireless networks. Participants may not interfere, attempt to interfere, or attempt
+985:      Violation: Verbal warning, plus subsequent and/or egregious violations may lead to dismissal from the
+1002:A team pit is the designated space, typically a 10 ft. by 10 ft. by 10 ft. (~3 m x 3 m x 3 m) area, where a team
+1305:      reasonable accommodations to accept all team PORTFOLIOS unless doing so
+1353:      Do not attempt to abuse the delayed start timer to set up equipment or otherwise
+1605:                    B. which challenges each COMPONENT or system is intended to solve, and
+1632:Encouraged 5 Design is effective and consistent with team’s game plan and/or strategy.
+1677:                   of schooling: This award is intended for STUDENTS who are two (2) to three (3)
+1997:detailed in Table 9-1. Please note that audio cues are intended as a courtesy to participants and not intended
+2052:        other teams for strategic advantage for the loaning team, borrowing team, and/or
+2197:ROBOTS operate without any DRIVER control or input. ROBOTS attempt to score SAMPLES, PARK in the
+2310:    ASCENT criteria, the ROBOT may disengage from the SUBMERSIBLE and attempt the ASCENT
+2313:         A ROBOT is considered ASCENDING once it is attempting to achieve an ASCENT
+2323:ROBOTS attempting a LEVEL 3 ASCENT which then violate C. i or ii, may still be
+2327:SUBMERSIBLE and attempt their LEVEL 3 ASCENT again.
+2372:    − MOMENTARY describes durations that are fewer than approximately 3 seconds.
+2374:    − REPEATED describes actions that happen more than once within a MATCH.
+2387:              a warning issued by the Head REFEREE for egregious ROBOT or team member
+2391:              a penalty issued by the Head REFEREE for egregious ROBOT or team member
+2408:The Head REFEREE may assign a YELLOW CARD as a warning, or a RED CARD for egregious behavior
+2429:Egregious behavior by a team, which cannot be resolved locally by the Head REFEREE or Event Director
+2488:IF EGREGIOUS,            violating ALLIANCE equal to the number of additional SCORING
+2490:                         REFEREES determine that the action was egregious, the Head
+2599:      NOTE: This rule is not intended to prevent an ALLIANCE from planning and/or executing its own
+2600:      strategy in a specific MATCH in which all the teams are members of the ALLIANCE.
+2618:      MATCH, to deliberately lower their tie breaker scores, etc. incompatible with
+2619:      FIRST values and not a strategy any team should employ.
+2624:      NOTE: This rule is not intended to prevent an ALLIANCE from planning and/or executing its own
+2625:      strategy in a specific MATCH in which all the ALLIANCE members are participants.
+2641:      MATCH, to deliberately miss RANKING POINTS, etc. incompatible with FIRST
+2642:      values and not a strategy any team should employ.
+2651:      strategies, but rather to ensure that it is clear that throwing MATCHES to
+2655:      strategy any team should employ.
+2709:      Violation: MINOR FOUL plus MAJOR FOUL if REPEATED. The ALLIANCE that was forced to break a rule
+2712:      This rule does not apply for strategies consistent with standard gameplay, for
+2717:      B. a red ROBOT attempts to enter their NET ZONE to place a SPECIMEN and
+2736:G211  *Egregious or exceptional violations. Egregious behavior beyond what is listed in the rules or
+2740:      REFEREE may assign a YELLOW or RED CARD for egregious ROBOT actions or team member behavior
+2818:      purposes of transitioning the ROBOT into a MATCH ready state (i.e., not attempts
+2839:          E. reasonable decorative items
+2843:               and communicating strategy within the same designated area (e.g., ALLIANCE AREA)
+2859:                         a. plan or track strategy for the purposes of communication of that strategy to other
+2867:      Use of imagery that, to a reasonably astute observer, mimics the AprilTags
+2898:      quick remedy, DISABLED and, at the discretion of the Head REFEREE, ROBOT must be re-inspected. If a
+2939:      TEAM member must press the (▶) start button on their DRIVER STATION app within a MOMENTARY
+2968:      side of the FIELD during AUTO is a risky gameplay strategy.
+3002:G407 *ROBOTS use SCORING ELEMENT as directed. A ROBOT may not deliberately use a SCORING
+3003:         ELEMENT in an attempt to ease or amplify a challenge associated with a FIELD element other than as
+3004:         intended.
+3010:      B. using SCORING ELEMENTS to elevate ROBOTS in an attempt to ASCEND the
+3026:      A. SCORING ELEMENTS removed from the FIELD while attempting to score
+3030:          attempting to collect them from the OBSERVATION ZONE
+3038:      REFEREE. If an action is repeated throughout the MATCH, it is likely that a
+3044:      Violation: Verbal warning plus MAJOR FOUL if REPEATED. If the damage is caused by a ROBOT, and the
+3048:      SCORING ELEMENTS are expected to undergo a reasonable amount of wear and
+3066:          C. ROBOTS may MOMENTARILY exceed CONTROL limits while collecting SAMPLES that are in the
+3072:      Violation: MINOR FOUL per additional SAMPLE and/or SPECIMEN plus YELLOW CARD if excessive.
+3076:      A. PLOWING or “bulldozing” (inadvertent contact with a SAMPLE or SPECIMEN,
+3078:          typically via a flat or convex surface, while in the path of the ROBOT moving
+3083:      Excessive violations of CONTROL limits include, but are not limited to,
+3085:      greater-than MOMENTARY CONTROL (i.e., more than twice in a MATCH) of 2 or
+3088:      more SAMPLES and/or SPECIMENS. REPEATED excessive violations of this rule
+3090:      of egregious to trigger a G201 violation.
+3093:G412  may only have MOMENTARY CONTROL of opposing ALLIANCE SPECIFIC SAMPLES or SPECIMENS.
+3140:      Violation: if more than MOMENTARY delay MAJOR FOUL, plus RED CARD if CONTINUOUS.
+3166:G417  Violation: Verbal warning plus YELLOW CARD if REPEATED or longer than MOMENTARY, and for any
+3176:      This rule is intended to prevent designs which use LAUNCHING to strategically
+3177:      play the game. Actions that can be perceived as strategically playing the game
+3184:      This is not intended to penalize teams with active manipulators which are
+3198:      Violation: if more than MOMENTARY, MINOR FOUL, or MAJOR FOUL if the over-expansion is used for
+3199:      strategic benefit, including if it impedes or enables a scoring action.
+3201:      This rule is intended to limit the amount of floor area each ROBOT can cover with
+3231:      reach into the SUBMERSIBLE ZONE while attempting to ASCEND, as long as the
+3234:      SUBMERSIBLE ZONE, and this is intended to minimize the extent of that contact.
+3242:G421  *This is not combat robotics. A ROBOT may not deliberately damage or deliberately functionally impair
+3246:      ROBOT, which is not perceived by a REFEREE to be deliberate, is not a violation of this rule.
+3258:      A. A ROBOT high-speed rams and/or REPEATEDLY smashes an opponent
+3260:          deliberately trying to damage the opponent’s ROBOT.
+3267:      drive to a desired location in a reasonable time (generally). For example, if a
+3271:G422  *Do not tip or entangle. A ROBOT may not deliberately, as perceived by a REFEREE, attach to, tip, or
+3280:      B. making frame-to-frame contact with an opponent ROBOT that is attempting
+3294:      drive to a desired location in a reasonable time (generally). For example, if a
+3300:      transitive (such as against a FIELD element) and the opponent ROBOT is attempting to move. A PIN
+3316:      *Do not use strategies intended to shut down major parts of gameplay. A ROBOT or ROBOTS may not,
+3318:      MOMENTARY duration.
+3371:      ZONE while attempting to ASCEND while also allowing incidental contact
+3379:                   ROBOTS that are attempting to play defense within the SUBMERSIBLE ZONE or
+3399:                   inadvertent, MOMENTARY, and inconsequential.
+3416:      Violation: MAJOR FOUL plus YELLOW CARD if greater-than-MOMENTARY.
+3428:      inadvertent, MOMENTARY, and inconsequential.
+3445:               left the FIELD as a result of a ROBOT attempting to collect it from the OBSERVATION ZONE or
+3494:      and/or an extenuating circumstance will be made at the discretion of the head
+3523:reasonable design challenge, adherence to professional standards, and impact on the competition.
+3594:                   length from standard shelf stock that is typically available, welds it into a loop to
+3607:                   special-purpose products to a limited subset of teams in an attempt to
+3626:                   Note that it is possible for an item (typically raw materials) to be neither COTS
+3707:      This rule is intended to limit the amount of floor area each ROBOT can cover with
+3764:          C. any devices or decorations specifically intended to jam or interfere with the remote sensing
+3770:          E. any device intended to produce flames or pyrotechnics,
+3790:      lighting at the discretion of the Head REFEREE and/or LRI.
+3806:      Lubricants used on the ROBOT must not be excessively applied such that they
+3822:      SCORING ELEMENTS are expected to undergo a reasonable amount of wear and
+3871:      COTS parts are intended to help teams design and build ROBOT MECHANISMS
+3872:      to complete game tasks and solve challenges but are not intended to be
+3897:      generally predicted based on the orientation and position of a single
+3907:      Example 2: Dead wheel odometry modules, allowed by this rule, are typically
+4088:          It is important to ensure the voltage provided by the intended power regulation
+4308:      ROBOT-to-ROBOT contact to avoid inadvertent actuation or damage.
+4469:               regulation device. The only exceptions are connections intended for communication between
+4524:      intended by the manufacturer to be modified by users.
+4620:      CONTROLLER Wi-Fi network. No other devices may attempt to connect to, interfere with, or alter the
+4863:      extenders are intended to remain forever plugged into the DRIVER STATION
+4912:      OPERATOR CONSOLE rules are not intended to allow systems that function as a
+4942:          C. FIRST Code of Conduct and Egregious violations may involve escalation beyond the Head
+4967:      Competition Manual is intended to provide a set of rules for the competition including gameplay and
+4972:      are at the discretion of the Event Director such as, but not limited to:
+4997:      egregious.
+4999:      At the discretion of the Head REFEREE at the event, the ARENA may be open for
+5035:          C. Wide-spread wireless interference affecting multiple ROBOTS typically at the same time and on
+5068:T302  *Replays will replicate the conditions of the original MATCH. All reasonable effort is made to create
+5075:          B. the same FIELD will be used unless at the discretion of the Head REFEREE due to severity of
+5105:      Any reasonable question is fair game in the Question Box, and Head REFEREES
+5157:Tournaments may schedule more MATCHES per team at the discretion of FIRST Headquarters and the Event
+5233:      to the ARENA at the designated ALLIANCE selection time (typically just after the last scheduled
+5370:**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.
+5410:**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.
+5458:**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.
+5514:**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.
+5518:Dual Division events are typically larger events which run as two different competition events (e.g., two parallel
+5533:                   utilizes a ”brute force randomizer” approach. It attempts to balance ROBOT performance while
+5543:      D. Child League Split-up (only available for League Tournaments) – Algorithm attempts to balance
+5545:      E. OPR Method – Algorithm attempts to balance the ROBOT performance across the division. It
+5625:**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director
+5631:different League Meet events typically spread over several weeks or months. All the teams in the same League
+5720:team members inside the ARENA to assist with pre-MATCH strategy, ROBOT repair and maintenance, and
+5765:                        A ROBOT is considered ASCENDING once it is attempting to achieve
+5805:                     direction (i.e., herding). Typically, CONTROL requires one of the
+5895:MOMENTARY
+5922:                              attempting to escape it’s not considered a violation.
+5931:                     inadvertent contact with a SAMPLE or SPECIMEN, typically via a flat
+5942:                     a penalty assessed for egregious ROBOT or team member behavior or
+5949:REPEATED                an official who is certified by FIRST to enforce the rules of the current
+6017:                     a warning issued by the REFEREE for egregious ROBOT or team
+
+### Counting words (per-MATCH vs per-instance ambiguity)
+455:The ocean is more than what you can see on the horizon. Beneath the surface lies our planet’s most complex
+539:MECHANISM, or ROBOT. INSPECTORS may re-inspect ROBOTS at any time to ensure compliance with the
+689:League Tournaments. Teams may participate in more than 3 entry-level events, but they are not eligible for
+700:region, up to a Regional Championship. FIRST Headquarters staff determine the advancement from each
+1100:At most events, there are opening and closing ceremonies to show honor and respect for represented
+1118:E702  *Pit person limit during ceremonies is 5. No more than 5 team members may be in the pits during
+1250:          B. no more than 15 pages of judged content (if printing front and back, 8 sheets of paper, including
+1516:math (STEM) community. A true FIRST team is more than a sum of its parts and recognizes that engaging their
+1984:    teams, who are responsible for resetting the FIELD after each MATCH in preparation for the subsequent
+2042:A DRIVE TEAM is a set of up to 4 people from the same FIRST Tech Challenge team responsible for team
+2044:assist ROBOTS, and no more than 1 member of the DRIVE TEAM is allowed to be a non-STUDENT.
+2051:        with more than 1 team). The intent is not to allow teams to “adopt” members of
+2088:Before each MATCH begins, FIELD STAFF stage SCORING ELEMENTS as described in section 10.3.1
+2095:Before each MATCH begins, FIELD STAFF stage SCORING ELEMENTS according to Figure 10-2.
+2196:The first period of each MATCH is 30 seconds long and called the autonomous period (AUTO). During AUTO,
+2202:The second period of each MATCH is 2 minutes (2:00) and called the teleoperated period (TELEOP). During
+2219:Accomplishments are officially scored at the end of each MATCH period based on the status of the FIELD,
+2373:    − CONTINUOUS describes durations that are more than approximately 10 seconds.
+2374:    − REPEATED describes actions that happen more than once within a MATCH.
+2543:G102  MATCH set-up to place their ROBOT or after a MATCH is over to collect their ROBOT when instructed to
+2668:G207  *Show up to your MATCHES. If a ROBOT has passed initial, complete inspection, at least 1 member of
+2680:      Challenge team may only participate in one concurrent event at a time.
+2728:          ZONE intentionally or from more than 1 TILE away.
+2741:      at any time during the event.
+2805:      ALLIANCES to prepare for each MATCH and give DRIVE TEAMS grace given
+2873:G303  *ROBOTS on the FIELD must be set up to play a MATCH. A ROBOT must meet all following MATCH-
+2884:          I. in contact with no more than the allowed pre-load possession limit as described in section
+3053:G410  1 SAMPLE or SPECIMEN at a time. A ROBOT may not CONTROL more than 1 SAMPLE or 1 SPECIMEN
+3054:      at a time, either directly or transitively through other objects. There is no limit to the number of CLIPS a
+3084:      simultaneous CONTROL of 3 or more SAMPLES and/or SPECIMENS, or frequent,
+3085:      greater-than MOMENTARY CONTROL (i.e., more than twice in a MATCH) of 2 or
+3140:      Violation: if more than MOMENTARY delay MAJOR FOUL, plus RED CARD if CONTINUOUS.
+3198:      Violation: if more than MOMENTARY, MINOR FOUL, or MAJOR FOUL if the over-expansion is used for
+3239:Note, G421 and G422 are mutually exclusive. A single ROBOT to ROBOT interaction which violates more than
+3298:G423  *There is a 5-count on PINS. A ROBOT may not PIN an opponent’s ROBOT for more than 5 seconds. A
+3303:          A. the ROBOTS have separated by at least 2 ft. (~61 cm) from each other for more than 5 seconds,
+3304:          B. either ROBOT has moved 2 ft. from where the PIN initiated for more than 5 seconds, or
+3357:          B. Contact occurring with an opponent ROBOT who is extending more than approximately 7 inches
+3433:          A. any number of SCORING ELEMENTS can be manipulated by the HUMAN PLAYER at a time.
+3652:          B. minor protrusions up to 0.25 inches (6.4 mm) by flexible materials (e.g., zip tie, surgical tube,
+4095:R503  *ROBOTS are limited to a total of 8 motors and 12 servos. A ROBOT may not have more than 8 motors
+4513:          C. no more than one additional REV Expansion Hub (REV-31-1153)
+4699:R713  *Always keep control system device software up to date. The following table lists the recommended
+4810:      connected and powered on at a time.
+4830:      *Only limited gamepads are supported. The OPERATOR CONSOLE may have no more than two (2)
+4832:      STATION at any time:
+4868:      CONSOLE may do so as long as no more than two gamepads are connected at
+4874:          A. include more than one (1) connected external USB hub,
+4881:      weigh more than 20 lbs. (~9 kg.) will invite extra scrutiny as they are likely to
+4885:      CONSOLE may do so as long as only one USB hub is connected at any time.
+4947:               REFEREES may only watch one MATCH at a time.
+5112:T402  STUDENT may be accompanied by at most 1 silent observer, who may be an adult or a STUDENT.
+5121:          A. questions regarding events in a qualification MATCH may be asked at any time before
+5261:      team is permitted to have up to 3 additional pit crew members to help with needed ROBOT repairs.
+5328:As shown in Figure 13-2, playoff MATCHES consist of up to six (6) rounds with breaks between later rounds.
+5801:DRIVE TEAM           describes durations that are more than approximately 10 seconds
+5829:                     a set of up to 4 people from the same FIRST Tech Challenge team
+5952:ROBOT CONTROLLER        describes actions that happen more than once within a MATCH
+6007:                     second period of each MATCH is 2 minutes (2:00) and called the
+
+### Timers / thresholds
+2373:    − CONTINUOUS describes durations that are more than approximately 10 seconds.
+2796:      ready within 2 minutes of the verbal warning/MAJOR FOUL and the Head REFEREE perceives no good
+3298:G423  *There is a 5-count on PINS. A ROBOT may not PIN an opponent’s ROBOT for more than 5 seconds. A
+3303:          A. the ROBOTS have separated by at least 2 ft. (~61 cm) from each other for more than 5 seconds,
+3304:          B. either ROBOT has moved 2 ft. from where the PIN initiated for more than 5 seconds, or
+5122:               ALLIANCE selection begins, or within 5 minutes of the last qualification MATCH at events
+
+### Exceptions and carve-outs
+554:not present is eligible to receive qualification MATCH Points or playoff MATCH points provided that its ROBOT
+611:      *Unless the change is listed below, any change to a ROBOT must get re-inspected. A ROBOT may play
+618:      Exceptions are listed below (unless they result in a significant change to the ROBOT’S size, legality, or
+857:      start unless otherwise specified or approved by the Event Director.
+862:      event’s competition FIELD, practice FIELD, and inspection unless pre-approved by the Event Director or
+895:          G. scooters, except for those used for accommodations
+902:      tickets, food, hats, shirts, candy, water, soft drinks, fruit, or any promotional products unless specifically
+934:      prop or simulated weapons which appear to be real. This policy does not apply to law enforcement or
+1114:      C. shout, yell, or use loud voices, unless as a demonstration of approval during a ceremonial
+1227:not consider overall ROBOT performance in an award unless it is specifically listed as part of the required or
+1305:      reasonable accommodations to accept all team PORTFOLIOS unless doing so
+1794:FIELD, while areas are spaces outside of the FIELD. Unless otherwise specified, the tape used to mark lines
+2220:when all ROBOTS and SCORING ELEMENTS have come to rest, except as follows:
+2304:            ii. grasping any other part of the SUBMERSIBLE structure except for the LOW RUNG
+2317:         the SUBMERSIBLE ZONE except for elements used by the ROBOT to contact the
+2376:For each instance of a rule violation, unless otherwise noted, 1 or more of the penalties listed in Table 10-4 are
+2410:carries a YELLOW CARD into subsequent MATCHES, except as noted below. A RED CARD results in MATCH
+2423:CARD into subsequent MATCHES, except as noted below.
+2437:Verbal warnings persist from qualification MATCHES through subsequent tournament phases, except when
+2541:G101  *Humans, stay off the FIELD during the MATCH. Other than actions explicitly allowed in sections
+2657:G206  *Do not abuse ARENA access. A team member (except those DRIVERS, HUMAN PLAYERS, and DRIVE
+2712:      This rule does not apply for strategies consistent with standard gameplay, for
+2851:              I. does not connect or attach to another ALLIANCE member (other than items in category I).
+2856:            IV. does not in any way affect the outcome of a MATCH, other than by allowing the DRIVE
+2940:      delay of the start of the MATCH. This rule does not apply if the (▶) start button is not pressed during
+3003:         ELEMENT in an attempt to ease or amplify a challenge associated with a FIELD element other than as
+3019:      ELEMENTS that leave the FIELD are not returned to gameplay except as allowed in rule G431.
+3089:      do not result in additional YELLOW CARDS unless the violation reaches the level
+3155:      ROBOTS are also prohibited from the following interactions with an ARENA element, except for
+3339:      ZONE. A ROBOT that is being PINNED is exempt from this rule.
+3422:      the FIELD except as specifically allowed by G431 and G432.
+3950:      when installed on the ROBOT, other than the following, are prohibited:
+3960:      ALLIANCE color to be visible to FIELD STAFF, except where permitted by this
+4038:except to facilitate mounting. These motors do not count toward the limit in R503.
+4121:R504  *Do not modify actuators unless explicitly allowed. The integral mechanical and electrical system of
+4123:      in any way, except as follows:
+4243:      *Batteries are not ballast. No batteries other than those allowed per R601 and R602 are allowed on the
+4365:R613  *No high voltage allowed except for LEDs. Any active electrical item that is not an actuator (specified
+4367:      CIRCUITS shall not provide regulated output voltages exceeding 5V, except if solely used for powering
+4404:      Motor Power (unless otherwise listed)                 22 AWG
+4430:R616  *Use specified wire colors. All non-SIGNAL LEVEL wiring with a constant polarity (i.e., except for
+4461:      Devices that modify actuator control signals or power (except those allowed by
+4467:          A. other than power used to energize the power regulation device (per R614) no power originating
+4515:      *Teams may not alter coprocessor software. Modifying software on coprocessors, unless explicitly
+4629:         from, or within the ROBOT, except those specified per R706 and R708.
+4634:      wireless communication devices and thus this rule does not apply.
+4770:      *Lasers must be safe. Lasers are not allowed unless they meet all of the following criteria:
+4794:R801 *No Pneumatics. No closed air systems are allowed on FIRST Tech Challenge ROBOTS except for
+4887:R906  *ROBOT application wireless communication only. Other than the connection controlled by the ROBOT
+5039:          E. errors by FIELD STAFF (except those listed in section 10.8 Other Logistics)
+5075:          B. the same FIELD will be used unless at the discretion of the Head REFEREE due to severity of
+5184:All teams are assigned the same number of qualification MATCHES, equal to the number of rounds, unless the
+5339:delay is provided for teams to reset their ROBOTS prior to the MATCH unless all teams are ready sooner
+5642:season. A team can participate in a League outside their region, provided that is the only league they
+5644:of their region unless the Program Delivery Partners. in both regions have agreed to move a team to a new
+5648:except that qualification rankings as described in section 13.5 Qualification MATCHES are calculated with
+5665:Awards from section 6 Awards (A) are all awarded in each division only, except for as shown in Table 15-1.
+5702:Round 2: The same method is used for each ALLIANCE lead’s second choice except the selection order is
+
+### Scored-live vs scored-at-end (decides whether AUTO work compounds)
+2218:All accomplishments are tracked live by FIELD STAFF and certified at the end of the MATCH.
+2219:Accomplishments are officially scored at the end of each MATCH period based on the status of the FIELD,
+2223:                   the end of the MATCH period following AUTO and TELEOP, or when all ROBOTS have come to
+2226:              B. scoring achievements that occur after the end of the AUTO period and before the start of the
+2273:LEVEL 2                  ROBOT is in contact with the LOW RUNG at the end of a MATCH
+2277:                         end of the MATCH (per section 10.5 Scoring item A)
+2280:                         above the top of the LOW RUNG at the end of the MATCH (per
+2290:         by the REFEREES, at the conclusion of their ASCENT are still eligible for ASCENT
+2325:criteria are met at the end of the MATCH period. In this scenario, if a ROBOT
+2436:All YELLOW CARDS are cleared at the conclusion of qualification MATCHES, and division playoff MATCHES.
+2946:      the end of the AUTO period. This can be done by a DRIVE TEAM member pressing the (■) stop button
+2987:G406  *ROBOTS are motionless at the end of TELEOP. ROBOTS must no longer be actively controlled by
+2990:      end of the MATCH period.
+2996:      end of the MATCH period. The end of MATCH period buzzer audio cue is
+3262:      At the conclusion of the MATCH, the Head REFEREE may elect to visually inspect
+5280:At the end of the Qualification MATCHES, the top ranked teams become the ALLIANCE leads. The designated
+5639:also clear at the end of each League Meet event.

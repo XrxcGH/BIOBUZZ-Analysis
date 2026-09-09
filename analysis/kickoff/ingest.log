@@ -1,0 +1,115 @@
+== 1. Extracting text ==
+   pages=188  lines=7008
+== 2. Rule inventory (validated PDF parser, not regex) ==
+   ### BIOBUZZ_Competition_Manual_KICKOFF: 188pp rules=214 evergreen=197 game-specific=17 unpaired=0 orange-box lines=1316 penalty lines=114
+      sections: 16 {"Section 1 Introduction": "V2", "Section 2 FIRST Season Overview": "V3", "Section 3 Competition Eligibility and Inspection (I)": "V3", "Section 4 Advancement": "V3", "Section 5 Event Rules (E)": "V2", "Section 6 Awards (A)": "V10
+      GAME-SPECIFIC (orange) ids -- read every one of these first: G402 G408 G414 G415 G416 G417 G418 G419 G424 G425 G426 G427 G432 G433 G434 R105 C501
+      wrote C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF/rules_new.tsv
+   V0=109  NEW=214
+   ADDED=107  REMOVED=2
+   --- G-rules (the new game rules) ---
+   G101 G102 G201 G202 G203 G204 G205 G206 G207 G208 G209 G210 G211 G212 G301 G302 G303 G304 G305 G401 
+   G402 G403 G404 G405 G406 G407 G408 G409 G410 G411 G412 G413 G414 G415 G416 G417 G418 G419 G420 G421 
+   G422 G423 G424 G425 G426 G427 G428 G429 G430 G431 G432 G433 G434 
+== 3. Evergreen vs game-specific split ==
+   evergreen=197  game-specific=17  unpaired=0
+   --- READ THESE FIRST (game-specific) ---
+   G402  No AUTO opponent interference.
+   G408  No more than 3 at a time.
+   G414  ROBOTS have horizontal expansion limits.
+   G415  ROBOTS have vertical expansion limits, with exceptions.
+   G416  LAUNCHING in the LAUNCH ZONE only.
+   G417  ROBOTS only operate GATES as directed.
+   G418  ROBOTS may not meddle with ARTIFACTS on RAMPS.
+   G419  ROBOTS LAUNCH into their own GOAL.
+   G424  GATE ZONE is OFF LIMITS.
+   G425  Keep out of opponent’s SECRET TUNNEL
+   G426  LOADING ZONE protection.
+   G427  BASE ZONE protection.
+   G432  Humans, only meddle with ARTIFACTS in the LOADING ZONE.
+   G433  Humans may only enter SCORING ELEMENTS.
+   G434  The ALLIANCE AREA has a storage limit.
+   R105  There are expansion limits.
+   C501  da Vinci round-robin DISQUALIFICATIONS are handled differently
+== 4. Text diff vs V0 (carried-over sections) ==
+   diff lines: 9072
+== 5. Glossary terms + NOVEL game nouns ==
+   glossary terms: 14   NOVEL all-caps: 64
+   --- NEW GAME VOCABULARY, most frequent first (these name the game) ---
+   ARTIFACTS(87) ARTIFACT(70) GATE(65) GOAL(58) RAMP(50) BASE(40) LAUNCH(32) PATTERN(31) DECODE(27) 
+   OBELISK(23) LOADING(22) SQUARE(21) CLASSIFIED(19) MOTIF(17) DEPOT(16) OVERFLOW(15) TUNNEL(11) 
+   SECRET(11) LINE(10) BILDA(10) CLASSIFIER(9) LEAVE(5) LAUNCHES(5) MOTIFS(4) LINES(4) GPP(4) WPI(3) 
+   PGP(3) VDC(2) SPARK(2) 
+== 6. Scoring / numeric harvest ==
+   scoring=25  penalty=168  timing=49
+== 7. Section splits ==
+   section headings captured: 80
+   --- per-section version stamps (non-V0 = changed since pre-season) ---
+   Section 1 Introduction V2
+   Section 10 Game Details V9
+   Section 11 Game Rules (G) V15
+   Section 12 ROBOT Construction Rules (R) V6
+   Section 13 Tournament (T) V10
+   Section 14 League Play Tournaments (L) V1
+   Section 15 FIRST Championship (C) V4
+   Section 16 Glossary V2
+   Section 2 FIRST Season Overview V3
+   Section 4 Advancement V3
+   Section 5 Event Rules (E) V2
+   Section 6 Awards (A) V10
+   Section 7 Game Sponsor Recognition V1
+   Section 8 Game Overview V1
+   Section 9 ARENA V8
+== 8. Loophole tripwires ==
+   tripwire hits: 343
+== 9. Tables by geometry (the scoring table is NOT readable in the flat text) ==
+   == BIOBUZZ_Competition_Manual_KICKOFF: 101 tables from 188 page(s) -> C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF/tables
+        TABLES.md / tables.tsv / INDEX.txt
+   --- tables that carry numbers you will build a strategy on ---
+   28:  88      1   15 x 9           Table 10-2: DECODE point values
+   29:  88      2    5 x 10          Table 10-3: DECODE RP thresholds
+   65: 133      1   16 x 5           Table 12-1: Motor allowances
+   66: 134      1   13 x 8           Table 12-2: Servo Requirements at 6V
+   85: 162      1    7 x 4           Table 13-1: Qualification MATCH ranking criteria
+   96: 181      1    6 x 6           Table 15-3: da Vinci Round-Robin Tournament Ranking Criteria
+== 10. Full rule bodies + orange boxes (loophole-hunting input) ==
+   == BIOBUZZ_Competition_Manual_KICKOFF: 214 rules (0 unpaired), 179 orange boxes
+      short rules (< 8 words), check for extraction loss: E503 E505 E506 G412 R304
+   == wrote C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF/rulebodies
+        rules_full.md  (308.0 KB)
+        rules_full.tsv  (218.7 KB)
+        VIOLATIONS.tsv  (7.9 KB)
+        ORANGE_BOXES.md  (85.6 KB)
+   G-rule bodies: 53 rules
+== 11. Rendering the pages text cannot carry (ARENA figures + scoring table) ==
+   == rendering 37 page(s) from BIOBUZZ_Competition_Manual_KICKOFF.pdf (188pp) at 130 dpi
+   == section map from the PDF outline:
+   == 37 image(s), 10.2 MB total -> C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF/figures
+   == manifest: C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF/figures\MANIFEST.txt
+== 12. HTML edition (the second, independent pipeline) ==
+   (no HTML edition found - fetch .../game/cm-html, or pass HTML=<file>. Optional,
+    but it is the cleanest source for the scoring table and the orange-box split.)
+
+==========================================================
+ INGEST COMPLETE -> /c/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF
+==========================================================
+ Key files to hand to Claude:
+   html/tables_html.md     ** THE SCORING TABLE, cleanest source ** (if the HTML was found)
+   html/rules_full_html.md every rule + Violation + orange boxes tagged NON-BINDING
+   tables/TABLES.md        ** THE SCORING TABLE ** - use this, never the flat text
+   figures/*.png           ARENA + Game Details pages as images (upload with the text)
+   rulebodies/rules_full.md   complete text of every rule, orange boxes separated
+   rulebodies/VIOLATIONS.tsv  every penalty sentence, by rule id
+   full_layout.txt         full manual text (UTF-8)
+   rules_GAMESPECIFIC.txt  ** START HERE ** orange-headline rules = new/changed this game
+   rules_ADDED.txt         every NEW rule id vs V0
+   rules_EVERGREEN.txt     rules that carry over (low review priority)
+   rules_UNPAIRED.txt      if non-empty the parser broke — layout changed, verify by hand
+   caps_NOVEL.txt          NEW ALL-CAPS game vocabulary (names the scoring elements/zones)
+   section_versions.txt    per-section version stamps; non-V0 = changed
+   DIFF_vs_V0.patch        exactly what FIRST changed in carried-over text
+   TRIPWIRES.txt           ambiguity/loophole candidate lines
+   scoring_mentions.txt / penalty_mentions.txt / timing_mentions.txt
+
+ Next: open reference/ANALYSIS-PROTOCOL.md and run phases R0-R8.
+       Copy-paste prompts: reference/REVIEW-PROMPTS-STRATEGY.md

@@ -1,0 +1,70 @@
+id	page	violation
+I302	17	If prior to the start of the MATCH, the team is DISQUALIFIED and not eligible toparticipate in  the MATCH. If after the start of the MATCH, the team receives a REDCARD for that MATCH.
+I304	17	ROBOT must be inspected before participating in a MATCH or the team will receive a RED  CARD.
+I307	18	Inspection will not continue until a STUDENT is present.   Universal Violation Note: A violation of any Event Rules (E) will result in a verbal warning. Egregious or  subsequent violations will be addressed by the Head REFEREE, the lead ROBOT INSPECTOR (LRI) and/or  Event Director and may result in disqualification for the team from MATCHES and awards. Criminal  behavior will not be tolerated and will result in removal of individual(s) involved and/or disqualification for  the team from the event.
+E105	22	Failure to check in may result in a team not participating in the event.
+E302	25	Verbal warning, plus subsequent and/or egregious violations may lead to dismissal from the  event and/or legal action based on applicable laws.
+E504	26	Any items that are deemed unsafe or outside specifications by FIRST personnel and/or the  Event Director must be removed.
+E505	26	Teams will be asked to remove or not bring in floor standing power tools. Any items that are  deemed unsafe or outside specifications by FIRST personnel and/or Event Director must be removed.
+E506	26	Teams will be asked to remove or not bring in brazing/welding tools. Any items that are  deemed unsafe or outside specifications by FIRST personnel, and/or Event Director must be removed.
+E507	26	Any items that are deemed unsafe or outside specifications by FIRST personnel and/or the  Event Director must be removed.
+E508	26	Any pit structures that are deemed unsafe or outside specifications by FIRST personnel and/or  the Event Director must be removed.
+E509	26	Any pit structures that are deemed unsafe or outside specifications by FIRST personnel and/or  the Event Director must be removed.
+E510	26	Any items that are deemed unsafe or outside specifications by FIRST personnel and/or the  Event Director must be removed.
+G101	71	Verbal warning plus YELLOW CARD if subsequent violations occur during the event.
+G102	71	Verbal warning plus YELLOW CARD if subsequent violations occur during the event.
+G201	71	Verbal warning plus YELLOW CARD if subsequent violations occur during the event. Further  violations of this rule are addressed in rule G211.
+G202	72	Verbal warning plus YELLOW CARD if subsequent violations occur during the event.
+G203	72	Verbal warning plus YELLOW CARD if subsequent violations occur during the event.
+G204	72	Verbal warning plus YELLOW CARD if subsequent violations occur during the event.
+G205	73	Verbal warning plus YELLOW CARD if subsequent violations occur during the event.
+G206	73	Verbal warning plus YELLOW CARD if subsequent violations occur during the event.
+G207	73	DISQUALIFIED from the current MATCH.
+G208	73	Verbal warning plus RED CARD if not corrected.
+G209	74	RED CARD.
+G210	74	MINOR FOUL plus MAJOR FOUL if REPEATED. The ALLIANCE that was forced to break a rule  will not incur a FOUL.
+G211	74	YELLOW or RED CARD.
+G301	75	If a Qualification MATCH, verbal warning plus a MAJOR FOUL if subsequent violations occur  within the tournament phase, and is applied to their upcoming MATCH. If the DRIVE TEAM is not MATCH  ready within 2 minutes of the verbal warning/MAJOR FOUL and the Head REFEREE perceives no good  faith effort by the DRIVE TEAM to quickly become MATCH ready, DISABLED. If a playoff MATCH, a verbal  warning is issued to the ALLIANCE. For subsequent violations within the tournament phase, a MAJOR  FOUL applied to the ALLIANCE'S upcoming MATCH. If the ALLIANCE is not MATCH ready within 2  minutes of the verbal warning/MAJOR FOUL having been issued, and the Head REFEREE perceives no  good faith effort by the DRIVE TEAM(s) to quickly become MATCH ready, the offending team's ROBOT is  DISABLED.
+G302	76	MATCH will not start until the situation is remedied. If discovered or used inappropriately  during a MATCH, YELLOW CARD.
+G303	77	If there is a quick remedy, the MATCH will not start until all requirements are met. If it is not a  quick remedy, DISABLED and, at the discretion of the Head REFEREE, ROBOT must be re-inspected. If a  ROBOT not compliant with part B or C participates, its team receives a RED CARD.
+G304	77	MATCH will not start until the situation is remedied. If ROBOT cannot initialize an OpMode or  the situation cannot be remedied quickly, DISABLED.
+G401	78	MAJOR FOUL.
+G402	78	MAJOR FOUL plus YELLOW CARD if subsequent violations occur during the event.
+G403	78	MINOR FOUL or MAJOR FOUL if actions result in a scoring achievement by the offending  ROBOT.
+G404	78	MAJOR FOUL each occurrence.
+G405	79	MAJOR FOUL plus YELLOW CARD if subsequent violations occur during the event.
+G406	79	MINOR FOUL or MAJOR FOUL if actions result in a scoring achievement by the offending  ROBOT.
+G407	79	MAJOR FOUL per SCORING ELEMENT.
+G408	79	MAJOR FOUL per SCORING ELEMENT.
+G409	80	Verbal warning plus MAJOR FOUL if REPEATED. If the damage is caused by a ROBOT, and the  Head REFEREE determines that further damage is likely to occur, DISABLED. The ROBOT will then be  required to pass reinspection before competing in subsequent MATCHES.
+G410	80	MINOR FOUL per additional SAMPLE and/or SPECIMEN plus YELLOW CARD if excessive.
+G411	81	MINOR FOUL per SCORING ELEMENT plus an additional MINOR FOUL per opposing SCORING  ELEMENT for each 5-second interval that the situation continues. A MAJOR FOUL is applied for each  SCORING ELEMENT that is scored while in CONTROL.
+G412	81	MAJOR FOUL per SCORING ELEMENT that is de-scored.
+G413	81	YELLOW CARD and DISABLED if unsafe or CONTINUOUS.
+G414	81	if more than MOMENTARY delay MAJOR FOUL, plus RED CARD if CONTINUOUS.
+G415	81	Verbal warning plus YELLOW CARD if subsequent violations occur during the event.
+G416	82	Verbal warning plus YELLOW CARD if REPEATED or longer than MOMENTARY, and for any  subsequent damage during the MATCH or event. If the Head REFEREE infers that damage is likely,  DISABLED. Corrective action (such as eliminating sharp edges, removing the damaging MECHANISM,  and/or reinspection) may be required before the ROBOT will be allowed to compete in subsequent  MATCHES.
+G417	82	MINOR FOUL per SCORING ELEMENT LAUNCHED.
+G418	83	if more than MOMENTARY, MINOR FOUL, or MAJOR FOUL if the over-expansion is used for  strategic benefit, including if it impedes or enables a scoring action.
+G419	83	MINOR FOUL per occurrence plus YELLOW CARD if the ROBOT contacts the HUMAN PLAYER.
+G420	83	MAJOR FOUL and team will not receive credit for ASCENT scoring outlined in section 10.5.3.
+G421	84	MAJOR FOUL and YELLOW CARD, or if opponent ROBOT is unable to drive, then MAJOR FOUL  and RED CARD.
+G422	84	MAJOR FOUL and YELLOW CARD, or if CONTINUOUS or opponent ROBOT is unable to drive,  then MAJOR FOUL and RED CARD.
+G423	85	MINOR FOUL plus an additional MINOR FOUL for every 5 seconds in which the situation is not  corrected.
+G424	85	MINOR FOUL plus an additional MINOR FOUL for every 5 seconds in which the situation is not  corrected.
+G425	85	MAJOR FOUL per occurrence.
+G426	85	MINOR FOUL plus MINOR FOUL for every 5 seconds the violation continues. Additional MINOR  FOUL for every SCORING ELEMENT contacted inside the OBSERVATION ZONE.
+G427	86	MAJOR FOUL plus the affected ALLIANCE ROBOT is awarded a LEVEL 3 ASCENT.
+G428	87	Verbal warning plus a MINOR FOUL if subsequent violations occur at any point during the  event.
+G429	88	MAJOR FOUL plus YELLOW CARD if greater-than-MOMENTARY.
+G430	88	MAJOR FOUL per occurrence plus YELLOW CARD if the DRIVE TEAM member contacts the  ROBOT.
+G431	88	MINOR FOUL per occurrence plus YELLOW CARD if the HUMAN PLAYER contacts the ROBOT.
+G432	89	MINOR FOUL per occurrence plus YELLOW CARD if the HUMAN PLAYER contacts the ROBOT.
+G433	89	MAJOR FOUL per SCORING ELEMENT.
+G434	89	MINOR FOUL per occurrence.
+G501	90	Verbal warning plus YELLOW CARD if subsequent violations occur at any point during the  event.
+G502	90	Verbal warning plus YELLOW CARD if subsequent violations occur at any point during the  event.
+T205	122	Verbal warning, plus YELLOW CARD if subsequent violations at any point during the event or  egregious.
+T401	124	The Head REFEREE will not address additional, non-compliant team members or peripheral  conversations.
+T601	127	Teams who do not send a representative are ineligible for the playoff tournament
+T602	127	The ALLIANCE CAPTAIN must make another selection

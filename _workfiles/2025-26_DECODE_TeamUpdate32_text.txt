@@ -1,0 +1,2155 @@
+Team Update 32
+
+General
+
+Last One
+Team Update 32 is the final Team Update of the 2025-2026 DECODETM presented by RTX season.
+
+Competition Manual
+
+N/A
+
+Team Update 32  April 16, 2026                                                              1 of 1
+Team Update 31
+
+General
+
+N/A
+
+Competition Manual
+
+N/A
+
+Team Update 31      April 9, 2026  1 of 1
+Team Update 30
+
+General
+
+FIRST Championship Blog: da Vinci Tournament
+
+A blog with details about da Vinci tournament and changes at FIRST Championship has been posted.
+
+Portfolios for the FIRST Championship
+
+As a reminder, team PORTFOLIOS to be used during the judging process at the FIRST Championship must be
+submitted online by April 6th, at 11:59 PM CDT. More details for how to submit can be found in the FTC Scoring
+- Team and Coach Guide.
+Q&A
+The Q&A System closes April 22nd, at 12 noon EDT. Teams attending the FIRST Championship are invited to
+submit questions for the Driver's Meeting through the online submission form by Wednesday April 29, 12:00
+noon CDT.
+
+Competition Manual
+
+10.3 Setup
+
+10.3.1 SCORING ELEMENTS
+Note: There are no changes to the number, type, or distribution of SCORING ELEMENTS used at FIRST
+Championship.
+
+10.4 MATCH Periods
+
+                   At the FIRST Championship and FIRST Premier events, the timing of the transition
+                   between AUTO and TELEOP may vary from event to event. Details for the FIRST
+                   Championship are outlined in section 15.2.2 Scoring and Timing.
+
+10.5 Scoring
+
+All achievements are updated by FIELD STAFF throughout the MATCH. Scoring achievements are assessed as
+follows:
+
+              A. Assessment of ARTIFACTS as either CLASSIFIED or OVERFLOW occurs throughout the MATCH
+                   and continues until all ARTIFACTS have come to rest following the conclusion of the MATCH.
+                   ARTIFACTS scored after the end of AUTO are assessed as part of TELEOP. ARTIFACTS that
+                   meet scoring criteria prior to the start of TELEOP are assessed as part of AUTO
+
+              B. Assessment of AUTO PATTERN scoring occurs at the end of AUTO when all ARTIFACTS have
+                   come to rest following the conclusion of AUTO or the start of TELEOP, whichever comes first.
+
+Team Update 30  April 2, 2026  1 of 5
+10.5.4 Point Values                   Table 10-3: DECODE RP thresholds
+
+                         RP Type           FIRST        Regional        All Other
+                         MOVEMENT RP  Championship  Championships       Events*
+                         GOAL RP
+                         PATTERN RP   21                 21                 16
+
+                                      67                 42                 36
+
+                                      22                 22                 18
+
+13.2 General Tournament Rules
+
+T206 *No team timeouts, but MATCHES have breaks.
+
+                   During FIRST Championship da Vinci round-robin Playoff MATCHES, each team
+                   will have a minimum break of 8 minutes from when a MATCH concludes until the
+                   expected start time of their next MATCH for the purpose of G301.
+
+15.2 Game Modification
+
+The number, type, and distribution of SCORING ELEMENTS and scoring achievement (RP) thresholds may be
+adjusted for the FIRST Championship DECODE tournament. Any game modifications will be published in or
+before the last regularly scheduled Team Update as described in section 1.8 Team Updates. Game
+modifications for the FIRST Championship are outlined below.
+
+15.2.1 FIELDS
+
+All division FIELDS will be placed on risers which are elevated approximately 24 in. (60.95 cm) from the floor.
+All DRIVE TEAM members and FIELD STAFF will be at floor level. Approximately 50% of the practice FIELDS
+will also be elevated for teams to use. To see examples of how the elevated FIELD looks, please watch the field
+tour video from Kickoff.
+
+Some or all division FIELDS may also have additional modifications which change their appearance, including
+different or additional decals, metal coatings, material changes, and lights. Every effort will be made to ensure
+these modifications are exclusively aesthetic in nature and will not affect the performance of the FIELD or
+impact ROBOT designs. The details of these modifications will be published in or before the last regularly
+scheduled Team Update as described in section 1.8 Team Updates.
+
+FIELDS at the FIRST Championship will include the following changes which are aesthetic in nature and will not
+affect the performance of the FIELD or impact ROBOT designs:
+
+    · Metal FIELD components (including the RAMP brackets and extrusions) will be black anodized.
+
+Team Update 30                            April 2, 2026                            2 of 5
+· All AprilTags will be printed in a matte material which is more glare resistant.
+
+· The two side faces of the OBELISK will be partially obstructed, and teams should not rely on these
+    "side" AprilTags to determine the randomized MOTIF selected in each MATCH. The face of the
+    OBELISK facing the FIELD will not be obstructed.
+
+· Several of the screw and nut fasteners used to attach metal brackets to the GOAL will be replaced with
+    aluminum pop-rivets.
+
+· There will be decorative signs attached to the outside of the clear panels of the rear FIELD wall, facing
+    the FIELD. These will be white plastic panels with logos and divisional information.
+
+15.2.2 Scoring and Timing
+
+At FIRST Championship, the transition between AUTO and TELEOP is 15 seconds, instead of the 8-second
+transition mentioned in Section 10.1, Section 10.4, Table 9-1, and Section 16 in the definition of MATCH.
+
+15.5 FIRST Championship Playoffs
+
+Note: The following sections have been added to Section 15.5 with details about the FIRST Championship playoff
+tournament structure.
+
+Each division will play in an 8-ALLIANCE double elimination playoff tournament, as outlined in Section 13.7.6
+8-ALLIANCE Bracket and Typical Timing. The ALLIANCE that wins their division playoff bracket is the
+Division Champion.
+
+15.5.1 da Vinci Tournament MATCH Bracket
+The 6 Division Champions play a round-robin style tournament. In this format, each Division Champion plays 1
+MATCH against each of the other Division Champions. The order of MATCHES is shown in Table 15-2.
+
+                                    Table 15-2 da Vinci playoff schedule
+
+Round  MATCH               Field 1  Field 2                               Field 3             Field 4
+   1
+   2       1      Blue      Red     Blue  Red        Blue                          Red  Blue           Red
+   3       2    Franklin   Edison
+           3
+                                    Goodall Jackson
+           4
+           5                                         Ross Lovelace
+           6
+                                          Break
+           7
+           8                                                                            Franklin Goodall
+           9
+                Jackson Ross
+
+                                    Edison Lovelace
+                                              Break
+
+                                                     Franklin Jackson
+
+                                                                                        Edison Ross
+
+                Goodall Lovelace
+
+                                          Break
+
+Team Update 30                      April 2, 2026                                                      3 of 5
+Round MATCH           Field 1  Field 2                  Field 3                     Field 4
+
+                 Blue  Red     Blue    Red              Blue     Red          Blue              Red
+                               Ross  Franklin
+            10
+
+4           11                                          Edison  Goodall
+
+            12                                                                Lovelace          Jackson
+
+                                     Break
+
+            13   Goodall Ross
+
+5           14                 Jackson Edison
+
+            15                                          Lovelace Franklin
+
+                                     Break
+
+Event Finals 1                                                                RR2               RR1
+
+                                     Break
+
+Event Finals 2   RR2   RR1
+
+                                     Break
+
+Event Finals 3*  RR2   RR1
+
+*As needed
+
+15.5.2 da Vinci Round-Robin Tournament Ranking
+In the FIRST Championship da Vinci round-robin tournament, ALLIANCES do not earn any Ranking Points; they
+earn Championship Points. Championship Points are units credited to an ALLIANCE based on their
+performance in each MATCH and are awarded at the completion of each da Vinci round-robin tournament
+round.
+
+· The winning ALLIANCE receives 2 Championship Points.
+
+· The losing ALLIANCE receives 0 Championship Points.
+
+· In the event of a tied score, each ALLIANCE receives 1 Championship Point.
+
+C501  da Vinci round-robin DISQUALIFICATIONS are handled differently. A team and/or ALLIANCE that is
+      DISQUALIFIED from a da Vinci round-robin MATCH, as determined by the Head REFEREE, causes their
+      ALLIANCE to receive 0 Championship Points and 0 for all other round-robin ranking criteria for the
+      MATCH.
+
+The total number of Championship Points earned by an ALLIANCE throughout the da Vinci round-robin
+MATCHES divided by the number of da Vinci round-robin MATCHES in which they have been scheduled is their
+Championship Score (CS).
+
+All ALLIANCES participating in da Vinci round-robin MATCHES are ranked as shown in Table 15-3.
+
+Team Update 30                 April 2, 2026                                                    4 of 5
+Order Sort           Table 15-3: da Vinci Round-Robin Tournament Ranking Criteria
+1st             Criteria
+                Championship Score (CS)
+2nd             Average ALLIANCE MATCH points, not including MINOR FOULS and MAJOR FOULS
+3rd             (Average MATCH points minus FOULS)
+4th             Average BASE points
+5th             Average AUTO points
+                Random sort by the FIRST event management software
+
+15.5.3 FIRST Championship da Vinci Finals
+The 2 ALLIANCES with the highest rank at the conclusion of the da Vinci round-robin tournament advance to
+the da Vinci Finals with rank 1 as the red ALLIANCE and rank 2 as the blue ALLIANCE. In the da Vinci Finals,
+ALLIANCES do not earn Ranking Points or Championship Points.
+
+The first ALLIANCE to win 2 MATCHES in da Vinci Finals is declared the 2026 FIRST Tech Challenge
+Champions.
+
+During the da Vinci Finals, if the MATCH score of each ALLIANCE is equal (i.e., the MATCH resulted in a tie), an
+additional MATCH will be played.
+
+More information about the FIRST Championship playoff tournament structure
+will be released as part of a future Team Update.
+
+Team Update 30  April 2, 2026                                               5 of 5
+Team Update 29
+
+General
+
+N/A
+
+Competition Manual
+
+No updates this week!
+
+Team Update 29         March 26, 2026  1 of 1
+Team Update 28
+
+General
+
+FIRST Championship Judging
+A blog with details about updates to FIRST Championship Judging has been posted.
+
+Competition Manual
+
+6.1 Team Judged Awards Overview and Schedule
+
+6.1.2 Structured Interview
+All teams are encouraged to prepare for a structured interview session where the team can present a prepared
+oral presentation to a small panel of JUDGES, followed by a Q&A session. Typically, these interviews follow a
+standard timeline (Figure 6-3) and last at least 10 minutes long, per A205.
+
+                   Instead of the structured interview, interviews conducted at the FIRST
+                   Championship have a different format. Teams should refer to the interview
+                   format outlined in Section 15.1.2 for more details.
+
+6.2 Team Judged Award Rules
+
+This section outlines rules for in-person judging of Team Judged Awards. Modifications for the judging
+process at the FIRST Championship can be found in Section 15.1.
+
+15.1 Awards Modifications
+
+The Judging process may will be modified for the FIRST Championship to accommodate for venue limitations
+and the large number of teams at the event. Any process or awards modifications will be published in or
+before the last regularly scheduled Team Update as described in section 1.8 Team Updates. The process and
+awards modifications are described below.
+
+Awards from section 6 Awards (A) are all awarded in each division only, except for as shown in Table 15-1.
+All teams attending the FIRST Championship are eligible for any team judged award they meet the criteria for
+regardless of awards won at prior events.
+
+                                                                Table 15-1: FIRST Championship Awards
+
+Award                   Per Division             FIRST Championship
+
+Inspire Award           1st, 2nd, and 3rd Place  1st Place*
+
+FIRST Leadership Award  0                        10
+
+Compass Award           0                        1
+
+*The FIRST Championship Inspire Award Winner will be selected from one of the 6 Division
+
+                        Inspire Award Winners.
+
+Team Update 28          March 19, 2026                                                                  1 of 2
+15.1.1 Championship Portfolio Submissions
+
+As outlined in A201 and A202, teams have the opportunity submit a team PORTFOLIO to be used as part of the
+judging process. For the FIRST Championship, teams will be required to submit their PORTFOLIOS online
+ahead of the event. PORTFOLIO submission instructions can be found in the FTC Scoring - Team and Coach
+Guide. PORTFOLIOS can be uploaded between March 27th and April 6th at 11:59 PM CDT. For any issues with
+PORTFOLIO submissions please email customerservice@firstinspires.org.
+
+15.1.2 Championship Interview Process
+
+At the FIRST Championship, instead of a structured interview, teams will be judged in pit-based interviews.
+Teams must attend the initial pit interview to be considered for any judged awards at the FIRST Championship.
+
+During the initial pit interview, teams will have up to 10 minutes to talk to the JUDGES. There are no restrictions
+on the number of people or restrictions on recordings of audio or video, or photos besides restrictions outlined
+in E117 during the pit-based interviews.
+
+Initial interviews consist of the following:
+
+    A. In addition to submitting their PORTFOLIOS as outlined in Section 15.1.1, teams are encouraged to
+         have an electronic or physical copy of their PORTFOLIO or other supporting materials available to
+         reference during this interview.
+
+    B. Teams have the opportunity to give a prepared 5-minute uninterrupted presentation
+    C. Teams will be asked the same baseline questions:
+
+              a. Did your team have to make any compromises in your ROBOT design?
+              b. How did your team set your goals and strategies for the season?
+    D. If time allows, teams may be asked additional questions by the JUDGES on
+              a. Machine, Creativity, and Innovation (MCI) topics
+              b. Team Attributes (TA) topics
+
+                   Teams should inform the JUDGES at the start of the interview if they have a
+                   presentation or want to proceed directly into the Q&A session.
+                   Teams should be conscious of the time allocated for their interview. Although a
+                   team may opt to give a presentation, it is not required, and teams will not be
+                   given additional questions and answer time to accommodate this presentation.
+                   The interview will conclude after approximately 10 minutes with the JUDGES.
+
+After this initial interview is conducted, JUDGES will continue the judging process using information they
+gather from the PORTFOLIO (if submitted) and additional interviews outlined in section 6.1.3 Pit
+Interview(s).
+
+                   Teams are encouraged to have one representative present in their pit during
+                   active judging windows as noted in the Event Public Schedule to help coordinate
+                   a meeting with the JUDGES.
+
+                   Judges will make every effort to interview teams in their pit, while respecting
+                   MATCH and lunch schedules. When necessary, interviews may take place
+                   elsewhere in the pit area, such as in the practice FIELD line.
+
+15.1.3 Championship Compass Award Submissions
+
+Videos for Compass Award at the FIRST Championship can be submitted by Lead Coach 1 or 2 using the
+submission form by April 8th.
+
+Team Update 28  March 19, 2026  2 of 2
+Team Update 27
+
+General
+
+FIRST Championship Information
+
+Information about the FIRST Championship has been posted in this recent blog. Additional information will be
+posted in the upcoming weeks.
+
+Competition Manual
+
+N/A
+
+Team Update 27  March 12, 2026  1 of 1
+Team Update 26
+
+General
+
+No updates this week!
+
+Competition Manual
+
+N/A
+
+Team Update 26         March 5, 2026  1 of 1
+Team Update 25
+
+General
+
+No updates this week!
+
+Competition Manual
+
+N/A
+
+Team Update 25         February 26, 2026  1 of 1
+Team Update 24
+
+General
+
+Awards Webpages
+
+Effective at FIRST events beginning February 18, the Dean's List Award will be known as the FIRST® Leadership
+Award for the 2025-2026 season.
+
+The award's purpose, criteria, and significance remain unchanged. It continues to recognize exceptional
+student leaders who demonstrate technical expertise, advance the mission of FIRST, and exemplify our core
+values. Historical records of recipients from previous seasons will not be updated at this time.
+
+The FIRST Tech Challenge Leadership Award webpage has been updated to make changes to this award name
+and all files linked on these pages have also been updated to align.
+
+Competition Manual
+
+4.1 Advancement Points Calculation
+
+4.1.4 Team Judged Awards
+
+Teams only get points for team awards judged at the event. If an award is not judged, is not for a team (e.g.,
+the Dean's List FIRST Leadership Award), or is not judged at the event (e.g., Safety Animation Award), no points
+are earned. Points for awards not given at the event are not assigned to any team. See A211 for the list of
+points-eligible awards.
+
+6.5 Individual Awards
+
+6.5.1 Dean's List FIRST Leadership Award
+
+In an effort to recognize the leadership and dedication of the most outstanding secondary school STUDENTS
+from FIRST, the Kamen family sponsors awards for selected 10th or 11th grade STUDENTS known as the
+FIRST Tech Challenge FIRST Dean's List Award.
+
+The STUDENTS who earn FIRST Dean's List Leadership Award status as a semi-finalist, finalist or winner, are
+great examples of current STUDENT leaders who have led their teams and communities to increased
+awareness for FIRST and its mission, champion FIRST Core Values such as Inclusion, and embody Gracious
+Professionalism®. It is the goal of FIRST that these individuals will continue, post-award, as great leaders,
+STUDENT alumni, and advocates of FIRST.
+
+Please visit the Dean's List FIRST Leadership Award Website to see complete award submission details and to
+see past FIRST Tech Challenge winners.
+
+15.1 Awards Modifications
+
+                           Table 15 1: FIRST Championship Awards
+
+         Award                               Per Division FIRST Championship
+
+         Dean's List FIRST Leadership Award  0                    10
+
+Team Update 24                            February 19, 2026                   1 of 1
+Team Update 23
+
+General
+
+N/A
+
+Competition Manual
+
+N/A
+
+Team Update 23      February 12, 2026  1 of 1
+Team Update 22
+
+General
+
+N/A
+
+Competition Manual
+
+No updates this week!
+
+Team Update 22         February 5, 2026  1 of 1
+Team Update 21
+
+General
+
+N/A
+
+Competition Manual
+
+No updates this week!
+
+Team Update 21         January 29, 2026  1 of 1
+Team Update 20
+
+General
+
+N/A
+
+Competition Manual
+
+13.4 Clarifications on MATCH Play Results ("Question Box")
+
+T402 *MATCH questions must be timely. If a team would like to clarify or dispute the results of a MATCH
+using the process per T401 they must present their STUDENT representative in the question box in a timely
+manner as outlined below:
+
+              A. questions regarding events in a Qualification MATCH may be asked at any time before
+                   ALLIANCE selection begins, or within 5 minutes of the last Qualification MATCH at events
+                   without Playoff MATCHES
+
+              B. questions regarding events in a Playoff MATCH must be asked before the current round is
+                   finished start of the next Playoff round or, for the last Playoff MATCH, immediately following the
+                   MATCH.
+
+                   Please keep in mind that our REFEREES are human, and the more time has
+                   passed between the MATCH in questions, the less likely they are to remember
+                   the details of a specific MATCH. It is best to ask for clarification or to dispute the
+                   results of a MATCH within 3 MATCHES.
+
+                   Teams are encouraged to ask questions as soon as possible. Questions asked
+                   more than 5 minutes after the last Playoff MATCH will likely not be addressed.
+
+Team Update 20  January 22, 2026  1 of 1
+Team Update 19
+
+General
+
+N/A
+
+Competition Manual
+
+13.8 Dual Division Events
+
+Table 13-8 has been added to this Section 13.8.2 Dual Division Playoffs.
+
+An example of Dual Division Playoff Timing is shown in Table 13-8.
+
+                     Table 13-8: 6-ALLIANCE Dual Division playoff bracket typical timing
+
+                                    Gap                                        Next MATCH
+                                    (min)                            (MATCH # (ALLIANCE color))
+
+     Round                   Upper/                                       Winner               Loser            Estimated
+                MATCH Lower FIELD Blue Red Blue Red                                                             Start (min)
+
+     1          1    Upper 1 A5 A4                                        M3 (B)               M6 (B)           0
+
+                2    Upper 2 A6 A3                                        M4 (B)               M5 (B)           6
+
+     2          3    Upper 1 W1 A1 0:09                                   M7 (R)               M5 (R)           12
+
+                4    Upper 2 W2 A2 0:09                                   M7 (B)               M6 (R)           18
+
+     3          5    Lower 1  L2 L3 0:15 0:09                             M8 (B)               Tied 5th         24
+
+                6    Lower 2  L1 L4 0:27 0:09                             M8 (R)                                30
+
+     4          7    Upper 1 W4 W3 0:15 0:21                              M10 (R)              M9 (R)           36
+
+                8    Lower 2 W5 W6 0:15 0:09                              M9 (B)               4th              42
+
+8-minute break                                                                                                  45
+
+     5          9    Lower 1 W8 L7 0:08 0:14                              M10 (B)              3rd              53
+
+8-minute break                                                                                                  56
+
+     Finals     10         1 W9 W7 0:08 0:25                              M11*                 M11*             64
+
+8-minute break                                                                                                  67
+
+     Finals*    11         1 W9 W7 0:08 0:08                              F1                                    75
+
+End of Divisional Playoffs/ Judges Choice*(1), Design Award, (3, 2, 1), Reach Award (3, 2, 1)                   78
+
+Event Finals 1  F1         1 DivA DivB 0:15 0:15                          F2                   F2               86
+
+8-minute break       Control Award (3, 2, 1), Innovate Award (3, 2, 1), Sustain Award (3, 2, 1)                 89
+
+Event Finals 2  F2         1 DivA DivB 0:08 0:08                          F3*                  F3*              97
+
+8-minute break       Connect Award (3, 2, 1), Think Award (3, 2, 1)                                             100
+
+Event Finals 3* F3*        1 DivA DivB 0:08 0:08                                                                108
+
+Awards: Compass*, Div. Finalists, Division Winners, Event Finalist, Event Winners and Inspire Award (3, 2, 1) 111
+
+* if required
+**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.
+
+Team Update 19                January 15, 2026                                                                  1 of 1
+Team Update 18
+
+General
+
+N/A
+
+Competition Manual
+
+11.3 Pre-MATCH
+
+G303 *ROBOTS on the FIELD must come ready to play a MATCH.
+Rule reference corrected to R402.
+
+11.4 In-MATCH
+
+11.4.4 ROBOT
+G409 *ROBOTS must be under control.
+
+                   Disrupting the OBELISK is not a violation of this rule.
+
+Team Update 18  January 8, 2026                                             1 of 1
+Team Update 17
+
+General
+
+No updates this week!
+
+Competition Manual
+
+N/A
+
+Team Update 17         January 1, 2026  1 of 1
+Team Update 16
+
+General
+
+No updates this week!
+
+Competition Manual
+
+N/A
+
+Team Update 16         December 25, 2025  1 of 1
+Team Update 15
+
+General
+
+N/A
+
+Competition Manual
+
+11.4 In-MATCH
+
+11.4.2 TELEOP
+G405 *ROBOTS use SCORING ELEMENTS as directed
+
+                   Examples include, but are not limited to:
+                   A. Intentionally positioning SCORING ELEMENTS to impede opponent access to
+
+                        FIELD elements
+                   B. Intentionally placing SCORING ELEMENTS into inaccessible locations on the
+
+                        FIELD such as under the RAMP or GOAL
+                   C. Intentionally using a SCORING ELEMENT to hold open the GATE
+
+11.4.6 Human
+G432 Humans, only meddle with ARTIFACTS in the LOADING ZONE.
+
+                   ARTIFACTS that are unintentionally deflected, e.g., a DRIVE TEAM member
+                   protecting themselves from a LAUNCHED ARTIFACT, are an exception to this
+                   rule.
+
+Team Update 15  December 18, 2025                                                                1 of 1
+Team Update 14
+
+General
+
+Dean's List Award Nominations Closing Soon!
+
+This Monday, December 15, 2025 is the last day to submit your team's nominations for the Dean's List Award.
+Now is your chance to share with the entire FIRST community that inspiring student on your team who
+demonstrates leadership, has an entrepreneurial spirit, and is dedicated to increasing awareness of FIRST.
+
+For all nomination requirements and instructions, read the full Dean's List Nomination Guide.
+
+Competition Manual
+
+9.1 Dimensions and Accuracy
+
+The specifications for the DECODE FIELD can be retrieved from a few locations:
+
+         - The 3D CAD model is the official representation of the DECODE FIELD and how it is constructed.
+              Measurements may be taken from this model with a general tolerance of +/- 1 in. (+/- 2.5 cm).
+
+         - Illustrations included in the Competition Manual are for a general visual understanding of the
+              DECODE ARENA, and any dimensions included are nominal. Unless specifically noted, all these
+              dimensions carry a tolerance of +/- 1 in. (+/- 2.5 cm).
+
+         - The Official FIELD Drawings (coming soon) list the key dimensions which include those with tighter
+              specified tolerances than the nominal dimensions provided in other places.
+
+         - The Event FIELD Setup Guide includes instructions on how to build the FIELD, and along with
+              showing the ways construction type will influence the field tolerances, it also includes many of the
+              key dimensions which are listed in the Official FIELD Drawings.
+
+         - The FIELD Acceptance Checklist includes the controlled dimensions (with relevant tolerances)
+              which will be regularly inspected by event staff.
+
+         - The FIELD Mitigation Guide provides FIELD STAFF recommended mitigation measures for issues
+              with the field during an event.
+
+The official drawings and CAD models of the complete list of DECODE FIELD resources are posted on the
+Playing FIELD Resources page on the FIRST website.
+
+Team Update 14  December 11, 2025  1 of 1
+Team Update 13
+
+General
+
+N/A
+
+Competition Manual
+
+11.4 In-MATCH
+
+11.4.3 SCORING ELEMENT
+G408 No more than 3 at a time.
+
+                   Excessive violations of CONTROL limits include, but are not limited to:
+                   A. simultaneous CONTROL of 5 or more ARTIFACTS, or
+                   B. frequent (i.e., 3 or more separate violations in a MATCH), greater-than-
+
+                        MOMENTARY CONTROL of 4 or more ARTIFACTS.
+                   REPEATED excessive violations of this rule do not result in additional YELLOW
+                   CARDS unless the violation reaches the level of egregious to trigger a G211
+                   violation.
+
+11.4.4 ROBOT
+G419 ROBOTS LAUNCH into their own GOAL. ROBOTS may not:
+
+              A. intentionally place or LAUNCH ARTIFACTS directly onto their own RAMP, or
+              B. place or LAUNCH ARTIFACTS into the opponent's GOAL or onto the opponent's RAMP.
+         Violation: MAJOR FOUL per ARTIFACT and the opposing ALLIANCE is awarded the PATTERN RP if
+         G419.B.
+
+11.4.6 Human
+G431 *DRIVE TEAMS, watch your reach. Once a MATCH starts, a DRIVE TEAM member inside the FIELD may
+
+         not:
+              A. directly contact a ROBOT,
+              B. contact a SCORING ELEMENT in contact with a ROBOT,
+              C. disrupt SCORING ELEMENT scoring, or
+              D. contact a FIELD element.
+
+         Violation: MAJOR FOUL plus YELLOW CARD if G431.A. RED CARD and the opposing ALLIANCE is
+         awarded the PATTERN RP if G431.C.
+
+                   Exceptions are granted in cases concerning safety and for actions that are
+                   inadvertent, MOMENTARY, and inconsequential.
+
+Team Update 13  December 4, 2025  1 of 2
+                   For G431.A and G431.B, the penalty is applied to the DRIVE TEAM member
+                   regardless of whether the DRIVE TEAM member or ROBOT initiates contact.
+                   Impacting ARTIFACT scoring includes, but is not limited to:
+                   A. Contacting an ARTIFACT LAUNCHED by the opponent within the FIELD
+                   B. Contacting an ARTIFACT in the opponent's GOAL
+                   C. Disrupting the scoring of an ARTIFACT on the opponent's RAMP or by
+
+                        operating the opponent's GATE
+                   D. A DRIVE TEAM member LAUNCHING an ARTIFACT into a GOAL
+
+12.4 ROBOT SIGN Rules
+
+Additional example images added to Figure 12-7
+
+R403 *Team number on ROBOT SIGNS.
+
+                    Figure 12-7: Team number orientation examples for team 1355 playing on the blue ALLIANCE
+
+Team Update 13  December 4, 2025                                                                              2 of 2
+Team Update 12
+
+General
+
+Happy RP Threshold Update Day!
+
+We've added new Ranking Point (RP) thresholds for Regional Championships (RCMP), see below for more
+details.
+
+Anyone who follows our sport knows that FIRST Tech Challenge robots vary widely in their on-field
+performance. This performance also changes significantly over the course of a season.
+
+As seen in section 10.5.4 of the Competition Manual, FIRST adjusts the difficulty of achieving Ranking Points
+to align with how robot capabilities are evolving. To calculate these adjustments, FIRST staff members closely
+evaluated the data from every DECODE match played each week. We then compared scoring trends with
+historical patterns. We know robots are going to get better at playing DECODE and can estimate how much
+they'll improve.
+
+Please see the update to Table 10-3 below for the new GOAL RP and PATTERN RP thresholds which will be
+used at Regional Championship (RCMP) level events. Other events such as League Meets, or Qualifiers will still
+use the lower thresholds as shown in the "All Other Events" column of Table 10-3.
+
+(...and we can't wait to see how much further we'll need to raise the RPs at the FIRST Championship!)
+
+Competition Manual
+
+10.5 Scoring
+
+10.5.4 Point Values
+
+                             Table 10-3: DECODE RP thresholds
+
+                RP Type           FIRST        Regional        All Other
+                MOVEMENT RP  Championship  Championships       Events*
+
+                                   TBA             21              16
+
+                GOAL RP      TBA           42                  36
+
+                PATTERN RP   TBA           22                  18
+
+Team Update 12               November 27, 2025                            1 of 1
+Team Update 11
+
+General
+
+N/A
+
+Competition Manual
+
+9.8 CLASSIFIER
+
+9.8.3 GATE
+
+                   The GATE will take variable amounts of time to close. The GATE closing before
+                   all CLASSIFIED ARTIFACTS exit the RAMP is not considered an ARENA FAULT,
+                   and teams should be prepared to hold the GATE open to fully clear the RAMP.
+                   The GATE not closing immediately when released by the ROBOT(but closing
+                   eventually) is not considered an ARENA FAULT. During a MATCH, FIELD STAFF
+                   may follow steps in the Field Mitigation Guide to mitigate some FIELD issues
+                   during a MATCH. Refer to the Field Mitigation Guide for more guidance on how
+                   FIELD STAFF will respond to inconsistent FIELD behavior.
+
+When closed, the height of the contact area of the GATE above the surface of the TILE ranges from
+approximately 3.75 in. (9.55 cm) to 5.5 in. (14.00 cm) and when open the contact point is approximately 3 in.
+(7.60 cm) above the TILES (Figure 9 16). The total horizontal displacement required to move the GATE from
+closed to open is approximately 2 in. (5.10 cm).
+
+                   TEAMS are encouraged to design their ROBOTS with a large vertical surface
+                   which ensures consistent contact with the GATE arm. It is particularly important
+                   that this panel extends up to the high end of the interface range approximately
+                   5.5 in. (14.00 cm) above the TILE surface. This ensures the ROBOT cannot end
+                   up "under" the GATE arm and will help prevent ROBOTS from inadvertently
+                   damaging the FIELD.
+
+10.8 Other Logistics
+
+SCORING ELEMENTS that leave the FIELD will be returned to the closest ARTIFACT tray or available DRIVER or
+HUMAN PLAYER at the earliest safe opportunity by FIELD STAFF. Reintroduction of SCORING ELEMENTS must
+follow rule G433 G432.
+
+An ARENA FAULT (an error in ARENA operation described in section 13.3 MATCH Replays) is not called for
+MATCHES that accidentally begin with damaged SCORING ELEMENTS, the incorrect number of SCORING
+ELEMENTS, or incorrectly placed SCORING ELEMENTS. Damaged SCORING ELEMENTS are not replaced until
+the next MATCH reset. DRIVE TEAMS should alert the FIELD STAFF to any missing, incorrectly placed, or
+damaged SCORING ELEMENTS prior to the start of the MATCH. During a MATCH, FIELD STAFF may follow
+steps in the Field Mitigation Guide to mitigate some FIELD issues during a MATCH.
+
+Team Update 11  November 20, 2025  1 of 3
+11.4  In-MATCH
+
+G402  No AUTO opponent interference. During AUTO, FIELD columns A, B, C constitute the blue side of the
+      FIELD, and columns D, E, F (Figure 9 5) constitute the red side of the FIELD. During AUTO, a ROBOT may
+G412  not:
+
+          A. contact an opposing ALLIANCE'S ROBOT which is completely within the opposing ALLIANCE'S
+               side of the FIELD either directly or transitively through an ARTIFACT, or
+
+          B. disrupt an ARTIFACT from its pre-staged location on the opposing ALLIANCE'S side of the
+               FIELD either directly or transitively through contact with an ARTIFACT, or by LAUNCHING or
+               rolling an ARTIFACT directly into it.
+
+      *Don't damage the FIELD. A ROBOT may not damage FIELD elements.
+
+      SCORING ELEMENT damage is specifically covered in G407. G407 and G412 do
+      not stack. G412 does not apply to damage caused by normal gameplay actions.
+
+      FIELD damage includes, but is not limited to:
+
+      - contaminating the FIELD with a liquid or fine solid as in R205,
+      - damaging TILE in R201,
+      - causing the GATE to no longer function bend or break off
+      FIELD damage does not include:
+      - normal GATE interaction resulting in a GATE that "sticks" open
+      - normal interaction with the GOAL that causes it to lift off the TILES
+
+12.1  General ROBOT Design
+
+R105  There are expansion limits. After the MATCH has started, ROBOTS may expand beyond the STARTING
+      CONFIGURATION but are still subject to sizing constraints relative to the ROBOT, based on the initial
+      STARTING CONFIGURATION. ROBOTS must be physically constrained to fit within these limits without
+      the use of software. The sizing constraints are:
+
+          A. After the start of the MATCH, ROBOTS may expand horizontally but must remain within a fixed
+               18 in. (45.70 cm) by 18 in. (45.70 cm) when fully expanded per G414. ROBOTS must be
+               physically constrained to fit within these horizontal limits without the use of software.
+
+          B. After the start of the MATCH, ROBOTS may expand vertically up to 18 in. (45.70 cm). ROBOTS
+               may be physically constrained or software limited to fit within this vertical limit.
+
+          C. Within the limitations per G415, ROBOTS may expand vertically up to 38 in. (96.50 cm). ROBOTS
+               may be physically constrained or software limited to fit within this vertical limit.
+
+      Any extension beyond the maximum expansion limit during ROBOT operation is
+      considered a violation of this rule. This includes flexible extensions (e.g., surgical
+      tubing flappers, star intakes) that cause the ROBOT to exceed the expansion
+      limit.
+
+      Teams should be prepared to show compliance with this rule and demonstrate
+      their ROBOT expansions during the inspection process. During inspection, each
+      team will be asked to show the ROBOT'S STARTING CONFIGURATIONS and
+      additionally its configurations at maximum mechanical (horizontal) extensions
+      and mechanical/software (vertical) extensions. Software limits are not sufficient
+      to demonstrate maximum extensions for horizontal expansion.
+
+Team Update 11  November 20, 2025                                                             2 of 3
+      ROBOTS must show their maximum mechanical extensions during the inspection
+      process. A ROBOT that can mechanically exceed the horizontal limit would be in
+      violation even if the ROBOT has software limiting the position of the extension
+      during the MATCH.
+
+      ...
+
+12.9  OPERATOR CONSOLE
+
+R904  *OPERATOR CONSOLE physical requirements. The OPERATOR CONSOLE, including all power sources,
+      must not exceed a volume of 3ft wide, 1ft 2in deep and 2 ft tall (91.4 cm by 30.5 35.5 cm by 61.0 cm)
+      excluding any items that are held or worn by the DRIVERS during the MATCH
+
+13.3  MATCH Replays
+
+T301  *Replays are allowed, but rare. MATCH replays are only allowed in extreme circumstances due to an
+      ARENA FAULT or for MATCHES which are stopped because FIELD STAFF anticipated FIELD damage or
+      personal injury.
+      An ARENA FAULT is an error in ARENA operation that includes, but is not limited to:
+
+          A. broken FIELD elements due to normal, expected game play, or ROBOT abuse of FIELD elements
+               that affects the outcome of the MATCH for their opponents,
+
+      A broken FIELD element caused by ROBOT abuse that affects the outcome of the
+      MATCH for their ALLIANCE is not an ARENA FAULT. The following situations in
+      DECODE are not typically considered ARENA FAULTS:
+      A. An ARTIFACT jam in the GOAL behind the archway,
+      B. An ARTIFACT jam on the CLASSIFIER,
+      C. A GOAL slightly lifts off the TILES , or
+      D. A GATE temporarily sticks open.
+
+      The following situations for DECODE are typically considered ARENA FAULTS:
+      E. An opponent bends or breaks off a GATE such that it no longer operates
+
+          normally, or
+      F. An opponent causes a GATE to stick open for a substantial or impactful
+
+          portion a MATCH.
+
+      B. FIELD elements moving beyond normal tolerances (not as the result of ROBOT interaction)
+      C. Wide-spread wireless interference affecting multiple ROBOTS typically at the same time and on
+
+          both ALLIANCES,
+      D. failure of the MATCH timer display, or
+      E. errors by FIELD STAFF (except those listed in section 10.8 Other Logistics).
+
+Team Update 11  November 20, 2025                                                      3 of 3
+Team Update 10 v2
+
+General
+
+Team Update 10v2 is a revised version of Team Update 10 (TU10).
+
+The initial version of TU10 that was posted on November 13th was found to have error in G432. This update
+corrects those errors below. Corrections are also reflected in the Competition Manual. We apologize for any
+confusion this may have caused.
+
+Competition Manual
+
+6.2   Team Judged Award Rules
+
+A201  *Team PORTFOLIOS have limits. ...
+
+          A. ...
+          B. no more than 15 pages of judged content (if printing front and back, 8 sheets of paper, including
+
+               the cover page),
+          C. use only US Letter (8.5" x 11") or A4 (210 x 297 mm) size paper pages,
+          D. ...
+          E. ...
+
+11.1 Personal Safety
+
+G102 *Be careful when interacting with ARENA elements.
+
+                   DRIVE TEAM members may brace the FIELD perimeter at any point during the
+                   MATCH. DRIVE TEAM members should not cause the FIELD perimeter to deflect
+                   while bracing. Moving the FIELD perimeter out of position is considered a
+                   violation of G102.C.
+
+11.4 In-MATCH
+
+11.4.4 ROBOT
+
+G417 ROBOTS only operate GATES as directed. ROBOTS may not:
+
+              A. contact, either directly or transitively through a SCORING ELEMENT, an opposing ALLIANCE'S
+                   GATE, or
+
+              B. apply, either directly or transitively through a SCORING ELEMENT, any closing force to either
+                   GATE.
+
+                   Closing force includes any force applied to the GATE in the direction that closes
+                   the GATE, even if the GATE is already closed. A ROBOT bumping into a GATE
+                   handle which is stuck open to try to get it to close is not considered a closing
+                   force.
+
+Team Update 10 v2  November 14, 2025                                                          1 of 3
+11.4.5 Opponent Interaction
+
+G427 BASE ZONE protection. During the last 20 seconds of the MATCH, a ROBOT may not contact, directly
+or transitively through a SCORING ELEMENT, an opponent ROBOT while either ROBOT is in the opponent`s
+BASE ZONE, regardless of who initiates contact.
+
+         Violation: MAJOR FOUL and opponent ROBOT and any ROBOT fully supported by the contacted ROBOT
+         are is awarded fully returned to BASE points.
+
+11.4.6 Human
+
+G432  Humans, only meddle with ARTIFACTS in the LOADING ZONE. DRIVE TEAM members may only
+      retrieve ARTIFACTS from the FIELD or move ARTIFACTS within the FIELD as follows: introduce
+      ARTIFACTS to, remove ARTIFACTS from, or move ARTIFACTS within the LOADING ZONE and only the
+      LOADING ZONE. Actions must occur:
+
+      A. only ARTIFACTS that are in the LOADING ZONE, and
+      A. only during TELEOP, and
+      B. without using a tool,
+      C. without causing an ARTIFACT to enter into the LOADING ZONE from elsewhere on the FIELD,
+
+          and
+      D. without causing any an ARTIFACTS to leave the LOADING ZONE and enter the rest of the FIELD
+
+          unless fully supported either directly or transitively the ARTIFACT is CONTROLLED by a ROBOT
+          as follows:
+
+             i. ARTIFACT CONTROL begins when the ROBOT is in the LOADING ZONE, and
+             ii. ARTIFACT is still CONTROLLED by the ROBOT when the ROBOT leaves the LOADING
+
+                  ZONE.
+
+      Violation: MINOR FOUL per ARTIFACT. MAJOR FOUL per ARTIFACT that enters the open top of the GOAL.
+
+              DRIVE TEAM members may load SCORING ELEMENTS into a ROBOT that is
+              partially or fully in the LOADING ZONE.
+
+              DECODE is a fast-paced game and teams should practice coordination and
+              communication between the DRIVE TEAM members to avoid unintentional
+              contact between the ROBOT and any humans in violation of G431.A.
+
+G433  Humans, may not yeet only enter SCORING ELEMENTS. DRIVE TEAM members may only enter
+      ARTIFACTS onto the FIELD. and only as follows:
+
+          A. only during TELEOP,
+          B. without LAUNCHING, bouncing, or rolling,
+          C. without using a tool, and
+          D. only via the LOADING ZONE by either:
+
+                  i. directly placing the ARTIFACT into the LOADING ZONE such that it does not leave the
+                       LOADING ZONE before coming to rest, or
+
+Team Update 10 v2  November 14, 2025                                                  2 of 3
+                      ii. into a ROBOT that is in the LOADING ZONE such that the ARTIFACT is fully supported
+                           either directly or transitively by the ROBOT.
+
+         Violation: MINOR FOUL per ARTIFACT or non-ARTIFACT item entered onto the FIELD. MAJOR FOUL per
+         ARTIFACT that enters the top of the GOAL.
+
+                   DRIVE TEAM members may load SCORING ELEMENTS into a ROBOT. DECODE is
+                   a fast-paced game and teams should practice coordination and communication
+                   between the DRIVE TEAM members to avoid unintentional contact between the
+                   ROBOT and any humans, in violation of G431.A.
+
+13.7 Playoff MATCHES
+
+13.7.2 Playoff MATCH Bracket
+
+The number of ALLIANCES for an event is determined by the number of teams who are eligible to participate in
+the Playoffs based on all Qualification MATCH participating teams as shown in Table 13-2.
+
+                   Teams that sign up for the event but do not show up, and teams that participate
+                   in Awards but are not included in the Qualification MATCHES are not included in
+                   determining the Playoff MATCH bracket size. Teams that participated in the
+                   Qualification MATCHES but don't intend to participate in the Playoff MATCH
+                   bracket are included in determining the Playoff MATCH bracket size.
+
+Team Update 10 v2  November 14, 2025  3 of 3
+Team Update 09
+
+General
+
+We've had an exciting first few weeks of DECODE! Based on observations and input from key volunteers in the
+community we've put together a few resources to help ensure consistency at events. While these guides are
+primarily intended to be used by volunteers at events, they can also be used by teams at home.
+
+The Field Acceptance Checklist is used by event volunteers as a guide to assist in ensuring fields built at
+events meet the dimensional requirements in the Competition Manual.
+
+In addition, at some events there have been reports of a few situations where the field did not behave as
+expected. We've published a Field Mitigation Guide to provide guidance on some of these potential issues and
+the recommended mitigation measures field staff can take if they occur. The intent of this guide is to provide
+guidance to volunteers and events, so they can ensure a fair and consistent experience for all competing
+teams.
+
+Competition Manual
+
+9.9 SCORING ELEMENTS
+
+SCORING ELEMENTS are ALLIANCE neutral ARTIFACTS. ARTIFACTS are 5 in. (12.70 cm) nominal Gopher
+ResisDentTM polypropylene balls in purple (am-3376a_purple) and green (am-3376a_green). There are 24 purple
+(P) ARTIFACTS and 12 green (G) ARTIFACTS total in a DECODE MATCH.
+
+ARTIFACTS are not perfectly spherical and may vary in size. Teams should plan for this variation when
+designing their ROBOTS. Based on the specifications provided by the manufacturer, ARTFACTS are specified
+to be 4.9 in +/- 0.25 in. (12.45 cm +/- 0.65 cm) in diameter at the mold seam.
+
+11.4 In-MATCH
+
+11.4.4 ROBOT
+
+G416 LAUNCHING in the LAUNCH ZONE only. ROBOTS may only LAUNCH SCORING ELEMENTS when inside
+         a LAUNCH ZONE or overlapping a LAUNCH LINE.
+
+         Violation: MINOR FOUL per LAUNCHED SCORING ELEMENT. MAJOR FOUL per LAUNCHED SCORING
+         ELEMENT if the SCORING ELEMENT enters the open top of the GOAL.
+
+                   A SCORING ELEMENT is considered LAUNCHED if it is shot into the air, propelled
+                   across the floor to a desired location or in a preferred direction, or thrown in a
+                   forceful way.
+
+                   "Bulldozing" (inadvertent contact with a SCORING ELEMENT while in the path of
+                   the ROBOT moving about the FIELD) is not considered LAUNCHING
+
+                   This is not intended to penalize teams with active manipulators which are
+                   expelling SCORING ELEMENTS through normal operation, such as:
+
+Team Update 09  November 6, 2025  1 of 3
+      A. Running an intake in reverse causing a SCORING ELEMENT to travel a short
+          distance from the ROBOT.
+
+      B. A ROBOT pushing a SCORING ELEMENT a short distance away in the process
+          of herding it across the FIELD.
+
+G418  ROBOTS may not meddle with ARTIFACTS on RAMPS. ROBOTS may not contact, either directly or
+      transitively through a SCORING ELEMENT CONTROLLED by the ROBOT, ARTIFACTS on a RAMP,
+      including their own RAMP. Additionally, ROBOTS may not:
+
+               A. remove an ARTIFACT from their own RAMP except by operating the GATE, or
+               B. remove an ARTIFACT from the opponent's RAMP by any means.
+
+      Violation: MAJOR FOUL per ARTIFACT, and the ALLIANCE is ineligible for the PATTERN RP if G418.A, or
+      the opposing ALLIANCE is awarded the PATTERN RP if G418.B.
+
+      Exceptions are granted for inconsequential and inadvertent contact made by a
+      ROBOT while operating a GATE.
+
+      Example 1: A red ROBOT that contacts an ARTIFACT on the blue RAMP is in
+      violation of this rule and is assessed 1 MAJOR FOUL under G418.
+
+      Example 2: A red ROBOT that LAUNCHES an ARTIFACT at an ARTIFACT on the
+      red RAMP, removing it from the RAMP is in violation of this rule. The red
+      ALLIANCE is assessed 1 MAJOR FOUL and is ineligible for the PATTERN RP
+      under G418.A.
+
+      Example 3: A red ROBOT contacts and opens the blue GATE, causing 5
+      ARTIFACTS that were on the blue RAMP to leave the RAMP and return to the
+      FIELD. Red is assessed a total of 6 MAJOR FOULS - 1 under G417.A and 5 under
+      G418.B - in addition to blue being awarded PATTERN RP under G417.A/G418.B.
+
+13.7  Playoff MATCHES
+
+T704  *During Playoff MATCHES, teams may have more ARENA access. At the discretion of the Event
+      Director, during the Playoff MATCHES teams may need extra team members to maintain the ROBOT
+      between MATCHES in a timely manner. Each team is permitted to have up to 3 additional pit crew
+      members to help with needed ROBOT repairs. These team members should be granted the same
+      ARENA access as the DRIVE TEAM but may not participate in any MATCH play.
+
+Team Update 09  November 6, 2025                                                    2 of 3
+16 Glossary        Definition
+
+ Term              An action by a ROBOT in which the SCORING ELEMENT is shot shooting or
+ LAUNCH/LAUNCHING  throwing into the air, propelled across the floor to a desired location or in a
+                   preferred direction, or thrown in a forceful way
+ PIN/PINNING
+                   an action by a ROBOT that is preventing the movement of an opponent
+                   ROBOT by contact, either direct or transitive (such as against a FIELD
+                   element)
+
+                   Preventing an opposing ALLIANCE ROBOT from moving, accessing, or exiting
+                   an AREA for an extended period by obstructing ALL paths of travel this
+                   includes the following conditions:
+
+                   A. Limiting the movement of an opponent ROBOT to a small or confined
+                   area of the FIELD, approximately one foam TILE or less, without an avenue
+                   for escape. If a ROBOT is not attempting to escape, it's not considered a
+                   violation.
+
+                   B. Preventing the movement of an opponent ROBOT directly or
+                   transitively through contact with the FIELD perimeter, game structure,
+                   another ROBOT.
+
+                   C. Controlling an opponent's movements by raising or tilting the
+                   opponent's ROBOT off the TILES.
+
+Team Update 09     November 6, 2025  3 of 3
+Team Update 08
+
+General
+
+N/A
+
+Competition Manual
+
+10.6 Violations
+
+10.6.4 Violation Details
+
+                          Table 10-6 Violation examples
+
+Example Violation         Expanded Interpretation
+
+MAJOR FOUL plus           Upon violation, a MAJOR FOUL is assessed against the violating team.
+YELLOW CARD if            If the condition "if REPEATED" (e.g., a subsequent violation by the
+REPEATED.                 same team in the same MATCH) is met, then the violating team is
+                          issued another MAJOR FOUL. If these are the only violations during
+                          the MATCH: after the MATCH, the Head REFEREE presents the
+                          violating team with a YELLOW CARD for the second violation of this
+                          rule. In total, 2 MAJOR FOULS and a YELLOW CARD were assessed
+                          during the MATCH.
+
+10.8 Other Logistics
+
+SCORING ELEMENTS that leave the FIELD will be returned to the closest ARTIFACT tray or available DRIVER or
+HUMAN PLAYER at the earliest safe opportunity by FIELD STAFF. Reintroduction of SCORING ELEMENTS must
+follow rule G433.
+
+11.4 In-MATCH
+
+11.4.4 ROBOT
+G413 *Watch your ARENA interaction.
+
+                   ROBOTS operating the GATE should make it clear that they do not violate this
+                   rule. ROBOTS are expected to push the GATE lever down to open, but no closing
+                   force (i.e., e.g., pulling) should be applied.
+
+11.4.5 Opponent Interaction
+G420 *This is not combat robotics.
+
+                   FIRST Tech Challenge can be a high-contact competition and may include
+                   rigorous gameplay. While this rule aims to limit severe damage to ROBOTS,
+
+Team Update 08            October 30, 2025                                                      1 of 3
+                   teams should design their ROBOTS to be robust. Teams are expected to act
+                   responsibly.
+
+                   An example of a violation of this rule includes, but is not limited to:
+                   A. A ROBOT high-speed rams and/or REPEATEDLY smashes an opponent
+
+                        ROBOT and causes damage. The REFEREE infers that the ROBOT was
+                        deliberately trying to damage the opponent's ROBOT.
+                   Examples of functionally impairing another ROBOT include, but are not limited to:
+                   B. disconnecting wires for operation of a component inside the ROBOT
+                        CHASSIS.
+                   C. disconnecting the opponent ROBOT'S battery (this example also clearly
+                        results in a RED CARD because the ROBOT is no longer able to drive).
+                   D. powering off an opponent's ROBOT using their reasonably well-protected
+                        power switch (this example also clearly results in a RED CARD because the
+                        ROBOT is no longer able to drive).
+                   Teams should mount their main power switch so it is protected per R609. A team
+                   that mounts their ROBOT'S power switch in an exposed location puts themselves
+                   at high risk of incidental contact. Powering off an opponent's ROBOT by their
+                   exposed power switch during normal interactive gameplay will be considered
+                   incidental and not deliberate.
+
+                   At the conclusion of the MATCH, the Head REFEREE may elect to visually inspect
+                   a ROBOT to confirm violations of this rule made during a MATCH and remove the
+                   violation if the damage cannot be verified.
+
+                   "Unable to drive" means that because of the incident, the DRIVER can no longer
+                   drive to a desired location in a reasonable time (generally). For example, if a
+                   ROBOT can only move in circles, or can only move extremely slowly, the ROBOT
+                   is considered unable to drive.
+
+11.4.6 Human
+
+Wording in G432 and G433 have been updated to match changes in prior Team Updates.
+
+G432 Humans, only meddle with ARTIFACTS in the LOADING ZONE. DRIVE TEAM members may only
+         retrieve ARTIFACTS from the FIELD or move ARTIFACTS within the FIELD as follows:
+
+              A. only ARTIFACTS that are in the LOADING ZONE, and
+              B. only during TELEOP, and
+              C. without causing any ARTIFACTS to leave the LOADING ZONE and enter the rest of the FIELD
+
+                   unless fully supported either directly or transitively by a ROBOT.
+
+         Violation: MINOR FOUL per ARTIFACT.
+
+Team Update 08  October 30, 2025  2 of 3
+      DECODE is a fast-paced game and teams should practice coordination and
+      communication between the DRIVE TEAM members to avoid unintentional
+      contact between the ROBOT and any humans in violation of G431.A.
+
+G433  Humans may not yeet SCORING ELEMENTS. DRIVE TEAM members may only enter ARTIFACTS onto
+      the FIELD and only as follows:
+
+          D. only during TELEOP,
+          E. without LAUNCHING, bouncing, or rolling,
+          F. without using a tool, and
+          G. only via the LOADING ZONE by either:
+
+                  i. directly placing the ARTIFACT into the LOADING ZONE such that it does not leave the
+                       LOADING ZONE before coming to rest, or
+
+                  ii. into a ROBOT that is in the LOADING ZONE such that the ARTIFACT is fully supported
+                       either directly or transitively by the ROBOT.
+
+      Violation: MAJOR MINOR FOUL per ARTIFACT or non-ARTIFACT item entered onto the FIELD. MAJOR
+      FOUL per ARTIFACT that enters the top of the GOAL.
+
+      DRIVE TEAM members may load SCORING ELEMENTS into a ROBOT. DECODE is
+      a fast-paced game and teams should practice coordination and communication
+      between the DRIVE TEAM members to avoid unintentional contact between the
+      ROBOT and any humans, in violation of G431.A.
+
+Team Update 08  October 30, 2025                                                  3 of 3
+Team Update 07
+
+General
+
+N/A
+
+Competition Manual
+
+11.3 Pre-MATCH
+
+G303 *ROBOTS on the FIELD must come ready to play a MATCH. A ROBOT must meet all following MATCH-
+         start requirements:
+
+              A. does not pose a hazard to humans, FIELD elements, or other ROBOTS.
+              B. has passed inspection, i.e., it is compliant with all ROBOT rules.
+              C. if modified after initial Inspection, it is compliant with I305.
+              D. is the only team-provided item left on in the FIELD.
+              E. ROBOT SIGNS must indicate the correct ALLIANCE color (see R101).
+              F. ROBOT must be motionless following completion of OpMode initialization.
+
+11.4 In-MATCH
+
+G402 No AUTO opponent interference.
+
+                   Navigating into the opposing ALLIANCE'S side of the FIELD during AUTO is a
+                   risky gameplay strategy.
+
+                   LAUNCHED ARTIFACTS which happen to enter the other side of the FIELD after
+                   being deflected by another object in the FIELD (e.g., FIELD element, ROBOT) will
+                   not be penalized.
+
+                   Example 1: A red ROBOT LAUNCHES 1 ARTIFACT onto the opponent side of the
+                   FIELD. The LAUNCHED ARTIFACT disrupts 2 pre-staged ARTIFACTS on the blue
+                   side of the FIELD. Red is assessed 2 MAJOR FOULS under G402.
+
+                   Example 2: A red ROBOT LAUNCHES 1 ARTIFACT at their GOAL in an attempt to
+                   score, but the ARTIFACT misses the open top of the GOAL, deflects off the GOAL
+                   structure and rolls into the blue side of the FIELD, disrupting 2 pre-staged
+                   ARTIFACTS. No G402 penalties are assessed.
+
+G408 No more than 3 at a time.
+
+                   ...
+
+                   Excessive violations of CONTROL limits include, but are not limited to:
+                   A. simultaneous CONTROL of 5 or more ARTIFACTS, or
+                   B. frequent (i.e., 3 or more separate violations times in a MATCH), greater-than-
+
+                        MOMENTARY CONTROL of 4 or more ARTIFACTS.
+
+Team Update 07  October 23, 2025  1 of 3
+11.4.4 ROBOT
+
+G416 LAUNCHING in the LAUNCH ZONE only.
+
+         Violation: MINOR FOUL per LAUNCHED SCORING ELEMENT. MAJOR FOUL per LAUNCHED SCORING
+         ELEMENT if the SCORING ELEMENT enters the open top of the GOAL.
+
+G420 *This is not combat robotics. A ROBOT may not deliberately functionally impair an opponent ROBOT. in
+         either of the following ways:
+
+                   A. deliberately.
+                   B. regardless of intent, by initiating contact, either directly or transitively via a SCORING
+
+                        ELEMENT CONTROLLED by the ROBOT, inside the opposing ROBOT'S CHASSIS.
+
+         Damage or functional impairment because of contact with a tipped-over or DISABLED opponent
+         ROBOT, which is not perceived by a REFEREE to be deliberate, is not a violation of this rule.
+
+         Violation: MAJOR FOUL and YELLOW CARD. MAJOR FOUL and RED CARD if opponent ROBOT is unable
+         to drive.
+
+                   FIRST Tech Challenge can be a high-contact competition and may include
+                   rigorous gameplay. While this rule aims to limit severe damage to ROBOTS,
+                   teams should design their ROBOTS to be robust. Teams are expected to act
+                   responsibly.
+
+                   An example of a violation of this rule includes, but is not limited to:
+                   A. A ROBOT leaves an arm extended, spins around to change course, and
+
+                        unintentionally hits and damages a COMPONENT inside the CHASSIS of a
+                        nearby opponent ROBOT.
+                   B. A ROBOT, in the process of trying to quickly reverse direction, tips up on a
+                        single pair of wheels, lands atop an opponent ROBOT, and damages a
+                        COMPONENT inside that opponent's CHASSIS.
+                   C. A ROBOT high-speed rams and/or REPEATEDLY smashes an opponent
+                        ROBOT and causes damage. The REFEREE infers that the ROBOT was
+                        deliberately trying to damage the opponent's ROBOT.
+
+                   Examples of functionally impairing another ROBOT include, but are not limited to:
+                   D. disconnecting wires for operation of a component inside the ROBOT
+
+                        CHASSIS.
+                   E. disconnecting the opponent ROBOT'S battery (this example also clearly
+
+                        results in a RED CARD because the ROBOT is no longer able to drive).
+                   F. powering off an opponent's ROBOT (this example also clearly results in a RED
+
+                        CARD because the ROBOT is no longer able to drive).
+
+                   At the conclusion of the MATCH, the Head REFEREE may elect to visually inspect
+                   a ROBOT to confirm violations of this rule made during a MATCH and remove the
+                   violation if the damage cannot be verified.
+
+Team Update 07  October 23, 2025  2 of 3
+"Unable to drive" means that because of the incident, the DRIVER can no longer
+drive to a desired location in a reasonable time (generally). For example, if a
+ROBOT can only move in circles, or can only move extremely slowly, the ROBOT
+is considered unable to drive.
+
+For the purposes of this rule, "initiate contact" requires movement towards an
+opponent ROBOT. In a collision, it's possible for both ROBOTS to initiate contact.
+
+Team Update 07  October 23, 2025                                                    3 of 3
+Team Update 06
+
+General
+
+N/A
+
+Competition Manual
+
+1.9 Question and Answer System
+
+Moderators will answer team questions beginning each Monday, and close on Thursday at 12:00pm 5:00pm
+ET.
+
+6.1 Team Judged Awards Overview and Schedule
+
+6.1.1  Sources of Information Considered for Awards
+
+                Per A201.E, progress, challenges, and accomplishments which have taken place
+                since January 1, 2025, can be documented in the team PORTFOLIO and will be
+                considered as part of the current season.
+
+9.1 Dimensions and Accuracy
+
+         - The FIELD Acceptance Checklist (coming soon) includes the controlled dimensions (with relevant
+              tolerances) which will be regularly inspected by event staff.
+
+13.8 Dual Division Events
+
+Dual division events will play a 6-ALLIANCE Bracket divisional playoff brackets and then the two ALLIANCES
+will play as shown in Figure 13-7. The first to win 2 will be the event winner.
+
+Team Update 06      October 16, 2025                                                          1 of 1
+Team Update 05
+
+General
+
+N/A
+
+Competition Manual
+
+6.1 Team Judged Awards Overview and Schedule
+
+All award winners chosen by the JUDGES are recognized as being positive examples of the award guidelines
+criteria, not necessarily the "best" team. JUDGES will only consider the published award criteria in section 6.3
+Team Judged Award Descriptions.
+
+6.1.2 Structured Interview
+Teams are encouraged to review the Judge Interview Question Bank (link coming soon) prior to their judging
+interviews to understand the type of questions that may be asked by the JUDGES.
+
+6.1.3 Pit Interview(s)
+
+                   JUDGES may read additional information during pit interviews but will not bring
+                   back additional printed content to be referenced as part of the JUDGE
+                   deliberations.
+
+6.2   Team Judged Award Rules
+
+A210  *No Photos, Video or Audio recording during structured interview. In addition to the restrictions of
+      E117, teams may not record any no recording of video or audio, or photos may be taken during their
+      structured interview.
+
+9.3 Areas, Zones, & Markings
+
+Figure 9-2 has been adjusted to more clearly indicate that DEPOT lines are also LAUNCH LINES.
+
+10.5 Scoring
+
+10.5.2 PATTERN Scoring Criteria
+Figure 10-5 has been adjusted to remove the word "CLASSIFIED" to reflect changes made in Team Update 04.
+
+Team Update 05  October 9, 2025                                                                1 of 2
+11.4 In-MATCH
+
+11.4.2 TELEOP
+
+G404  *ROBOTS are motionless at the end of TELEOP. ROBOTS must no longer have powered movement
+      after the end of TELEOP until the Head REFEREE or their designee signals that teams may retrieve their
+      ROBOTS.
+
+      Violation: MINOR FOUL. MAJOR FOUL per ARTIFACT if ROBOT LAUNCHES an ARTIFACT such that it
+      enters the open top of a the GOAL after the end of TELEOP. MAJOR FOUL or if ROBOT contacts a GATE
+      after the end of TELEOP.
+
+12.2  ROBOT Safety & Damage Prevention
+
+R207  *No air power on the ROBOTS don't use air. ROBOTS are restricted in their use of air in the following
+      ways:
+
+          A. ROBOTS may not use any closed air devices such as but not limited to pneumatic solenoids or
+               cylinders, gas storage vessels, gas springs, compressors, or vacuum generating devices. Air-
+               filled (pneumatic) wheels are exempt from this rule.
+
+          B. ROBOTS may not use any device which creates high-speed airflow, except COTS computing
+               devices manufactured with integrated cooling fans.
+
+      Examples of a "device which creates high-speed airflow" include but are not
+      limited to a fan designed to move SCORING ELEMENTS on the FIELD.
+
+      High-speed flywheels or rollers used for manipulating SCORING ELEMENTS
+      would not on their own be considered a high-speed airflow device.
+
+13.2  General Tournament Rules
+
+T205  *During optional FIELD measurement and calibration time(s) ROBOTS may not practice on the FIELD.
+      During any period when the ARENA is open for measurement, ROBOTS may run OpModes but cannot
+      move the ROBOT (e.g., CHASSIS) under its own power around the FIELD.
+
+      Violation: VERBAL WARNING. YELLOW CARD if subsequent violations occur during the event.
+
+      ...
+
+      Subsequent or egregious violations of this rule will be considered egregious
+      behavior under G211.
+
+      ...
+
+...
+
+Team Update 05  October 9, 2025                                                     2 of 2
+Team Update 04
+
+General
+
+N/A
+
+Competition Manual
+
+3.3 MATCH Eligibility Rules
+
+                   An Inspection Checklist (link coming soon) is available to help teams self-inspect
+                   their ROBOT before their event. Teams are strongly encouraged to self-inspect
+                   prior to their event.
+
+6 Awards
+
+Teams may also read the Judge and Judge Advisor Manuals to gain more insight into the complete judging
+process. Teams are also encouraged to review the Outreach Terms and Definitions Document to ensure all
+teams can clearly communicate with judges and our community the great things they do to grow FIRST.
+
+6.1.4 Sustained Outreach and Demonstrating Impact by Numbers
+
+                   Teams are encouraged to review the Award Outreach Terms and Definitions
+                   Document to understand the requirements behind specific terms (starting a
+                   FIRST team, running an event, reaching x number of people). JUDGES may ask
+                   specific questions when a specific term listed in this document is mentioned in a
+                   team's PORTFOLIO or during an interview.
+
+10.5.4 Point Values     Table10-2: DECODE point values
+               PATTERN
+                                                       MATCH points  RANKING
+                                                     AUTO TELEOP      POINTS
+
+                        CLASSIFIED ARTIFACT matches     2  2
+                        MOTIF
+
+11.4.6 Human
+
+G431 *DRIVE TEAMS, watch your reach. ...
+
+                   Exceptions are granted in cases concerning safety and for actions that are
+                   inadvertent, MOMENTARY, and inconsequential.
+
+                   For G431.A, the penalty is applied to the DRIVE TEAM member regardless of
+                   whether the DRIVE TEAM member or ROBOT initiates contact. to the team which:
+                   A. the ROBOT involved belongs, if the contact occurs in the LOADING ZONE, or
+                   B. the human involved belongs, if the contact occurs outside the LOADING
+
+                        ZONE.
+
+                   Impacting ARTIFACT scoring includes, but is not limited to:
+                   A. Contacting an ARTIFACT LAUNCHED by the opponent within the FIELD
+
+Team Update 04          October 2, 2025                                                          1 of 2
+      B. Contacting an ARTIFACT in the opponent's GOAL
+      C. Disrupting the scoring of an ARTIFACT on the opponent's RAMP or by
+
+          operating the opponent's GATE
+      D. A DRIVE TEAM member LAUNCHING an ARTIFACT into a GOAL
+
+G432  Humans, only take from meddle with ARTIFACTS in the LOADING ZONE. DRIVE TEAM members may
+G434  only retrieve ARTIFACTS from the FIELD or move ARTIFACTS within the FIELD as follows:
+
+          A. only ARTIFACTS that are in the LOADING ZONE,
+          B. only during TELEOP, and
+          C. without causing any ARTIFACTS to leave the LOADING ZONE and enter the rest of the FIELD.
+
+      Violation: MINOR FOUL per ARTIFACT.
+
+      The ALLIANCE AREA has a storage limit. During TELEOP, each ALLIANCE may not store more than 6
+      ARTIFACTS off the FIELD out of play. DRIVE TEAM members making a good-faith effort to immediately
+      enter additional ARTIFACTS into the FIELD back into play is an exception to this rule.
+
+      Violation: MINOR FOUL per ARTIFACT over the limit and an additional MINOR FOUL per ARTIFACT over the
+      limit for every 3 seconds in which the situation is not corrected.
+
+      The intent of this rule is to prevent an ALLIANCE from starving the FIELD of
+      ARTIFACTS during TELEOP.
+
+      Examples of "out of play" include, but are not limited to:
+      A. A DRIVE TEAM member holding an ARTIFACT inside or outside of the FIELD
+      B. A DRIVE TEAM member storing an ARTIFACT outside the FIELD
+
+      During AUTO and transition, this rule is not enforced. Upon the start of TELEOP,
+      DRIVE TEAM members must make a good-faith effort to immediately enter
+      ARTIFACTS into the FIELD until compliant with G434.
+
+      Teams will not be in violation of this rule if FIELD STAFF return ARTIFACTS to the
+      DRIVE TEAM that have left the FIELD per section 10.8 Other Logistics such
+      that the ALLIANCE holds a number of ARTIFACTS over the limit. However, if the
+      DRIVE TEAM does not then make a good-faith effort to immediately enter
+      ARTIFACTS into the FIELD until compliant with G434, they will be in violation of
+      this rule.
+
+      DRIVE TEAM members must keep ARTIFACTS accessible. DRIVE TEAM
+      members intentionally losing access to ARTIFACTS, e.g., by purposefully
+      removing them from the FIELD and ALLIANCE AREA, will be considered
+      egregious behavior and handled per G211.
+
+Team Update 04  October 2, 2025                                                           2 of 2
+Team Update 03
+
+General
+
+N/A
+
+Competition Manual
+
+6.3 Team Judged Award Descriptions
+
+6.3.4 Reach Award
+
+                    Table 6-5 Reach Award Criteria
+
+Required                                          Reach Award Criteria
+                1 Team must discuss, describe, display, or document their outreach objectives and how their outreach activities support the FIRST community.
+
+10.8 Other Logistics
+
+SCORING ELEMENTS that leave the FIELD will be returned to the closest available DRIVER or HUMAN PLAYER
+DRIVE TEAM member at the earliest safe opportunity by FIELD STAFF. Reintroduction of SCORING ELEMENTS
+must follow rule G433.
+
+11.2  Conduct
+
+G202  *DRIVE TEAM Interactions. Opposing ALLIANCES' DRIVE TEAM members cannot distract/interfere
+      with the opposing ALLIANCE. This includes taunting or other disruptive behavior.
+
+11.4 In-MATCH
+
+11.4.1 AUTO
+
+G402 No AUTO opponent interference. ...
+
+         Violation: MAJOR FOUL per instance of ROBOT contact in G402.A and MAJOR FOUL per ARTIFACT in
+         G402.B.
+
+11.4.4 ROBOT
+
+G417 ROBOTS only operate GATES as directed. may not contact the opposing ALLIANCE'S GATE. ROBOTS
+         may not:
+
+              A. contact, either directly or transitively through a SCORING ELEMENT, an opposing ALLIANCE'S
+                   GATE, or
+
+              B. apply any closing force to either GATE.
+
+         Violation: MAJOR FOUL and the opposing ALLIANCE is awarded the PATTERN RP if G417.A.
+
+Team Update 03      September 25, 2025              1 of 3
+11.4.6 Human
+
+G433 Humans may not yeet SCORING ELEMENTS. DRIVE TEAM members may only enter ARTIFACTS onto
+the FIELD as follows:
+
+              A. only during TELEOP,
+              B. without LAUNCHING, bouncing, or rolling,
+              C. without using a tool unless allowed under G302, and
+              D. only via the LOADING ZONE by either:
+
+                      i. directly placing the ARTIFACT into the LOADING ZONE such that it does not leave the
+                           LOADING ZONE before coming to rest, or
+
+                      ii. into a ROBOT that is in the LOADING ZONE such that the ARTIFACT is fully supported
+                           either directly or transitively by the ROBOT.
+
+         Violation: MAJOR FOUL per ARTIFACT.
+
+12.1 General ROBOT Design
+
+R105 There are expansion limits. ...
+
+                   Any extension beyond the maximum expansion limit during ROBOT operation is
+                   considered a violation of this rule. This includes flexible extensions (e.g., surgical
+                   tubing flappers, star intakes) that cause the ROBOT to exceed the expansion
+                   limit.
+
+                   Teams should be prepared to show compliance with this rule and demonstrate
+                   their ROBOT expansions during the inspection process. During inspection, each
+                   team will be asked to show the ROBOT'S STARTING CONFIGURATIONS and
+                   additionally its configurations at maximum mechanical extensions. Software
+                   limits are not sufficient to demonstrate maximum extensions.
+
+                   ROBOTS must show their maximum mechanical extensions during the inspection
+                   process. A ROBOT that can mechanically exceed the horizontal limit would be in
+                   violation even if the ROBOT has software limiting the position of the extension
+                   during the MATCH.
+
+A ROBOT with a single mechanism that can extend out of both sides of a ROBOT
+would be allowed as long as the overall horizontal dimension at maximum
+mechanical extension does not exceed 18 in.
+
+Team Update 03  September 25, 2025                                            2 of 3
+A ROBOT with multiple mechanisms that are not mechanically linked that can
+extend out of both sides of a ROBOT simultaneously would NOT be allowed if the
+overall horizontal dimension at maximum mechanical extension exceeds the 18
+in. limit.
+
+At maximum extension, a ROBOT in compliance will not exceed the maximum
+allowable vertical extension of 38 in. (96.50 cm) in one direction while
+maintaining the horizontal expansion requirements of 18 in. (45.70 cm) length
+and width perpendicular to the vertical height.
+Teams are responsible for maintaining compliance with expansion limits and
+subject to penalties listed in G414 and G415 for any violations during the MATCH.
+
+Team Update 03  September 25, 2025                                                 3 of 3
+Team Update 02
+
+General
+
+Animation Awards Blog and Information
+2025-26 season information about the Digital Animation Award sponsored by Worcester Polytechnic Institute
+(WPI) and the Safety Animation Award sponsored by UL Solutions has been published. For more details see
+additions to the Competition Manual in section 6.6 Project-Based Global Awards as shown below and read the
+Animation Awards for the FIRST AGE Season Blog.
+
+Competition Manual
+
+6.6 Project-Based Global Awards
+
+6.6.1 Digital Animation Award sponsored by Worcester Polytechnic Institute (WPI)
+This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM (Science, Technology,
+Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates
+technological, social, and humanistic concepts.
+The 2026 Digital Animation Award is offered to help encourage students to cultivate skills in design and
+creation of animation while telling a story about the impact of technology on society. This award is open to all
+FIRST Robotics Competition teams and FIRST Tech Challenge teams and is optional. More information can be
+found on the Digital Animation Award webpage.
+
+                   Specific award criteria and deadlines will be available after Kickoff. Check out
+                   last year's submission requirements and the 2025 Digital Animation Award
+                   Winners to learn more about this award.
+
+6.6.2 Safety Animation Award sponsored by UL Solutions
+The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this
+animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable
+practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires
+responsible exploration and careful stewardship of our resources. More information can be found on the
+Safety webpage.
+
+                   NEW! For the 2025-26 Season, each FIRST Tech Challenge team will also be able
+                   to submit for the Safety Animation Award sponsored by UL. Specific submission
+                   details will be available after Kickoff.
+                   To learn more now, check out the 2025 FIRST Robotics Competition Safety
+                   Animation Award winner details.
+
+9.10 AprilTags
+Figure 9-18 has been adjusted to correct error in TAG ID from 33 -> 23.
+
+Team Update 02  September 18, 2025  1 of 3
+11.3 Pre-MATCH
+
+G301 *Be prompt. ...
+
+                   ...
+                   In general, good faith efforts to quickly become MATCH ready are entirely for the
+                   purposes of transitioning the ROBOT into a MATCH ready state (i.e., not attempts
+                   to significantly alter a ROBOT'S capabilities.) Examples of good faith efforts to
+                   quickly become MATCH ready include but are not limited to:
+                   A. walking safely towards the FIELD with a ROBOT that a team is not actively
+
+                        modifying.
+                   B. applying quick fixes such as tape or cable ties to make the ROBOT compliant
+
+                        with STARTING CONFIGURATION requirements.
+                   C. waiting for a DRIVER STATION device to boot.
+                   D. actively working with field technical staff, including the FTA, to resolve an
+
+                        issue in a reasonable amount of time.
+                   E. performing a MOMENTARY "wiggle test" to confirm communication between
+
+                        the DRIVER STATION and the ROBOT CONTROLLER. The ROBOT should not
+                        drive or interact with SCORING ELEMENTS (except contact with pre-loaded
+                        ARTIFACTS) while performing this test.
+
+11.4.4 ROBOT
+
+G418 ROBOTS may not meddle with ARTIFACTS on RAMPS. ROBOTS may not contact, either directly or
+         transitively through a SCORING ELEMENT CONTROLLED by the ROBOT, ARTIFACTS on a RAMP,
+         including their own RAMP. Additionally, ROBOTS may not:
+
+              A. descore remove an ARTIFACT from their own RAMP except by operating the GATE, or
+              B. descore remove an ARTIFACT from the opponent's RAMP.
+
+         Violation: MAJOR FOUL per ARTIFACT, and the ALLIANCE is ineligible for the PATTERN RP if G418.A, or
+         the opposing ALLIANCE is awarded the PATTERN RP if G418.B.
+
+G432  Humans only take from the LOADING ZONE. DRIVE TEAM members may only retrieve or move
+      ARTIFACTS from the FIELD as follows:
+
+               A. only ARTIFACTS that are in the LOADING ZONE, and
+               B. only during TELEOP.
+
+      Violation: MINOR FOUL per ARTIFACT.
+
+      DECODE is a fast-paced game and teams should practice coordination and
+      communication between the DRIVE TEAM members to avoid unintentional
+      contact between the ROBOT and any humans in violation of G431.A.
+
+      This violation can stack. A DRIVE TEAM member that retrieves an ARTIFACT
+      from outside the LOADING ZONE during AUTO would receive 2 MINOR FOULS.
+
+Team Update 02  September 18, 2025                                                          2 of 3
+G433  Humans may not yeet SCORING ELEMENTS. DRIVE TEAM members may only enter ARTIFACTS onto
+      the FIELD as follows:
+
+          A. only during TELEOP,
+          B. without LAUNCHING or rolling,
+          C. without using a tool unless allowed under G302, and
+          D. only via the LOADING ZONE by either:
+
+                  i. directly placing the ARTIFACT into the LOADING ZONE, or
+                  ii. into a ROBOT that is in the LOADING ZONE such that the ARTIFACT is fully supported by
+
+                       the ROBOT.
+
+      Violation: MAJOR FOUL per ARTIFACT.
+
+      DRIVE TEAM members may load SCORING ELEMENTS into a ROBOT. DECODE is
+      a fast-paced game and teams should practice coordination and communication
+      between the DRIVE TEAM members to avoid unintentional contact between the
+      ROBOT and any humans, in violation of G431.A.
+
+      This violation can stack. A DRIVE TEAM member that enters an ARTIFACT into
+      the FIELD outside the LOADING ZONE during AUTO would receive 2 MAJOR
+      FOULS.
+
+G434  The ALLIANCE AREA has a storage limit. During TELEOP, each ALLIANCE may not store more than 6
+      ARTIFACTS off the FIELD. DRIVE TEAM members making a good-faith effort to immediately enter
+      additional ARTIFACTS into the FIELD is an exception to this rule.
+
+      Violation: MINOR FOUL per ARTIFACT over the limit and an additional MINOR FOUL per ARTIFACT over the
+      limit for every 3 seconds in which the situation is not corrected.
+
+      The intent of this rule is to prevent an ALLIANCE from starving the FIELD of
+      ARTIFACTS during TELEOP. During AUTO and transition, this rule is not enforced.
+      Upon the start of TELEOP, DRIVE TEAM members must make a good-faith effort
+      to immediately enter ARTIFACTS into the FIELD until compliant with G434.
+
+      Teams will not be in violation of this rule if FIELD STAFF return ARTIFACTS to the
+      DRIVE TEAM that have left the FIELD per section 10.8 Other Logistics such
+      that the ALLIANCE holds a number of ARTIFACTS over the limit. However, if the
+      DRIVE TEAM does not then make a good-faith effort to immediately enter
+      ARTIFACTS into the FIELD until compliant with G434, they will be in violation of
+      this rule.
+
+      DRIVE TEAM members must keep ARTIFACTS accessible. DRIVE TEAM
+      members intentionally losing access to ARTIFACTS, e.g., by purposefully
+      removing them from the FIELD and ALLIANCE AREA, will be considered
+      egregious behavior and handled per G211.
+
+Team Update 02  September 18, 2025                                                        3 of 3
+Team Update 01
+
+General
+
+N/A
+
+Competition Manual
+
+9.3 Areas, Zones, & Markings
+
+         - BASE ZONE: an 18 in. +/- 0.125 in. (45.70 cm +/- 0.30 cm) wide by 18 in. +/- 0.125 in. (45.70 cm +/-
+              0.30 cm) deep infinitely tall volume bounded by ALLIANCE colored tape. The BASE ZONE is an
+              ALLIANCE specific zone belonging to the matching color ALLIANCE. The BASE ZONE includes the
+              tape lines (Figure 9-3).
+
+10.5.2 PATTERN Scoring Criteria
+
+The randomization of the OBELISK during AUTO prior to the start of the MATCH selects the MOTIF which is
+repeated 3 times to define the PATTERN colors for each of the 9 indices on the RAMP (Figure 10-4).
+
+11.4.4 ROBOT
+
+G418  ROBOTS may not contact meddle with ARTIFACTS on RAMPS. ROBOTS may not contact, either
+      directly or transitively through a SCORING ELEMENT CONTROLLED by the ROBOT, ARTIFACTS on a
+      RAMP, including their own RAMP. Exceptions are granted for inconsequential and inadvertent contact
+      while operating a GATE. Additionally, ROBOTS may not:
+
+      A. descore an ARTIFACT from their own RAMP, or
+      B. descore an ARTIFACT from the opponent's RAMP.
+
+      Violation: MAJOR FOUL per ARTIFACT, and the ALLIANCE is ineligible for the PATTERN RP if G418.A, or
+      the opposing ALLIANCE is awarded the PATTERN RP if G418.B.
+
+      Exceptions are granted for inconsequential and inadvertent contact made by a
+      ROBOT while operating a GATE.
+
+      Example 1: A red ROBOT that contacts an ARTIFACT on the blue RAMP is in
+      violation of this rule and is assessed 1 MAJOR FOUL under G418.
+
+      Example 2: A red ROBOT that LAUNCHES an ARTIFACT at an ARTIFACT on the
+      red RAMP, removing it from the RAMP is in violation of this rule. The red
+      ALLIANCE is assessed 1 MAJOR FOUL and is ineligible for the PATTERN RP
+      under G418.A.
+
+G419  ROBOTS only score LAUNCH into the their own GOAL. ROBOTS may not:
+
+          A. intentionally place or LAUNCH ARTIFACTS directly onto the their own RAMP, or
+          B. place or LAUNCH ARTIFACTS into the opponent's GOAL or onto the opponent's RAMP.
+
+      Violation: MAJOR FOUL and the opposing ALLIANCE is awarded the PATTERN RP if G419.B.
+
+      The game intent is for ROBOTS to score by LAUNCHING into the open top of the
+      their own GOAL. Attempts to intentionally score points with actions that enter the
+
+Team Update 01      September 11, 2025                                                        1 of 2
+                   ARTIFACT further down on the RAMP are considered violations of this rule.
+                   Attempts to score points for the opponent either through the opponent GOAL or
+                   with actions that enter an ARTIFACT further down on the opponent RAMP are
+                   also considered violations of this rule.
+
+                   There is no violation for scoring in an opponent's DEPOT.
+
+G425 Keep out of opponent's SECRET TUNNEL A ROBOT in the opponent's SECRET TUNNEL ZONE may not
+         contact, directly or transitively though a SCORING ELEMENT, an opponent ROBOT while in the
+         opponent's SECRET TUNNEL ZONE, regardless of who initiates contact.
+
+12.1  General ROBOT Design
+R105
+      There are expansion limits. After the MATCH has started, ROBOTS may expand beyond the STARTING
+      CONFIGURATION but are still subject to sizing constraints relative to the ROBOT, based on the initial
+      STARTING CONFIGURATION. ROBOTS must be physically constrained to fit within these limits without
+      the use of software. The sizing constraints are:
+
+          A. After the start of the MATCH, ROBOTS may expand horizontally but must remain within a fixed
+               18 in. (45.70 cm) by 18 in. (45.70 cm) when fully expanded per G414.
+
+          B. After the start of the MATCH, ROBOTS may expand vertically up to 18 in. (45.70 cm).
+          C. Within the limitations per G415, ROBOTS may expand vertically up to 38 in. (96.50 cm).
+
+      Any extension beyond the maximum expansion limit during ROBOT operation is
+      considered a violation of this rule. This includes flexible extensions (e.g., surgical
+      tubing flappers, star intakes) that cause the ROBOT to exceed the expansion
+      limit.
+
+      Teams should be prepared to show compliance with this rule and demonstrate
+      their ROBOT expansions during the inspection process. During inspection, each
+      team will be asked to show the ROBOT'S STARTING CONFIGURATIONS and
+      additionally its configurations at maximum mechanical extension. Software
+      limits are not sufficient to demonstrate maximum extensions.
+
+      At maximum extension, a ROBOT in compliance will not exceed the maximum
+      allowable vertical extension of 38 in. (96.50 cm) in one direction while
+      maintaining the horizontal expansion requirements of 18 in. (45.70 cm) length
+      and width perpendicular to the vertical height.
+
+      Teams are responsible for maintaining compliance with expansion limits and
+      subject to penalties listed in G414 and G415 for any violations during the
+      MATCH.
+
+Team Update 01  September 11, 2025                                                            2 of 2
+Team Update 00
+
+General
+
+Team Update 00 is provided as a quick reference of evergreen rule changes from last season, and updates
+from the V0 Preview Release.
+
+The approach taken in this Team Update is to describe changes to content only. Editorial changes to verbiage,
+rule and section references, game specific examples that relate to evergreen content, and formatting changes
+are not described. As always, it's important to read the whole Competition Manual at least once and become
+an expert on sections of the manual that directly relate to your role and responsibilities on your team.
+
+Teams are welcome to view existing questions and answers and to ask thoughtful and informed questions
+through the official Q&A system opening September 22, 2025, 12:00p.m. ET. Before asking a question, please
+review section 1.9 in the Competition Manual for information on what types of questions should be asked.
+
+Notable Changes from Last Season:
+
+Advancement
+
+    · New points-based advancement model in Competition Manual section 4 - Advancement. See the
+         Advancement & FIRST Championship blog for details
+
+Awards
+
+    · The Formal or Presentation Interview has been renamed to the Structured Interview. The format of the
+         interview has not changed.
+
+    · The Motivate Award has been retired. It is replaced by the Reach Award and the Sustain Award.
+    · PORTFOLIOS for this season may only include content from January 1, 2025 or later.
+    · A204-C Allows for "show and tell" demonstration items which may include the team's ROBOT
+    · Updated descriptions and criteria for other awards
+
+Robot Construction Rules
+
+    · Maximum number of allowed servos reduced to 10
+    · Expansion limits are back. See details in R105, G414, and G415.
+
+Changes from V0 Preview:
+
+Section 4 Advancement
+
+    · Changed "Qualification Round" Terminology to "Qualification Phase" for clarification
+    · Corrected references to "ALLIANCE lead"
+    · Corrected references to "structured interview"
+
+Team Update 00  September 6, 2025  1 of 4
+6.2 Team Judged Award Rules
+
+A214  *Teams cannot win the Inspire Award at multiple Qualifying or League Tournaments. Teams are only
+      eligible to win 1st place Inspire Award once per season from any Qualifying or League Tournament.
+      Teams who have won 1st place Inspire may not be considered for 1st, 2nd, or 3rd place Inspire at
+
+      subsequent Qualifying or League Tournaments.
+
+      Teams who have won 1st Place Inspire are eligible to win 2nd or 3rd place Inspire
+      Award at subsequent Qualifying or League Tournaments.
+
+12.1 General ROBOT Design
+
+Details about DECODE expansion limits have been added. Additional expansion rules G414 and G415 are located
+in section 11 Game Rules (G).
+
+R105  There are expansion limits. After the MATCH has started, ROBOTS may expand beyond the STARTING
+      CONFIGURATION but are still subject to sizing constraints relative to the ROBOT, based on the initial
+      STARTING CONFIGURATION. The sizing constraints are:
+
+      A. After the start of the MATCH, ROBOTS may expand horizontally but must remain within a fixed
+          18 in. (45.70 cm) by 18 in. (45.70 cm) when fully expanded per G414.
+
+      B. After the start of the MATCH, ROBOTS may expand vertically up to 18 in. (45.70 cm).
+      C. Within the limitations per G415, ROBOTS may expand vertically up to 38 in. (96.50 cm).
+
+      Any extension beyond the maximum expansion limit during ROBOT operation is
+      considered a violation of this rule. This includes flexible extensions (e.g., surgical
+      tubing flappers, star intakes) that cause the ROBOT to exceed the expansion
+      limit.
+
+      Teams should be prepared to show compliance with this rule and demonstrate
+      their ROBOT expansions during the inspection process. During inspection, each
+      team will be asked to show the ROBOT'S STARTING CONFIGURATIONS and
+      additionally its configurations at maximum extensions.
+
+      At maximum extension, a ROBOT in compliance will not exceed the maximum
+      allowable vertical extension of 38 in. (96.50 cm) in one direction while
+      maintaining the horizontal expansion requirements of 18 in. (45.70 cm) length
+      and width perpendicular to the vertical height.
+
+      Teams are responsible for maintaining compliance with expansion limits and
+      subject to penalties listed in G414 and G415 for any violations during the
+      MATCH.
+
+Team Update 00               September 6, 2025                                                2 of 4
+                                   Figure 12-1: Horizontal Expansion Limit
+
+                Figure 12-2: Vertical Expansion Limit Examples
+
+12.5 Motors & Actuators            Table 12 1: Motor allowances             Notes
+
+G501 *Allowable motors.                Part Numbers
+                                       Available
+ Motor Name                            NFR-600-100-000
+ NFR Products Yuksel 12V DC            SR-MOTOR-DC-01
+ SWYFT Robotics SWYFT Spike Motor
+
+Team Update 00                     September 6, 2025                               3 of 4
+12.6  Power Distribution
+
+R601  *Battery limit - everyone has the same main ROBOT power.
+
+                                                   Table 0-1: Legal ROBOT Main Power Battery Packs
+
+      Battery Pack        Part Number                                                                 Notes
+      WATTOS 12V Battery  WT-NMH1230
+
+R609 *Connect the ROBOT battery though the Main Power Switch.
+
+                                                                     Table 0-2: Legal Power Switches
+
+                Power Switch                                                                          Part Number
+                goBILDA Floodgate Power Switch                                                        3103-0005-0001
+                WATTOS Power Switch Kit                                                               WTS-SW1220
+
+R615 *Use appropriately sized wire.
+
+                   In order to show compliance with these rules, teams should use wire with clearly
+                   labeled sizes if possible. If unlabeled wiring is used, teams should be prepared to
+                   demonstrate that the wire used meets the requirements of this rule (e.g., wire
+                   samples and evidence that they are the required size).
+
+                   Combining multiple smaller wires in parallel cannot be used to create an
+                   equivalent larger wire which meets minimum wire cross section requirements.
+
+Team Update 00            September 6, 2025                                                                           4 of 4
+

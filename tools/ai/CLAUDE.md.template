@@ -1,0 +1,242 @@
+<!--
+  ============================================================================
+  DROP-IN CLAUDE.md FOR AN FTC FtcRobotController REPOSITORY
+  ============================================================================
+  HOW TO USE:
+    1. Copy this file to the ROOT of your robot repo as  CLAUDE.md
+       (NOT to this analysis workspace -- this workspace has its own).
+    2. Replace every <ANGLE BRACKET> placeholder. Delete rows and sections you
+       genuinely do not have. An INACCURATE CLAUDE.md is worse than a short one:
+       the agent will trust a stale hardware table and produce code that
+       NullPointerExceptions on init.
+    3. Keep the finished file UNDER ~200 LINES. Claude Code docs: files over
+       200 lines "consume more context and reduce adherence."
+       ( https://code.claude.com/docs/en/memory )
+    4. Commit it. Re-read it at every event and after every mechanism rebuild.
+    5. Verify it loaded: run /context in a session, look under "Memory files".
+
+  These HTML comments are stripped before the file enters Claude's context, so
+  this header costs you nothing. Leave it or delete it.
+
+  Companion files (create these too -- see playbook/AI-TOOLKIT-SETUP.md):
+    .claude/settings.json        permissions: deny SDK edits, ask before deploy
+    .claude/hooks/protect-sdk.sh a PreToolUse hook that BLOCKS SDK writes
+    .githooks/pre-commit         blocks SDK/Gradle files from being committed
+  Rationale and full text for all three: playbook/AI-FOR-PROGRAMMING.md 3.5-3.6
+  ============================================================================
+-->
+
+# FTC Team <NNNNN> — BIOBUZZ 2026-27 Robot Code
+
+## What this project is
+Android Studio / Gradle fork of `FIRST-Tech-Challenge/FtcRobotController`.
+Runs on a REV Control Hub (REV-31-1595). All of our code lives in `TeamCode/`.
+Competition code must work with **no laptop connected** — see "Competition mode".
+We are a <N>-student team. Time is our scarcest resource; correctness is our
+scarcest quality. Prefer the smallest change that works.
+
+## Pinned versions — never change these unless a human asks you to
+- FTC SDK: **<11.2.1>** (declared in `build.dependencies.gradle`) — v11.2.1 released 2026-07-31
+- Toolchain for SDK 11.2+: **Android Studio Narwhal 3 Feature Drop (2025.1.3) or later**,
+  Gradle **9.1**, AGP **8.13.2**, JDK **17 or 21** · minSdk **24** · ABI `arm64-v8a`
+  (The v11.2 release notes say the workspace *"requires Android Studio Narwhal 3 Feature Drop or
+  later to build"*. The repo README's older "Ladybug (2024.2) or later" line and the ftc-docs
+  "install JDK 17 separately" page both predate this. Do not downgrade Studio on their say-so.)
+- Path library: <Pedro Pathing vX.Y.Z | Road Runner 1.0.x | none>
+- Dashboard/telemetry tool: <FTC Dashboard 0.4.x | FTControl Panels vX.Y.Z> — **SHOP ONLY, see R704.D**
+- Odometry: <goBILDA Pinpoint V2 3110-0002-0002 driver vX | SparkFun OTOS | drive encoders>
+- Vision: <Limelight 3A firmware vX | SDK VisionPortal AprilTagProcessor | none>
+- Other libs: <FTCLib vX.Y.Z | Sloth deploySloth vX.Y.Z | ...>
+
+If you need an API that does not exist in these versions, **STOP and say so.**
+Do not upgrade anything. Do not add a dependency. Both are human decisions.
+
+## Build, deploy, logs — use exactly these commands
+| Purpose | Command | You may run it? |
+|---|---|---|
+| Compile only (fast, no robot) | `./gradlew :TeamCode:compileDebugJavaWithJavac` | yes, freely |
+| Unit tests (no robot) | `./gradlew :TeamCode:test` | yes, freely |
+| Full build | `./gradlew :TeamCode:assembleDebug` | yes, freely |
+| Install to robot | `./gradlew installDebug` | **ASK A HUMAN FIRST** |
+| Hot reload TeamCode only | `./gradlew deploySloth` | **ASK A HUMAN FIRST** |
+| Connect over robot Wi-Fi | `adb connect 192.168.43.1:5555` | ask |
+| Pull the RC log | `adb pull /sdcard/robotControllerLog.txt logs/` | yes |
+
+Compile and test are your feedback loop — use them constantly. **Anything that
+changes what the physical machine does requires a human standing next to it.**
+
+## NEVER modify these files or directories
+- `FtcRobotController/**` — the SDK module. Read the ~200 sample OpModes for
+  *reference only*. Never edit them. **Never imitate their structure**: the
+  samples use blocking `sleep()` chains and inline magic numbers, both of which
+  are banned below. If a compile error looks like it is "in the SDK", the bug is
+  in `TeamCode/`.
+- `libs/**`, `gradle/**`, `gradlew`, `gradlew.bat`, `settings.gradle`,
+  `build.gradle`, `build.common.gradle`, `build.dependencies.gradle`,
+  `gradle.properties`
+- `.githooks/**`, `.claude/settings.json`
+
+A permissions deny-rule and a pre-commit hook both enforce this. If you hit
+either, that is the system working — report it, do not work around it, do not
+suggest `--no-verify`.
+
+## Hardware map — the ONLY source of truth for device names
+Names must match the Robot Controller configuration file **exactly**
+(case-sensitive). Constants live in `TeamCode/.../config/HardwareNames.java`.
+Never type a device-name string anywhere else in the codebase.
+
+| Constant | Config name | Type | Hub | Port | Direction | Notes / limits |
+|---|---|---|---|---|---|---|
+| `LF` | `<lf>` | DcMotorEx | Control | 0 | REVERSE | <goBILDA 5203-2402-0019, 537.7 ticks/rev> |
+| `LB` | `<lb>` | DcMotorEx | Control | 1 | REVERSE | <same> |
+| `RF` | `<rf>` | DcMotorEx | Control | 2 | FORWARD | <same> |
+| `RB` | `<rb>` | DcMotorEx | Control | 3 | FORWARD | <same> |
+| `LIFT` | `<lift>` | DcMotorEx | Expansion | 0 | FORWARD | zero = fully retracted; soft max <N> ticks |
+| `CLAW` | `<claw>` | Servo | Control | 0 | — | **SAFE RANGE 0.30–0.65** |
+| `IMU` | `<imu>` | IMU (BHI260AP) | Control | I2C 0 | — | logo <UP>, USB <FORWARD> |
+| `PINPOINT` | `<pinpoint>` | I2C | Control | I2C 1 | — | pods: X <+dir>, Y <+dir> |
+<!-- add every device you have; DELETE rows you do not have -->
+
+**Budget (BIOBUZZ R503): 8 motors + 8 servos total across ALL configurations.**
+Current use: **<n>/8 motors, <n>/8 servos.** If a change would add an actuator,
+say so explicitly before writing code — it may be illegal, not just expensive.
+
+## Units — one convention, no exceptions
+- Distance: **inches**. Angles: **degrees** at every API boundary; radians only
+  inside a single math method, converted on the way in and out.
+- Motor position: **encoder ticks**; convert at the subsystem edge with a named
+  constant from `Constants`, never inline.
+- Time: **seconds** (`ElapsedTime.seconds()`), never milliseconds.
+- Field frame: <origin and +X / +Y / heading convention — or "TBD until kickoff">
+
+Any variable holding a converted value carries its unit in its name:
+`liftHeightIn`, `armAngleDeg`, `targetTicks`, `elapsedSec`. **Reject any change
+where a bare number crosses a unit boundary.**
+
+## Where things go
+| Path | Contents |
+|---|---|
+| `config/Constants.java` | EVERY tunable number. No numeric literal anywhere else except 0 and 1. |
+| `config/HardwareNames.java` | EVERY `hardwareMap` string. |
+| `subsystems/` | One class per mechanism. Owns its hardware. Exposes intent, not implementation. |
+| `opmodes/auto/`, `opmodes/teleop/` | Name autos for what they score, not for a code word. |
+| `tuning/` | One OpMode per mechanism, kept all season. Instrumentation, not throwaway code. |
+| `util/MathFunctions.java` | Pure static math, **no SDK imports**, so it is unit-testable. |
+| `TeamCode/src/test/java/` | JUnit 5. Any pure function you write gets a test. |
+| `docs/HARDWARE.md`, `docs/TUNING-LOG.md` | Human-facing wiring notes and the dated tuning journal. |
+
+## Subsystem contract — every subsystem obeys all six
+1. Constructor takes `HardwareMap`; it does all `hardwareMap.get()` calls and
+   nothing else expensive.
+2. Exactly one `periodic()`, called once per loop from the OpMode.
+3. Public methods express **intent** (`setState(State.SCORE)`), never raw power.
+4. Exposes `atTarget()` so state machines and autos can sequence on it.
+5. Never reads the gamepad. Never calls `telemetry.update()`. Never calls
+   `sleep()` or `Thread.sleep()`.
+6. Never blocks. If a behaviour takes time it is a state machine, not a wait.
+
+## Safety rules you must follow when writing robot code
+These are not style preferences. Violating one of these breaks hardware or hurts
+a person.
+- Every closed-loop output is clamped: `Range.clip(out, -MAX, MAX)`, MAX from `Constants`.
+- Every position setpoint is clamped to a soft limit from `Constants` **before**
+  it reaches hardware.
+- Servos: `setPosition()` arguments must lie inside the SAFE RANGE in the
+  hardware table. **Never widen a servo range. Never call `scaleRange()` to make
+  a target "fit".** If a target is outside the range, STOP and report it.
+- Every `while` loop in a `LinearOpMode` has `opModeIsActive()` or
+  `!isStopRequested()` in its condition.
+- New mechanism motors get `motor.setCurrentAlert(<A>, CurrentUnit.AMPS)` and the
+  subsystem checks `isMotorOverCurrent()` and cuts power. Control Hub motor ports
+  are 10 A continuous / 20 A peak.
+- Voltage-compensate anything tuned: scale output by `12.0 / batteryVoltage`.
+- Bulk reads on for both hubs: `setBulkCachingMode(BulkCachingMode.AUTO)`.
+- Loop time is always on driver-station telemetry. If a change could slow the
+  loop, say so in your summary.
+
+## Numbers you may NOT invent
+PID/PIDF gains · feedforward constants · servo positions · encoder-to-inch
+ratios · arm angles · timing constants · camera offsets · field coordinates ·
+gear ratios · spool diameters.
+
+If a number is needed and is not already in `Constants.java`, write a
+clearly-marked placeholder — `= 0.0; // TODO MEASURE: <what and how>` — and tell
+the human **what to measure and with what procedure.** Never copy a gain from
+another team's repo, from a tutorial, or from your own estimate. A plausible
+wrong gain is more dangerous than an obvious zero.
+
+## Test-before-deploy protocol — run every step, in order
+No code reaches the robot until all five pass. State which steps you actually
+ran; **compiling is not testing.**
+1. `./gradlew :TeamCode:compileDebugJavaWithJavac` — must be clean, zero warnings you introduced.
+2. `./gradlew :TeamCode:test` — must be green. New pure logic gets a new test in the same change.
+3. **Self-review against the safety list above**, naming each rule you checked.
+4. **State the physical failure mode in one sentence**: "if this is wrong, the
+   <mechanism> will <what> and could <damage what>." If you cannot name one, you
+   do not understand the change well enough to ship it.
+5. **Bench test before field test.** Robot on blocks, wheels off the ground,
+   mechanism at its safest position, a human on the STOP button. Only then the field.
+
+After a robot test, the human reports back and we log the result in
+`docs/TUNING-LOG.md` with the date, the value changed, and the measured effect.
+Never write "tested and working" yourself — you cannot see the robot.
+
+## Ask before changing — the boundaries
+**Stop and ask a human** before you:
+- change any number in `Constants.java` that was measured or tuned;
+- change a hardware name, port, direction, or anything in the hardware table;
+- add, remove or repurpose a motor or servo (R503 budget, see above);
+- add a library, bump a version, or touch any Gradle file;
+- delete or rewrite an OpMode that has been run at an event;
+- refactor code you were not asked to touch, or "clean up" something adjacent;
+- change anything in `tuning/` (those OpModes are our measuring instruments);
+- do anything that would require a laptop connected during a match.
+
+**Proceed without asking** for: new code in a new file, adding a unit test,
+adding telemetry behind `COMPETITION_MODE`, fixing a compile error in code you
+just wrote, adding a comment, formatting your own new code.
+
+When a request is ambiguous — **especially about hardware, geometry, or a
+number** — ask. One question costs 30 seconds. A wrong guess costs a mechanism.
+
+## Competition mode
+`Constants.COMPETITION_MODE` gates every dashboard / telemetry-streaming code path.
+**Rule R704.D names FTC Dashboard and FTControl Panels as prohibited on the Robot
+Controller Wi-Fi network, and R704.C requires all programming laptops to be
+disconnected during MATCH play.** Debugging at events is by on-robot file logging,
+pulled over USB afterwards. **Never add a code path that requires a laptop
+connection in order to work.**
+
+## Git
+- `main` is always what is on the robot right now.
+- One short-lived branch per feature: `feat/lift-pid`, `fix/claw-range`.
+- Commit message: `<subsystem>: what changed` — e.g. `lift: raise kG to 0.0009 after new spool`.
+- Tuning-value changes get their own commits, separate from logic changes, so we
+  can bisect a regression to a number.
+- You may `git add` and `git commit`. You may NOT `git push`, `git reset --hard`,
+  `git clean`, or rebase.
+
+## How to work with us
+- We are students learning to program. **Explain what you did and why, in plain
+  language, every time.** If we cannot explain your code to a judge, we cannot use it.
+- We must be able to defend every design decision in a judge interview
+  (BIOBUZZ A201; see `research/AI-IN-FTC-POLICY.md`). When you make a
+  non-obvious choice, give us the one-sentence reason we would say out loud.
+- Prefer boring, inspectable code over clever code.
+- When you finish, say in one sentence what could physically go wrong on the
+  robot if you are wrong.
+
+## Keep this file fresh
+If you are corrected twice on the same thing, propose an edit to this file.
+If a mechanism is rebuilt, the hardware table and safe ranges above are **stale
+until a human updates them** — say so rather than trusting them.
+
+<!--
+  Repo conventions discovered from prior sessions -- append below, dated.
+  (Idea borrowed from 6165 MSET Cuttlefish's CLAUDE.md, which keeps a
+  "Repo conventions discovered from prior conversations" section:
+  https://github.com/6165-MSET-Cuttlefish/summer-2026/blob/main/CLAUDE.md )
+-->
+
+## Conventions learned the hard way
+<!-- 2026-__-__ : ... -->

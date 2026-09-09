@@ -1,0 +1,2575 @@
+Team Update 16
+
+General
+
+Team Updates
+
+Team Update 16 is the final Team Update of the season! Congratulations to all of the teams, volunteers,
+mentors, and coaches for a terrific INTO THE DEEP season!
+
+Q&A Closed
+
+The team Q&A system is now closed for the season.
+
+Drivers' Meeting Questions
+
+With the closing of the Team Q&A system, we would like to provide teams that are competing at the FIRST
+Championship an opportunity to submit questions which will be addressed at the Drivers' Meeting in Houston,
+Texas.
+
+Competing teams may submit questions by emailing ftcteams@firstinspires.org with the subject title "FIRST
+Championship - Drivers' Meeting". Questions will be accepted via email until Thursday, April 10th.
+
+Once on site in Houston, teams may submit questions directly to the pit administration desk located in the pit
+area in Hall A3. We will accept team questions on site at FIRST Championship until 12:00pm on Wednesday,
+April 16th.
+
+Competition Manual
+
+N/A
+
+Team Update 16  April 3, 2025  1 of 1
+Team Update 15
+
+General
+FIRST Championship
+For the 2025 FIRST Championship, additional SAMPLES will be added to the INTO THE DEEP game. Given the
+elevated level of gameplay we've seen at Regional Championship Tournaments, we feel this change will and
+allow teams competing in the FIRST Championship additional scoring opportunities.
+Team Updates
+Team Update 16 will be the last Team Update of the season and is scheduled for Thursday, April 3rd, 2025.
+Q&A Closing
+The team Q&A system will close on Thursday, April 3rd at 12:00pm eastern.
+Competition Manual
+Section 10.3.1 SCORING ELEMENTS
+Before each MATCH begins, FIELD STAFF stage SCORING ELEMENTS according to Figure 0-1.
+
+                                                         Figure 0-1: SCORING ELEMENTS staging positions
+
+                80 SAMPLES* (20 red, 20 blue, and 40 neutral) and 40 CLIPS that are staged
+                as follows:
+
+Team Update 15  March 20, 2025  1 of 2
+                             A. Blue ALLIANCE SAMPLES - 3 blue SAMPLES are placed on each of the 3
+                                  SPIKE MARKS on TILE B1
+
+                             B. Red ALLIANCE SAMPLES - 3 red SAMPLES are placed on each of the 3
+                                  SPIKE MARKS on TILE E6
+
+                             C. Neutral SAMPLES - 3 neutral SAMPLES are placed on each of the 3
+                                  SPIKE MARKS on TILES B6 and E1
+
+                             D. 2 neutral SAMPLES and 2 corresponding ALLIANCE SPECIFIC SAMPLES
+                                  are placed on the floor outside the FIELD wall between the ALLIANCE
+                                  AREA and the wall
+
+                             E. 20 CLIPS are placed on the floor outside the FIELD wall between the
+                                  ALLIANCE AREA and the wall
+
+                             F. SAMPLES inside the SUBMERSIBLE ZONE - 15 red SAMPLES, 15 blue
+                                  SAMPLES, and 30 neutral SAMPLES are randomly placed inside the
+                                  SUBMERSIBLE
+
+                        From the SCORING ELEMENTS provided in D and E each ROBOT may be pre-
+                        loaded with either 1 SAMPLE or one SPECIMEN such that it is in contact with the
+                        ROBOT and not in the OBSERVATION ZONE or NET ZONE. SAMPLES or CLIPS
+                        not pre-loaded will remain in setup locations D and E.
+
+                        *For SCORING ELEMENT quantities and placement at the FIRST Championship,
+                        please reference section 15.2 Game Modification.
+
+Section 15.2 Game Modification
+
+The number, type, and distribution of SCORING ELEMENTS may be adjusted for the FIRST Championship INTO
+THE DEEP tournament. Any game modifications will be published in or before the last regularly scheduled
+Team Update as described in section 1.9 Team Updates.
+
+At the 2025 FIRST Championship, the following modifications will be made to the INTO THE DEEP game:
+
+    · 5 additional red SAMPLES (25 total)
+    · 5 additional blue SAMPLES (25 total)
+
+The 10 additional SAMPLES will be added to the SUBMERSIBLE ZONE during pre-match setup. No additional
+CLIPS will be provided. This game modification is an exception to pre-match setup described in section
+10.3.1 SCORING ELEMENTS and will only apply to the FIRST Championship.
+
+Team Update 15  March 20, 2025  2 of 2
+Team Update 14
+
+General
+A message from the GDC: No team updates this week!
+
+                    Figure 17-1: GDC (Game Dog Committee)
+
+Competition Manual
+n/a
+
+Team Update 14      March 6, 2025                          1 of 1
+Team Update 13
+
+General
+
+The Field Compliance Checklist is a new resource that will help ensure a consistent playing field for teams by
+enabling field staff to confirm that the most critical dimensions and measurements of the INTO THE DEEP
+Arena comply with minimum tolerance requirements. The tool serves as a quick guided check through tape
+line locations and measurements, basket heights, AprilTag locations, and submersible structure heights.
+
+All events are expected to meet the minimum compliance requirements. The checklist must be completed
+once for a single day event, prior to the start of qualification matches. For multi-day events, the checklist must
+be completed prior to the start of the qualification matches for each day of the multi-day event.
+
+The Field Supervisor is responsible for working with the teams to ensure the field is in the best condition
+possible for each match played and this new tool will help them validate that the field is within the proper
+specs. For events that do not staff a Field Supervisor, the checklist is the responsibility of the Head Referee.
+
+This new tool serves as a way for all events to standardize arena element setup and to ensure that teams have
+a consistent and expected experience at any event they attend.
+
+Competition Manual
+
+Section 9 ARENA
+
+The ARENA is modular and is assembled, used, disassembled, and transported many times during the
+competition season. It undergoes wear and tear. The ARENA is designed to withstand rigorous play and
+frequent reassembly. Every effort is made to ensure that ARENAS are consistent from event to event. However,
+ARENAS are assembled in different venues by different event staff and some small variations occur. For
+details regarding assembly tolerances, please refer to the ARENA Layout and Marking Diagram Field
+Compliance Checklist. Successful teams will design ROBOTS that are insensitive to these variations.
+
+Illustrations included in this section are for a general visual understanding of the INTO THE DEEP ARENA, and
+dimensions included in the manual are nominal. Please refer to the official drawings for exact dimensions,
+tolerances, and construction details. The official drawings, CAD models, and drawings for low-cost versions of
+important elements of the INTO THE DEEP FIELD are posted on the Game and Season page on the FIRST
+website.
+
+Team Update 13  February 20, 2025  1 of 3
+Section 11.4.3 SCORING ELEMENT
+
+G408 *Keep SCORING ELEMENTS in bounds. A ROBOT may not intentionally eject a SCORING ELEMENT
+         from the FIELD (either directly or by bouncing off a FIELD element or another ROBOT). SCORING
+         ELEMENTS that leave the FIELD are not returned to gameplay except as allowed in rule G431.
+
+         Violation: MAJOR FOUL per SCORING ELEMENT.
+
+                   Examples of SCORING ELEMENTS that leave the FIELD that are not considered
+                   intentional removal:
+
+                   A. SCORING ELEMENTS removed from the FIELD while attempting to score are
+                        not a violation of this rule, however, are not returned to the FIELD.
+
+                   B. SCORING ELEMENTS that are removed/dropped by a ROBOT while
+                        attempting to collect them from the OBSERVATION ZONE
+
+                   SCORING ELEMENTS that leave the FIELD are not returned by FIELD STAFF. The
+                   DRIVE TEAM may retrieve SCORING ELEMENTS outside of the FIELD and place
+                   them back into play via the HUMAN PLAYER as long as no other rules are
+                   violated.
+
+                   Intentional ejection of SCORING ELEMENTS will be determined by the Head
+                   REFEREE. If an action is repeated throughout the MATCH, it is likely that a
+                   REFEREE may perceive this as intentional.
+
+Section 12.5 Motors and Actuators
+
+· Rule R501 orange box update:
+
+      Many legal gearmotors are sold with labeling based on the entire assembly.
+      These motors may be used with or without the provided gearbox, and/or with any
+      other compatible gearbox.
+
+R504  *Do not modify actuators unless explicitly allowed. The integral mechanical and electrical system of
+      any motor or servo must not be modified. Motors and servos used on the ROBOT shall not be modified
+      in any way, except as follows:
+
+          E. the mounting brackets and/or output shaft/interface (including pinion gears) may be modified
+               to facilitate the physical connection of the motor to the ROBOT and actuated part,
+
+          F. the electrical leads may be trimmed to length as necessary and connectors or splices to
+               additional wiring may be added (per R503), and purely electrical enclosures can be substituted
+               with functionally equivalent replacements,
+
+          G. servos may be modified as specified by the manufacturer (e.g., re-programming or modification
+               for continuous rotation),
+
+          H. minimal labeling may be applied to indicate device purpose, connectivity, functional
+               performance, etc. as long as the team applied label does not obstruct the markings used to
+               identify the device,
+
+          I. insulation may be applied to electrical terminals,
+          J. repairs, provided the original performance and specifications are unchanged, and
+          K. maintenance recommended by the manufacturer.
+
+Team Update 13                     February 20, 2025                                  2 of 3
+Section 12.6 Power Distribution
+
+R613  *No high voltage allowed except for LEDs. Any active electrical item that is not an actuator (specified
+      in R501) or power regulation device (specified in R505) is considered a CUSTOM CIRCUIT. CUSTOM
+      CIRCUITS shall not provide regulated output voltages exceeding 5V, except if solely used for powering
+      LEDs, but may pass through unregulated battery voltage.
+
+R619 *Do not mix and match power on or between power regulation devices. The following rules must be
+         adhered to when using power on any power regulation device (per R505):
+
+      A. other than power used to energize the power regulation device (per R614) no power originating
+          outside the power regulation device may be used on or with devices connected to the power
+          regulation device. The only exceptions are connections intended for communication between
+          devices (RS485/USB/PWM/etc.).
+
+      Example 1: The +5V port on a REV Expansion Hub cannot be used to power
+      devices connected to a REV Control Hub's I2C ports.
+
+      Example 2: A regulated 5V output provided by a CUSTOM CIRCUIT cannot be
+      used to power an I2C device connected to a REV Control Hub.
+
+      B. power originating from ports/connectors on power regulation devices may only be used for
+          devices directly connected to that port/connector. The only exception to this is +5V power from
+          the +5V power port on the REV Control Hub or REV Expansion Hub may be used in conjunction
+          with any Analog, Digital, or I2C port on that device. In addition, the +5V power port may be used
+          to power external devices.
+
+      Example 1: The power provided by Digital Port 0-1 on a REV Control Hub should
+      not be used to power devices connected to I2C Port 0. However, power provided
+      by Digital Port 0-1 can be used to power devices connected to both signal
+      channels N and N+1 on Digital Port 0-1.
+
+      Example 2: The +5V power can be used to power external devices such as
+      externally powered USB hubs (per Error! Reference source not found.).
+
+      Example 3: The power provided by multiple servo ports cannot be combined into
+      a single power bus for one or more servos.
+
+      C. 6V power provided by the REV Servo Power Module, REV Robotics Servo Hub, or Studica Servo
+          Power Block may only be used for powering servos.
+
+      6V power provided by the REV Servo Power Module, REV Robotics Servo Hub, or
+      Studica Servo Power Block may only be used for powering servos.
+
+Team Update 13                   February 20, 2025                                   3 of 3
+Team Update 12
+
+General
+
+N/A
+
+Competition Manual
+
+Section 6.1 Team Judges Awards Overview and Schedule
+
+A101  *Team PORTFOLIOS have limits. Teams have the opportunity to submit a team PORTFOLIO to be used
+      as part of the judging process. No other printed or digital content not directly included in this document
+      will be collected by the JUDGES to consider during deliberations. PORTFOLIOS must meet the following
+      requirements:
+
+         A. ......
+         B. ......
+         C. ......
+         D. ......
+         E. ......
+         F. ......
+
+         None of the content of the cover page will be used by JUDGES to evaluate any
+         awards criteria. Any content beyond the allowed 15 pages will not be reviewed by
+         the JUDGES.
+
+         The JUDGES use the cover page to identify the team associated with the
+         PORTFOLIO. Teams who forget to include a cover page may be disqualified from
+         judging if the JUDGES cannot determine what team the PORTFOLIO is
+         associated with.
+
+         Font minimums are used to help ensure minimum readability. Teams should
+         carefully consider font size, color, and graphic design when making their
+         PORTFOLIO so that all JUDGES are able to read their submission. Teams whose
+         design choices include small fonts or low contrast text on images will not be
+         excluded from consideration but understand that JUDGES will not be able to use
+         anything they cannot read.
+
+         JUDGES will not open, view, or use any included links to other documents,
+         websites, or videos referenced to linked to from the PORTFOLIO. JUDGES may
+         read additional information during pit interviews but will not bring back additional
+         printed content to be referenced as part of the JUDGE deliberations.
+
+         Teams may use writing and research aids including Artificial Intelligence (AI) to
+         help them compose their PORTFOLIOS. If AI or other resources are used, they
+         must be credited via footnote or endnote.
+
+         The PORTFOLIO captures a team's progression through the current FIRST Tech
+         Challenge season. A team may include anything in their PORTFOLIO which took
+
+Team Update 12      February 6, 2025                                                           1 of 3
+      place after their final official event of the previous season. Off-season events are
+      not a part of the official FIRST Tech Challenge event calendar may be included as
+      part of the team's current season. A team may reference previous seasons (for
+      example, in a team or organizational plan) to demonstrate growth, but the
+      emphasis must be on the current season.
+
+Section 9.10 Event Management System
+
+                                                                            Table 9-1 Audio cues
+
+      Event             Timer Value Audio Cue
+
+      MATCH start       2:30  "Cavalry Charge"
+
+      AUTO ends         2:00  "Buzzer x 3"
+
+      AUTO to TELEOP Transition 0:07 to 0:01 "Drivers, pick up your controllers, 3-2-1"
+
+      TELEOP begins     2:00  "3 Bells"
+
+      Final 30 seconds  0:30  "Train Whistle"
+
+      MATCH end         0:00  "3-second Buzzer"
+
+      MATCH stopped     N/A   "Foghorn"
+
+Section 11.2 Conduct
+
+G210  *Do not expect to gain by doing others harm. Actions clearly aimed at forcing the opponent ALLIANCE
+      to violate a rule are not in the spirit of FIRST Tech Challenge and not allowed. Rule violations forced in
+      this manner will not result in an assignment of a penalty to the targeted ALLIANCE.
+
+      Violation: MINOR FOUL plus MAJOR FOUL if REPEATED. The ALLIANCE that was forced to break a rule
+      will not incur a FOUL.
+
+      This rule does not apply for strategies consistent with standard gameplay, for
+      example:
+      A. a red ALLIANCE ROBOT ASCENDING in their ASCENT ZONE in the final 30
+
+           seconds of the MATCH contacts a blue ALLIANCE ROBOT
+      B. a red ROBOT attempts to enter their NET ZONE to place a SPECIMEN and
+
+           pushes a blue ROBOT that was less than 1 TILE away into the NET ZONE.
+
+      This rule requires an intentional act with limited or no opportunity for the
+      team being acted on to avoid the penalty, such as:
+      A. trapping an opposing ALLIANCE ROBOT in your ALLIANCE'S ASCENT
+
+           ZONE during the last 30 seconds of the MATCH.
+      B. pushing an opposing ALLIANCE ROBOT into your ALLIANCE'S
+
+           OBSERVATION ZONE intentionally or from more than 1 TILE away.
+      C. placing your ALLIANCE SPECIFIC SAMPLE or SPECIMEN in an opposing
+
+           ALLIANCE'S ROBOT.
+
+Team Update 12                February 6, 2025                                                    2 of 3
+                         D. a ROBOT becomes pinned in their opposing ALLIANCE'S OBSERVATION
+                              ZONE by the opposing ALLIANCE ROBOT
+
+Section 11.3 Pre-MATCH
+
+G301 *Be prompt. A DRIVE TEAM member may not cause significant delays to the start of their MATCH.
+          Causing a significant delay requires both of the following to be true:
+
+               G. The expected MATCH start time has passed, and
+
+                    During Qualification MATCHES, the expected start time of the MATCH is the time
+                    indicated on the MATCH schedule or ~3 minutes from the end of the previous
+                    MATCH on the same FIELD, whichever is later. If T206 is in effect, the expected
+                    MATCH start time is the later of the end of the T206 time or the time indicated on
+                    the schedule.
+
+                    During playoff MATCHES, the expected start time of the MATCH is the time
+                    indicated on the MATCH schedule or 8 minutes from either ALLIANCE'S previous
+                    MATCH, whichever is later.
+
+               H. The DRIVE TEAM has access to the ARENA and is neither MATCH ready nor making a good
+                    faith effort, as perceived by the Head REFEREE, to quickly become MATCH ready.
+
+                    Teams that have violated G207 or have 1 DRIVE TEAM member present and have
+                    informed event staff that their ROBOT will not be participating in the MATCH are
+                    considered MATCH ready and not in violation of this rule.
+
+          Violation: If a Qualification MATCH, Vverbal warning plus a MAJOR FOUL if subsequent violations occur
+          within the tournament phase (e.g., qualifications or playoffs), and is applied to their upcoming MATCH. If
+          the DRIVE TEAM is not MATCH ready within 2 minutes of the verbal warning/MAJOR FOUL and the Head
+          REFEREE perceives no good faith effort by the DRIVE TEAM to quickly become MATCH ready, DISABLED.
+          If a playoff MATCH, a verbal warning is issued to the ALLIANCE. For subsequent violations within the
+          tournament phase, a MAJOR FOUL applied to the ALLIANCE'S upcoming MATCH. If the ALLIANCE is not
+          MATCH ready within 2 minutes of the verbal warning/MAJOR FOUL having been issued, and the Head
+          REFEREE perceives no good faith effort by the DRIVE TEAM(s) to quickly become MATCH ready, the
+          offending team's ROBOT is DISABLED.
+
+Section 12.6 Power Distribution
+
+R617  *Use specified wire colors. All non-SIGNAL LEVEL wiring with a constant polarity (i.e., except for
+      outputs of motor controllers, or sensors) must use consistent standard color-coding with different
+      colors used for the positive (red, yellow, white, brown, or black with white stripe) and negative/common
+      (black, blue) wires. Integrated wires originally attached to legal COTS devices or wires included/sold by
+      the manufacturer are considered part of the device and by default legal. Such wires are exempt from
+      this rule.
+
+Team Update 12                   February 6, 2025  3 of 3
+Team Update 11
+
+General
+N/A
+Competition Manual
+12.6 Power Distribution
+R601 *Battery limit - everyone has the same main ROBOT power.
+
+                                                         Table 12-1: Legal ROBOT Main Power Battery Packs
+
+      Battery Pack             Part Number          Notes
+
+      Matrix 12V 3000mAh NiMH  14-0014              May be labeled as
+                                                    "Modern Robotics"
+
+R611  *The ROBOT frame is not a wire. All wiring and electrical devices shall be electrically isolated from the
+      ROBOT frame. The ROBOT frame must not be used to carry electrical current. Electrically grounding the
+      control system electronics to the frame of the ROBOT is only permitted such that all of the following
+      conditions are met:
+
+          A. straps/cables used must use one of be from the following approved parts:
+
+                                                        Table 12-2: Legal ROBOT Grounding Straps
+
+                Grounding Strap                     Part Number
+                AndyMark Resistive Grounding Strap  am-4648a
+                REV Resistive Grounding Strap       REV-31-1269
+                Swyft Grounding Cable               SR-Ground-01
+
+Team Update 11                 January 23, 2025                                                            1 of 1
+Team Update 10
+
+General
+
+A note to the Community about G427 changes
+
+Rule G427 was originally written to clearly and unequivocally protect robots while they are
+ASCENDING (climbing), however due to the tight nature of the SUBMERSIBLE ZONE and the limited
+space for teams to collect SAMPLES and score SPECIMENS we have heard from many teams and
+volunteers (and seen ourselves) that this rule is not working as intended. Because of this, we are
+modifying the wording of G427 and adding an additional exception.
+
+For the original G427, many teams who were genuinely just trying to continue to collect SAMPLES
+and score SPECIMENS and were not interfering with ASCENDING robots were penalized due to
+incidental contact, and we realized and were uncomfortable with the potential to attempt to gain
+benefit from forcing opponents to violate G427 which forces referees into the less comfortable, and
+less predictable, situation of having to rule on robot intent in regards to potential G210 violation.
+
+The addition of exception `B' to G427 is intended to further define a condition where we believe a
+robot is unlikely to be attempting to ASCEND and therefore does not need G427 protections. This
+exception will allow robots which wish to continue to collect SAMPLES and score SPECIMENS to
+continue doing those things in the last 30 seconds with lower risk of accidentally incurring G427
+penalties, devalue strategies aimed at attempting to force a G427 violation, and reduce the number of
+subjective calls our referees are asked to make.
+
+We know this change will not resolve all issues caused by the tight field layout, and there is no perfect
+fix, but we hope this change and this transparency behind the intent of the change will help teams and
+volunteers understand both what changed and why.
+
+Team Update 10  January 16, 2025  1 of 3
+Competition Manual
+
+Section 11.4.5 ROBOT Interaction
+
+G427  Climbing ROBOTS are protected. In the last 30 seconds of the MATCH, a ROBOT may not contact
+      (either directly or transitively through a SCORING ELEMENT CONTROLLED by either ROBOT and
+      regardless of who initiates contact) an opponent ROBOT if any part of either ROBOT is in the
+      opponent's ASCENT ZONE. Exceptions to this rule are as follows:
+
+      A. Contact occurring while both ROBOTS have achieved met the scoring requirements to achieve
+          LEVEL 2 or LEVEL 3 ASCENT.
+
+      B. Contact occurring with an opponent ROBOT who is extending more than approximately 7 inches
+          (i.e. roughly the length of two SAMPLES) into the SUBMERSIBLE ZONE as measured from the
+          barrier.
+
+      Violation: MAJOR FOUL plus the affected ALLIANCE ROBOT is awarded a LEVEL 3 ASCENT.
+
+                    Figure 11-1 Protected and not protected ROBOTS
+
+      The intent of exception A is that teams should be aware that the SUBMERSIBLE
+      ZONE is a constrained space and ROBOTS swinging during their ASCENT may
+      contact each other and teams should design their ROBOTS to be resilient to
+      incidental contact.
+
+      The intent of exception B is to allow minor extensions into the SUBMERSIBLE
+      ZONE while attempting to ASCEND while also allowing incidental contact
+      between longer mechanisms.
+
+Team Update 10                    January 16, 2025                                  2 of 3
+                  Figure 11-2 Examples of contact resulting in no violation to either ROBOT
+
+                 Figure 11-3 Examples of contact resulting in violations to offending ROBOT
+
+ROBOTS that are attempting to play defense within the SUBMERSIBLE ZONE or
+the ASCENT ZONES during the last 30 seconds of the MATCH are likely to incur
+penalties.
+
+Team Update 10  January 16, 2025                                                             3 of 3
+Team Update 09
+
+General
+
+Competition Manual
+
+Section 11.3 - Pre-MATCH
+
+G303 *ROBOTS on the FIELD must be set up to play a MATCH. A ROBOT must meet all following MATCH-
+         start requirements:
+
+              A. does not pose a hazard to humans, FIELD elements, or other ROBOTS.
+              B. has passed inspection, i.e., it is compliant with all ROBOT rules.
+              C. if modified after initial Inspection, it is compliant with I304.
+              D. is the only team-provided item left on the FIELD.
+              E. is fully contained within the FIELD and not in the NET ZONE or OBSERVATION ZONE.
+              F. touching the FIELD wall adjacent to the ALLIANCE AREA.
+              G. not attached to, entangled with, or suspended from any FIELD element.
+              H. confined to its STARTING CONFIGURATION (see R101 and R102).
+              I. in contact with no more than the allowed pre-load possession limit as described in section
+
+                   10.3.1 SCORING ELEMENTS.
+              J. ROBOT SIGNS must indicate the correct ALLIANCE color (see R101).
+              K. ROBOT must be motionless following completion of OpMode initialization.
+
+Section 12.7 - Control, Command & Signals System
+
+R712  *Only specified modifications to core control system devices permitted. The DRIVER STATION device
+      and software, Android-based ROBOT CONTROLLER device, main and secondary power switch(es),
+      power regulation devices, fuses, and batteries shall not be tampered with, modified, or adjusted in any
+      way (tampering includes drilling, cutting, machining, rewiring, disassembling, painting, removing
+      enclosures and replacing with custom enclosures, etc.), with the following exceptions:
+
+      A. wires, cables, and signal lines may be connected via the standard connection points provided on
+          the devices,
+
+      B. fasteners (including adhesives) may be used to attach devices to the OPERATOR CONSOLE or
+          ROBOT or to secure cables to the device,
+
+      C. thermal interface material may be used to improve heat conduction,
+      D. labeling may be applied to indicate device identification, purpose, connectivity, functional
+
+          performance, etc. as long as they do not cover labels or markings used to identify the product,
+      E. jumpers may be changed from their default location,
+      F. jumpers or switches may be moved to configure devices per the manufacturer's manual,
+      G. device firmware may be updated with manufacturer supplied firmware,
+      H. integral wires on motor controllers and batteries may be cut, stripped, and/or connectorized,
+      I. devices may be repaired, provided the performance and specifications of the device after the
+
+          repair are identical to those before the repair,
+      J. add insulating material to exposed conductors, and
+
+Team Update 09  January 9, 2025                   1 of 2
+K. tape may be applied for debris protection, and
+L. Power switch mounting brackets can be modified or replaced
+
+Team Update 09  January 9, 2025                                2 of 2
+Team Update 08
+
+General
+
+Section 13.6.2 - 13.6.6
+
+Typical timing brackets are examples of how interweaving awards and finals matches may be timed but will
+depend on the number of teams competing, the number of awards given, and the number of fields being used
+at the event. The scoring system will adjust to the number of fields configured at the event and will provide
+minimum timing guidance for field staff based on applicable Competition Manual rules. Events running on a
+single field will typically run slower than those running on multiple fields so actual cycle time will vary from the
+typical timing provided.
+
+Section 11 - Rule Violation Updates
+
+Throughout Section 11, many rule violations have had minor formatting changes, such as adding or removing
+punctuation. Other rule violations within section 11 have been edited for further clarity to assist teams and
+referees with a better understanding of the escalation of the violation. Violation changes that would impact
+team and referee understanding are outlined in a table in Section 11 - Game Rules
+
+Competition Manual
+
+Section 5.3 Wireless Communication
+
+E302 *Don't interfere with wireless networks. Participants may not interfere, attempt to interfere, or attempt
+         to connect with any other team or FIRST wireless network without expressed permission.
+
+                   Teams are encouraged to report suspected wireless security vulnerabilities to
+                   the FIRST Technical Advisor (FTA) or Event Director if at the event or to FIRST via
+                   ftctech@firstinspires.org to report a suspected issue after the event.
+
+         Violation: Verbal warning, plus subsequent and/or egregious violations may lead to dismissal from the
+         event and/or legal action based on applicable laws.
+
+Section 10.2 DRIVE TEAM
+
+                         Table 10-1: DRIVE TEAM roles
+
+Role            Description                 Max./              Criteria
+DRIVE COACH                                 DRIVE TEAM
+DRIVER          a guide or advisor                             any team member and may be an adult,
+                an operator and controller          1          must wear "DRIVE COACH" badge
+                of the ROBOT
+                                                    2          STUDENT, must wear a "DRIVER" badge
+
+Team Update 08                              December 26, 2024  1 of 3
+Role            Description        Max./                              Criteria
+                                   DRIVE TEAM
+
+HUMAN PLAYER    a SCORING ELEMENT  1* STUDENT, must wear a "HUMAN PLAYER" badge
+                manager
+
+*Only one HUMAN PLAYER will represent an ALLIANCE in a MATCH. If an ALLIANCE cannot agree on which
+team's HUMAN PLAYER will participate in a MATCH, The HUMAN PLAYER from the team listed as "Red 1" or
+"Blue 1" in the MATCH schedule will be used
+
+Section 11 - Game Rules
+The following rule violations have been updated for further clarity.
+
+Rule Number     Violation Changes
+G101
+                Violation: Verbal warning, plus YELLOW CARD if subsequent violations occur during the
+                event.
+
+G102            Violation: Verbal warning, plus YELLOW CARD if subsequent violations occur during the
+                event.
+
+G201            Violation: Verbal warning, plus YELLOW CARD if subsequent violations occur during the
+                event. Further violations of this rule are addressed in rule G211.
+
+G202            Violation: Verbal warning, plus YELLOW CARD if subsequent violations occur during the
+                event.
+
+G203            Violation: Verbal warning, plus YELLOW CARD if subsequent violations occur during the
+                event.
+
+G204            Violation: Verbal warning, plus YELLOW CARD if subsequent violations occur during the
+                event.
+
+G205            Violation: Verbal warning, plus YELLOW CARD if subsequent violations occur during the
+                event.
+
+G206            Violation: Verbal warning, plus YELLOW CARD if subsequent violations occur during the
+                event.
+
+G208            Violation: Verbal warning, plus RED CARD if not corrected.
+
+G301            Violation: Verbal warning, or plus a MAJOR FOUL if a subsequent violations occur within the
+                tournament phase (e.g., qualifications or playoffs), MAJOR FOUL and is applied to their
+                upcoming MATCH. If the DRIVE TEAM is not MATCH ready within 2 minutes of the verbal
+
+Team Update 08                     December 26, 2024                            2 of 3
+G402            warning/MAJOR FOUL and the Head REFEREE perceives no good faith effort by the DRIVE
+G403            TEAM to quickly become MATCH ready, DISABLED.
+G405
+G406            Violation: MAJOR FOUL, plus YELLOW CARD if subsequent violations occur during the event.
+G415
+G419            Violation: MINOR FOUL, or MAJOR FOUL if actions result in a scoring achievement by the
+G426            offending ROBOT.
+
+G428            Violation: MAJOR FOUL, plus YELLOW CARD if subsequent violations occur during the event.
+G430
+G431            Violation: MINOR FOUL, or MAJOR FOUL if actions result in a scoring achievement by the
+G432            offending ROBOT.
+G501
+G502            Violation: Verbal warning, plus YELLOW CARD if subsequent violations occur during the
+                event.
+
+                Violation: MINOR FOUL per occurrence plus YELLOW CARD if the ROBOT contacts the
+                HUMAN PLAYER.
+
+                Violation: MINOR FOUL, plus MINOR FOUL for every 5 seconds the violation continues.
+                Additional MINOR FOUL for every SCORING ELEMENT contacted inside the OBSERVATION
+                ZONE.
+
+                Violation: Verbal warning, plus a MINOR FOUL if subsequent violations receive a MINOR
+                FOUL per occurrence occur at any point during the event.
+
+                Violation: MAJOR FOUL per occurrence, plus YELLOW CARD if the DRIVE TEAM member
+                contacts the ROBOT.
+
+                Violation: MINOR FOUL per occurrence, plus YELLOW CARD if the HUMAN PLAYER contacts
+                the ROBOT.
+
+                Violation: MINOR FOUL per occurrence, plus YELLOW CARD if the HUMAN PLAYER contacts
+                the ROBOT
+
+                Violation: Verbal warning, plus YELLOW CARD if subsequent violations occur at any point
+                during the event.
+
+                Violation: Verbal warning, plus YELLOW CARD if subsequent violations occur at any point
+                during the event.
+
+Team Update 08  December 26, 2024  3 of 3
+Team Update 07
+
+General
+Competition Manual
+Section 4 - Advancement
+Corrected typo in Figure 4-2.
+
+                               Figure 4-2: Tournament advancement structure
+
+Section 11.2 Conduct
+
+G209 *Keep your ROBOT together. A ROBOT may not intentionally detach or leave a part on the FIELD.
+Tethered elements of the ROBOT are considered detached if either can move independently of the other.
+
+      Violation: RED CARD.
+
+Section 11.3 Pre-MATCH
+
+G302  *You can only bring/use specific items to the MATCH. The only equipment that may be brought to the
+      ARENA for a MATCH is listed below. Regardless of if equipment fits criteria below, it may not be
+      employed in a way that breaks any other rules, introduces a safety hazard, blocks visibility for FIELD
+      STAFF or audience members, or jams or interferes with the remote sensing capabilities of another
+      team or the FIELD.
+
+      A. the ROBOT
+      B. the OPERATOR CONSOLE
+      C. ROBOT carts (which may contain basic tools and supplies to maintain the ROBOT)
+      D. non-powered signaling devices
+      E. reasonable decorative items
+      F. special clothing and/or equipment required due to a disability
+      G. devices (e.g., laptop, tablet, phone, camera, etc.) used solely for planning, tracking, recording,
+
+          and communicating strategy within the same designated area (e.g., ALLIANCE AREA)
+      H. devices used solely to record gameplay this letter intentionally left blank
+
+Team Update 07                 December 12, 2024                             1 of 6
+              I. non-powered Personal Protective Equipment (examples include, but aren't limited to, gloves, eye
+                   protection, and hearing protection)
+
+Section 11.4.4 ROBOT
+
+G417 Stay in CONTROL of your SCORING ELEMENTS. SCORING ELEMENTS may not be LAUNCHED.
+
+         Violation: MINOR FOUL per SCORING ELEMENT LAUNCHED.
+
+                   This rule is intended to prevent designs which use LAUNCHING to strategically
+                   play the game. Actions that can be perceived as strategically playing the game
+                   include, but are not limited to:
+
+                   A. Moving SCORING ELEMENTS from the ROBOT from outside of an AREA or
+                        ZONE to inside another AREA or ZONE with significant force/traveling more
+                        than a short distance.
+
+                   This is not intended to penalize teams with active manipulators which are
+                   expelling SCORING ELEMENTS through normal operation, such as:
+
+                   A. Running an intake in reverse causing a SCORING ELEMENT to travel a short
+                        distance from the ROBOT.
+
+                   B. A ROBOT pushing a SCORING ELEMENT a short distance away in the process
+                        of herding it across the FIELD.
+
+Section 11.4.6
+
+G431 HUMAN PLAYERS manipulate SCORING ELEMENTS within limits. Only the HUMAN PLAYER may
+         introduce SCORING ELEMENTS into or retrieve SCORING ELEMENTS from the OBSERVATION ZONE.
+
+              A. any number of SCORING ELEMENTS can be manipulated by the HUMAN PLAYER at a time.
+              B. SCORING ELEMENTS may be placed in any orientation and/or in contact with other SCORING
+
+                   ELEMENTS.
+              C. HUMAN PLAYERS may only place and/or retrieve SCORING ELEMENTS into the OBSERVATION
+
+                   ZONE during the AUTO and TELEOP periods of the MATCH.
+              D. HUMAN PLAYERS may not be in contact with a SCORING ELEMENT, either directly or
+
+                   transitively, that is possessed/controlled by a ROBOT.
+              E. HUMAN PLAYERS may reintroduce SCORING ELEMENTS to the OBSERVATION ZONE that have
+
+                   left the FIELD as a result of a ROBOT attempting to collect it from the OBSERVATION ZONE or
+                   FIELD wall within the OBSERVATION ZONE, as long as no other rules are violated (e.g. rule
+                   G428).
+              F. HUMAN PLAYERS may manipulate opposing ALLIANCE SCORING ELEMENTS that have been
+                   placed into their ALLIANCE'S OBSERVATION ZONE. The opposing ALLIANCE SCORING
+                   ELEMENTS may not be removed from the OBSERVATION ZONE, but may be moved within the
+                   OBSERVATION ZONE.
+
+G432 Watch out for ROBOTS. A HUMAN PLAYER cannot break the vertical plane of the FIELD wall when a
+         ROBOT is in the OBSERVATION ZONE. The only exceptions are:
+
+              A. The ROBOT in the OBSERVATION ZONE has been declared DISABLED by a REFEREE.
+
+         Violation: MINOR FOUL per occurrence. YELLOW CARD if the HUMAN PLAYER contacts the ROBOT.
+
+Team Update 07  December 12, 2024  2 of 6
+                   G419, G431, and G432 do not stack. One FOUL should be called per occurrence
+                   of the violation per ALLIANCE. For example, two FOULS would be called in the
+                   case where the ROBOT and HUMAN PLAYER are on separate ALLIANCES.
+
+                   ROBOT parts that have become detached from a ROBOT may be retrieved by a
+                   HUMAN PLAYER and removed from the FIELD.
+
+Section 12.1 General ROBOT Design
+
+    · Rule R104 orange box update:
+
+                   This rule is intended to limit the amount of floor area each ROBOT can cover with
+                   the maximum range of motion of all extensions; (extensions may be software or
+                   hardware limited). All possible movement of extensions outside the STARTING
+                   CONFIGURATION must be constrained within the horizontal size boundary.
+
+                   Teams should be prepared to show compliance with this rule and demonstrate
+                   their ROBOT expansions during the inspection process. During inspection each
+                   ROBOT will be placed completely within a 20 in. x 42 in. taped box, with the
+                   position and orientation within the box chosen by the team. While keeping the
+                   ROBOT chassis stationary, the ROBOT must demonstrate that the full range of
+                   motion of all extensions outside of STARTING CONFIGURATION remain
+                   contained within the fixed 20 in. x 42 in. working area. This inspection verifies the
+                   ROBOT'S normal operating range, including software limits, as it would function
+                   during a typical MATCH. Additional software within the OpMode designed for
+                   emergency overrides, troubleshooting, or maintenance is acceptable and will not
+                   be evaluated as part of this compliance check.
+
+Section 12.3 Fabrication
+
+R307  *COTS must be single DoF. COTS COMPONENTS and MECHANISMS must not exceed a single degree
+      of mechanical freedom (DoF). Examples of allowed COTS single degree of freedom MECHANISMS and
+      COMPONENTS are as follows:
+
+      A. linear slide kit,
+      B. linear actuator kit,
+      C. single speed (non-shifting) gearboxes,
+      D. pulley,
+      E. turntable,
+      F. lead screw, and
+      G. single DoF gripper.
+
+      Allowed exceptions to this rule are:
+
+      H. ratcheting devices (wrenches, bearings, etc.),
+      I. holonomic wheels (omni or mecanum),
+      J. dead-wheel odometry kits, and
+      K. universal joints
+
+Team Update 07                              December 12, 2024                                             3 of 6
+Section 13.6 Playoff MATCHES
+T603 *There are no BACKUP TEAMS backup teams in playoff MATCHES. An ALLIANCE may not request a
+
+         BACKUP TEAM backup team in a playoff MATCH.
+
+                   Teams are encouraged to consider reliability when selecting partners because all
+                   teams on an ALLIANCE must play in each round of the playoff tournament.
+
+Section 13.6.3 2-ALLIANCE Bracket and Typical Timing
+
+                                                        Table13-3: 2-ALLIANCE playoff bracket typical timing
+
+                                  Gap                                     Next MATCH
+                                  (min)                         (MATCH # (ALLIANCE color))
+
+                         Upper/                                 Winner   Loser              Estimated
+Round MATCH Lower FIELD Blue Red Blue Red                                                   Start (min)
+
+15-minute break  Judges' Choice* (1), Innovate/Design/Control Award (1)                                         0
+
+Finals  1        1 A2 A1                                        M2          M2                                  15
+
+15-minute break  Motivate/Connect Award (1)                                                                     18
+
+Finals  2        1 A2 A1 0:15 0:15                              M3*      M3*                                    33
+
+10-minute break  Think Award (1)                                                                                36
+
+Finals 3*        1 A2 A1 0:10 0:10                                                                              46
+
+Awards: Compass*, Finalists, Winners, and Inspire Award (1)                                                     49
+
+* if required
+**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.
+
+Section 13.6.4 4-ALLIANCE Bracket and Typical Timing
+
+                 Table13-4: 4-ALLIANCE playoff typical timing
+
+                                  Gap                                     Next MATCH
+                                  (min)                         (MATCH # (ALLIANCE color))
+
+                         Upper/                                 Winner   Loser              Estimated
+Round MATCH Lower FIELD Blue Red Blue Red                                                   Start (min)
+
+1       1        Upper 1 A4 A1                                  M4 (R)   M3 (R)                   0
+                                                                M4 (B)   M3 (B)                   6
+        2        Upper 2 1 A3 A2                                                                  9
+                                                                                                 17
+8-minute break                                                                                   23
+                                                                                                 26
+2       3        Lower 1 L2 L1 0:08 0:14                        M5 (B)     4th                   41
+                                                                         M5 (R)                  44
+        4        Upper 2 1 W2 W1 0:14 0:20                      M6 (R)                           59
+                                                                                                 62
+15-minute break  Judges' Choice* (1), Design Award (1), Motivate Award (1)                       77
+                                                                                                 80
+3       5        Lower 1 W3 L4 0:21 0:15                        M6 (B)   3rd
+
+15-minute break  Control Award (1), Innovate Award (1)
+
+Finals  6        1 W5 W4 0:15 0:33                              M7*      M7*
+
+15-minute break  Connect Award (1), Think Award (1)
+
+Finals 7*        1 W5 W4 0:15 0:15
+
+Awards: Compass*, Finalists, Winners, and Inspire Award (2, 1)
+
+Team Update 07                    December 12, 2024                                         4 of 6
+*If Required
+**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.
+
+Section 13.6.5 6-ALLIANCE Bracket and Typical Timing
+
+                                                        Table13-5: 6-ALLIANCE playoff bracket typical timing
+
+                             Gap                                Next MATCH
+                             (min)                    (MATCH # (ALLIANCE color))
+
+                        Upper/                                     Winner       Loser                           Estimated
+Round MATCH Lower FIELD Blue Red Blue Red                                                                       Start (min)
+
+            1 Upper 1 A5 A4                                        M3 (B)       M6 (B)                                0
+1                                                                  M4 (B)       M5 (B)                                6
+                                                                                                                     12
+            2 Upper 2 A6 A3                                                                                          18
+                                                                                                                     24
+            3 Upper 1 W1 A1 0:09                                   M7 (R)       M5 (R)                               30
+2                                                                  M7 (B)       M6 (R)                               36
+                                                                                                                     42
+            4 Upper 2 W2 A2 0:09                                                                                     45
+                                                                                                                     60
+3  5 Lower 1 L2 L3 0:15 0:09                                       M8 (B)       Tied 5th                             63
+                                                                                                                     78
+   6 Lower 2 L1 L4 0:27 0:09                                       M8 (R)                                            81
+                                                                                                                     96
+4  7             Upper 1 W4 W3 0:15 0:21                           M10 (R)      M9 (R)                               99
+                                                                                  4th
+   8 Lower 2 W5 W6 0:15 0:09                                       M9 (B)                                        Estimated
+                                                                                                                 Start (min)
+15-minute break  Judges' Choice* (1), Design Award (2, 1), Motivate Award (2, 1)
+                                                                                                                       0
+5  9             Lower 1 W8 L7 0:15 0:21                           M10 (B)      3rd                                    6
+                                                                                                                      12
+15-minute break  Control Award (2, 1), Innovate Award (2, 1)                                                          18
+                                                                                                                      24
+Finals 10        1 W9 W7 0:15 0:39                                 M11*         M11*                                  30
+                                                                                                                      36
+15-minute break  Connect Award (2, 1), Think Award (2, 1)                                                             42
+
+Finals* 11       1 W9 W7 0:15 0:15
+
+Awards: Compass*, Finalists, Winners, and Inspire Award (3, 2, 1)
+
+* if required
+**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.
+
+Section 13.6.6 8-ALLIANCE Bracket and Typical Timing
+
+                          Table13-6: 8-ALLIANCE playoff bracket typical timing
+
+                                  Gap                                        Next MATCH
+                                  (min)                            (MATCH # (ALLIANCE color))
+
+                        Upper/                                     Winner        Loser
+Round MATCH Lower FIELD Blue Red Blue Red                          M7 (R)       M5 (R)
+                                                                   M7 (B)       M5 (B)
+   1 Upper 1 A8 A1                                                 M8 (R)       M6 (R)
+                                                                   M8 (B)       M6 (B)
+            2 Upper 2 A5 A4                                        M10 (B)
+1                                                                  M9 (B)       Tied 7th
+                                                                   M11 (R)
+            3 Upper 1 A7 A2                                        M11 (B)      M9 (R)
+                                                                                M10 (R)
+   4 Upper 2 A6 A3
+
+   5             Lower 1  L2 L1 0:15 0:21
+
+2  6             Lower 2  L4 L3 0:09 0:15
+
+   7 Upper 1 W2 W1 0:27 0:33
+
+   8 Upper 2 W4 W3 0:21 0:27
+
+Team Update 07               December 12, 2024                                                                  5 of 6
+3  9 Lower 1 W6 L7 0:15 0:09                                       M12 (B)  Tied 5th                            48
+
+   10 Lower 2 W5 L8 0:27 0:09                                      M12 (R)                                      54
+
+4  11 Upper 1 W8 W7 0:15 0:21                                      M14 (R)  M13 (R)                             60
+
+   12 Lower 2 W9 W10 0:15 0:09                                     M13 (B)  4th                                 66
+
+15-minute break  Judges' Choice* (1), Design Award (3,2,1), Motivate Award (3,2,1)                              69
+
+5  13 Lower 1 W12 L11 0:15 0:21                                    M14 (B)  3rd                                 84
+
+15-minute break  Control Award (3,2,1), Innovate Award (3,2,1)                                                  87
+
+Finals 14        1 W13 W11 0:15 0:39                               M15*     M15*                                102
+
+15-minute break  Connect Award (3,2,1), Think Award (3,2,1)                                                     105
+
+Finals* 15       1 W13 W11 0:15 0:15                                                                            120
+
+Awards: Compass*, Finalists, Winners, and Inspire Award (3, 2, 1)                                               123
+
+* if required
+**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.
+
+Team Update 07   December 12, 2024                                                    6 of 6
+Team Update 06
+
+General
+
+Minor formatting corrections to broken links within the document.
+
+Competition Manual
+
+Section 6.1 Team Judges Awards Overview and Schedule
+
+A111 *The number of awards given scales with event size. Total number of awards given is based on the
+         number of teams checked in at the event. Not all awards are given at every competition. Check the
+         Judge and Judge Advisor Manuals for exact details.
+
+                                      Table 0-1: Total judged awards available based on all event participating teams
+
+                            Total Awards Event Participating Teams
+
+Award                       4-10 Teams 11-20 Teams 21-40 Teams       41-64 Teams
+Inspire Award                                                           1st Place
+                            1st Place       1st Place  1st Place       2nd Place
+Think Award                                 2nd Place  2nd Place       3rd Place
+                                                       3rd Place        1st Place
+                                                                       2nd Place
+                            1st Place       1st Place  1st Place
+                                                       2nd Place      (3rd Place*)
+
+TA Awards   Connect Award     1st Place     1st Place   1st Place       1st Place
+            Motivate Award  (1 TA award     1st Place  (2nd Place*)    2nd Place
+                            will be given)                            (3rd Place*)
+                                                        1st Place       1st Place
+                                                       (2nd Place*)    2nd Place
+                                                                      (3rd Place*)
+MCI Awards  Design Award       1st Place    1st Place   1st Place       1st Place
+            Innovate Award  (1 MCI award    1st Place  (2nd Place*)    2nd Place
+            Control Award   will be given)  1st Place                 (3rd Place*)
+                                                        1st Place       1st Place
+                                                       (2nd Place*)    2nd Place
+                                                                      (3rd Place*)
+                                                        1st Place       1st Place
+                                                       (2nd Place*)    2nd Place
+                                                                      (3rd Place*)
+
+Team Update 06              November 14, 2024                        1 of 6
+Section 10.3.1 SCORING ELEMENTS
+
+SAMPLES should be placed on SPIKE MARKS such that they are completely covering the SPIKE MARK. Teams
+may adjust the placement of SAMPLES on the SPIKE MARKS in front of their DRIVE TEAM as long as the
+SAMPLE completely covers the SPIKE MARK and there is no delay to the start of the MATCH.
+
+                   Where there is variance in the relatiave sizing of the SAMPLES and the SPIKE
+                   MARK, a best effort should be made to completely cover the SPIKE MARK.
+
+Section 10.3.3 OPERATOR CONSOLES
+
+10.3.3 OPERATOR CONSOLES
+
+Removed repeated bullet points:
+
+DRIVE TEAMS set up their OPERATOR CONSOLES as soon as they are staged in their ALLIANCE AREA.
+OPERATOR CONSOLES must be compliant with all relevant rules, specifically those in section 12.9 OPERATOR
+CONSOLE. A DRIVE TEAM obstructing or delaying OPERATOR CONSOLE set up is at risk of violating G301.
+
+              A. DRIVE TEAMS running an AUTO OpMode during the AUTO period must select an OpMode within
+                   their DRIVER STATION app with the 30 second timer enabled.
+
+              B. DRIVE TEAMS not running an OpMode during the AUTO period must select a TELEOP OpMode
+                   within the DRIVER STATION app.
+
+              C. the OpMode must be initialized by pressing the "INIT" button on the DRIVER STATION app.
+              D. DRIVE TEAMS running an AUTO OpMode during the AUTO period must select an OpMode within
+
+                   their DRIVER STATION app with the 30 second timer enabled.
+              E. DRIVE TEAMS not running an OpMode during the AUTO period must select a TELEOP OpMode
+
+                   within the DRIVER STATION app.
+              F. the OpMode must be initialized by pressing the "INIT" button on the DRIVER STATION app.
+
+Section 10.5.3 ROBOT Scoring Criteria
+
+                   A ROBOT is considered ASCENDING once it is attempting to achieve an ASCENT
+                   LEVEL, and ASCENDED once it has achieved an ASCENT LEVEL.
+
+                   The intent of part B of this rule is for the ROBOT to start its ASCENT outside of
+                   the SUBMERSIBLE ZONE except for elements used by the ROBOT to contact the
+                   RUNG. Once ROBOTS start their ASCENT, parts of the CHASSIS may swing into
+                   the SUBMERSIBLE ZONE, which is not a violation of this rule.
+
+                   ROBOTS attempting a LEVEL 3 ASCENT which then violate C. i or ii, may still be
+                   eligible for lower LEVEL ASCENT points as long as all other lower LEVEL ASCENT
+                   criteria are met at the end of the MATCH period. In this scenario, if a ROBOT
+                   would like to reattempt a LEVEL 3 ASCENT they must disengage from the HIGH
+                   RUNG SUBMERSIBLE and attempt their LEVEL 3 ASCENT again.
+
+                   ROBOTS supported by an ALLIANCE partner ROBOT, SCORING ELEMENTS, other
+                   non-RUNG elements of the SUBMERSIBLE or the FIELD floor will not be awarded
+                   an ASCENT LEVEL 2 or 3.
+
+Team Update 06  November 14, 2024  2 of 6
+Section 11.1 Personal Safety
+
+G101  *Humans, stay off the FIELD during the MATCH. Other than actions explicitly allowed in sections
+      10.3.1 SCORING ELEMENTS and 11.4.6 HUMAN a DRIVE TEAM member may only enter the FIELD
+      during pre-MATCH set-up to place their ROBOT or after a MATCH is over to collect their ROBOT when
+      instructed to do so by the Head REFEREE or their designee.
+
+      Violation: Verbal warning, plus YELLOW CARD if subsequent violations during the event.
+
+Section 11.4.2 TELEOP
+
+G405 *ROBOTS are motionless between AUTO and TELEOP. Any powered movement of the ROBOT or any of
+         its MECHANISMS is not allowed during the transition period between AUTO and TELEOP.
+
+      Violation: MAJOR FOUL, plus YELLOW CARD if subsequent violations during the event.
+
+      Movement that occurs following the conclusion of an AUTO OpMode (due to
+      inertia, gravity, or de-energizing of actuators, etc.) is not a violation of this rule.
+
+      Teams may press buttons on their DRIVER STATION app to initialize or start a
+      TELEOP OpMode during the AUTO to TELEOP transition period. If the INIT portion
+      of the OpMode causes the ROBOT to violate this rule (actuators moving or
+      twitching in any way) then the team should wait until the TELEOP period begins
+      before pressing INIT.
+
+Section 11.4.3 SCORING ELEMENT
+
+G408 *Keep SCORING ELEMENTS in bounds. A ROBOT may not intentionally eject a SCORING ELEMENT
+         from the FIELD (either directly or by bouncing off a FIELD element or another ROBOT). SCORING
+         ELEMENTS that leave the FIELD are not returned to gameplay except as allowed in rule G431.
+
+         Violation: MAJOR FOUL per SCORING ELEMENT.
+
+                SCORING ELEMENTS removed from the FIELD while attempting to score are
+                not a violation of this rule, however, are not returned to the FIELD.
+
+G410  SAMPLE or SPECIMEN at a time. A ROBOT may not CONTROL more than 1 SAMPLE or 1 SPECIMEN at
+      a time, either directly or transitively through other objects. There is no limit to the number of CLIPS a
+      ROBOT may possess.
+
+      A ROBOT is in CONTROL of a SAMPLE or SPECIMEN if:
+
+          A. the SAMPLE or SPECIMEN is fully supported by the ROBOT or
+          B. it intentionally pushes a SAMPLE or SPECIMEN to a desired location or in a preferred direction
+
+               (i.e., herding, often with a concave surface)
+
+      Exceptions to this rule are as follows:
+
+          C. ROBOTS may MOMENTARILY exceed CONTROL limits while collecting SAMPLES that are in the
+               SUBMERSIBLE ZONE.
+
+          D. scored SAMPLES or SPECIMENS for the corresponding ALLIANCE are exempt from the
+               CONTROL limit.
+
+Team Update 06                November 14, 2024                                                3 of 6
+         Violation: MINOR FOUL per SCORING ELEMENT additional SAMPLE and/or SPECIMEN, plus YELLOW
+         CARD if excessive.
+
+Section 11.4.4 ROBOT
+
+G418 Horizontal expansion limit. After the MATCH has started, ROBOTS may expand beyond the STARTING
+         CONFIGURATION but are still subject to sizing constraints(per. The sizing constraints are specified in
+         R401).
+
+G419 Watch out for Humans. A ROBOT may not:
+
+              A. enter the OBSERVATION ZONE while a HUMAN PLAYER is in the OBSERVATION ZONE.
+              B. contact a SCORING ELEMENT, either directly or transitively, that is controlled/possessed by a
+
+                   HUMAN PLAYER.
+
+         Violation: MINOR FOUL per occurrence. YELLOW CARD if the ROBOT contacts the HUMAN PLAYER.
+
+                   G419, G431, and G432 do not stack. Only One FOUL should be called per instance
+                   occurrence of the violation per ALLIANCE. For example, two FOULS would be
+                   called in the case where the ROBOT and HUMAN PLAYER are on separate
+                   ALLIANCES.
+
+Section 11.4.5 Opponent Interaction
+
+G425 NET ZONE Protection. A ROBOT may not contact (either directly or transitively through a SCORING
+         ELEMENT CONTROLLED by either ROBOT, regardless of who initiates contact) an opponent ROBOT if
+         any part of either ROBOT is in the opponent's NET ZONE.
+
+         Violation: MAJOR FOUL per occurrence.
+
+Section 11.4.6 HUMAN
+
+G431 HUMAN PLAYERS manipulate SCORING ELEMENTS within limits. Only the HUMAN PLAYER may
+         introduce SCORING ELEMENTS into or retrieve SCORING ELEMENTS from the OBSERVATION ZONE.
+
+              A. any number of SCORING ELEMENTS can be manipulated by the HUMAN PLAYER at a time.
+              B. SCORING ELEMENTS may be placed in any orientation and/or in contact with other SCORING
+
+                   ELEMENTS.
+              C. HUMAN PLAYERS may only place SCORING ELEMENTS into the OBSERVATION ZONE during
+
+                   the AUTO and TELEOP periods of the MATCH.
+              D. HUMAN PLAYERS may not be in contact with a SCORING ELEMENT, either directly or
+
+                   transitively, that is possessed/controlled by a ROBOT.
+              E. HUMAN PLAYERS may reintroduce SCORING ELEMENTS to the OBSERVATION ZONE that have
+
+                   left the FIELD as a result of a ROBOT attempting to collect it from the OBSERVATION ZONE or
+                   FIELD wall within the OBSERVATION ZONE, as long as no other rules are violated (e.g. rule
+                   G428).
+              F. HUMAN PLAYERS may manipulate opposing ALLIANCE SCORING ELEMENTS that have been
+                   placed into their ALLIANCE'S OBSERVATION ZONE. The opposing ALLIANCE SCORING
+                   ELEMENTS may not be removed from the OBSERVATION ZONE, but may be moved within the
+                   OBSERVATION ZONE.
+
+         Violation: MINOR FOUL per occurrence. YELLOW CARD if the HUMAN PLAYER contacts the ROBOT.
+
+Team Update 06  November 14, 2024  4 of 6
+      SPECIMENS hung from the FIELD wall in the OBSERVATION ZONE are still
+      considered in the OBSERVATION ZONE and may be manipulated by the HUMAN
+      PLAYER.
+
+      G419 and G431 do not stack. One FOUL should be called per occurrence of the
+      violation per ALLIANCE. For example, two FOULS would be called in the case
+      where the ROBOT and HUMAN PLAYER are on separate ALLIANCES.
+
+G432  Watch out for ROBOTS. A HUMAN PLAYER cannot break the vertical plane of the FIELD wall when a
+      ROBOT is in the OBSERVATION ZONE. The only exceptions are:
+
+          A. The ROBOT in the OBSERVATION ZONE has been declared DISABLED by a REFEREE.
+
+      Violation: MINOR FOUL per occurrence. YELLOW CARD if the HUMAN PLAYER contacts the ROBOT.
+
+      G419, G431, and G432 do not stack. Only One FOUL should be called per instance
+      occurrence of the violation per ALLIANCE. For example, two FOULS would be
+      called in the case where the ROBOT and HUMAN PLAYER are on separate
+      ALLIANCES.
+
+Section 12.5 Motors and Actuators
+
+R504 *Do not modify actuators unless explicitly allowed. The integral mechanical and electrical system of
+         any motor or servo must not be modified. Motors and servos used on the ROBOT shall not be modified
+         in any way, except as follows:
+
+      A. the mounting brackets and/or output shaft/interface may be modified to facilitate the physical
+          connection of the motor to the ROBOT and actuated part,
+
+      B. the electrical leads may be trimmed to length as necessary and connectors or splices to
+          additional wiring may be added (per R503), and purely electrical enclosures can be substituted
+          with functionally equivalent replacements,
+
+      C. servos may be modified as specified by the manufacturer (e.g., re-programming or modification
+          for continuous rotation),
+
+      D. minimal labeling may be applied to indicate device purpose, connectivity, functional
+          performance, etc. as long as the team applied label does not obstruct the markings used to
+          identify the device,
+
+      E. insulation may be applied to electrical terminals,
+      F. repairs, provided the original performance and specifications are unchanged, and
+      G. maintenance recommended by the manufacturer.
+
+Section 12.6 Power Distribution
+
+R611  *The ROBOT frame is not a wire. All wiring and electrical devices shall be electrically isolated from the
+      ROBOT frame. The ROBOT frame must not be used to carry electrical current. Electrically grounding the
+      control system electronics to the frame of the ROBOT is only permitted such that all of the following
+      conditions are met:
+
+      A. must use one of the following approved parts:
+
+                                 Table 0-2: Legal ROBOT Grounding Straps
+
+Team Update 06                     November 14, 2024                                  5 of 6
+                Grounding Strap                     Part Number
+                AndyMark Resistive Grounding Strap  am-4648a
+                REV Resistive Grounding Strap       REV-31-1269
+                Swyft Grounding Cable               SR-Ground-01
+
+R618 *Do not modify critical power paths. CUSTOM CIRCUITS shall not directly alter the power or control
+pathways between:
+
+              A. the ROBOT battery and main power switch,
+              B. the main power switch and a power regulating device (per R609),
+              C. any two power regulating devices (per R613), or
+              D. power regulating devices and actuators.
+
+                   Custom high impedance voltage monitoring or low impedance current
+                   monitoring circuitry connected to the ROBOT'S electrical system is acceptable if
+                   the effect on power pathways is inconsequential.
+
+                   Altering a power pathway includes, but is not limited to, altering the voltage of the
+                   power pathway using a boost (DC voltage step-up) or buck (DC voltage step-
+                   down) converter or otherwise altering the natural variable DC voltage provided by
+                   the ROBOT battery to create a constant DC voltage.
+
+                   Devices that modify actuator control signals or power (except those allowed by
+                   R505) are prohibited, such as the goBILDA Servo Travel Tuner.
+
+Section 15 FIRST Championship          Per Division       FIRST Championship
+                                  1st, 2nd and 3rd Place  1st, 2nd and 3rd Place
+                   Award
+                   Inspire Award              0                       10
+                   Dean's List                0                        1
+                   Compass Award
+
+Team Update 06                    November 14, 2024                               6 of 6
+Team Update 05
+
+General
+
+The Team Updates - Combined document will now show the most current Team Update will show first in the
+document, with previous Team Updates documents following in order of newest release to oldest release.
+
+Competition Manual
+
+Section 6.1 Team Judged Awards Overview and Schedule
+
+In addition to the specific information sources JUDGES use to evaluate teams, there are also sources of
+information which are specifically disallowed. JUDGES are strictly instructed to only consider information from
+the current event and the current season and cannot consider information from outside what they have seen or
+heard at the current event. This means that information like past performance (good or bad), personal
+knowledge of a team, and external sources like websites and social media are not considered. JUDGES also do
+not consider overall ROBOT performance in an award unless it is specifically listed as part of the required or
+encouraged evaluation criteria.
+
+Section 10.5.3 ROBOT Scoring Criteria
+
+                                                                    Table 0-1: ASCENT LEVEL Criteria
+
+ASCENT Definition
+
+LEVEL 1         ROBOT is in contact with the LOW RUNG at the end of a MATCH
+                period (per section 10.5 Scoring item A)
+
+LEVEL 2         ROBOT is fully supported by the HIGH and/or LOW RUNGS at the
+                end of the MATCH (per section 10.5 Scoring item A)
+
+LEVEL 3         ROBOT is fully supported by the HIGH RUNG and completely
+                above the top of the LOW RUNG at the end of the MATCH (per
+                section 10.5 Scoring item A)
+
+Lateral contact with non-RUNG elements of the SUBMERSIBLE is allowed for
+stabilization of the ROBOT while ASCENDING.
+
+The intent of the use of "fully support" language is that the ROBOTS are solely
+supported by the RUNGS when the ASCENT is scored using the RUNGS to climb.
+ROBOTS which make incidental contact (e.g. not used for ROBOT support or
+stabilization) to the non-RUNG vertical SUBMERSIBLE structural elements or
+ALLIANCE partner ROBOT as judged by the REFEREES, during or at the
+conclusion of their ASCENT are still eligible for ASCENT points.
+
+Additionally, the following conditions must be met:
+
+    A. ROBOTS can only ASCEND their own ALLIANCE SPECIFIC RUNGS.
+    B. ROBOTS must start their ASCENT with their CHASSIS completely outside the SUBMERSIBLE
+
+         ZONE.
+    C. for a LEVEL 3 ASCENT, ROBOTS may not contact the HIGH RUNG while:
+
+Team Update 05     October 31, 2024                                              1 of 4
+                      i. supported by the TILES directly or transitively through another object (e.g., SCORING
+                           ELEMENTS or another ROBOT), or
+
+                      ii. grasping supported by any other part of the SUBMERSIBLE structure except for the LOW
+                           RUNG
+
+              D. ROBOTS that are eligible for multiple ASCENTS or ASCENT and PARKING points only earn
+                   points for the highest value achievement.
+
+              If any of the above conditions are not met, it is not a valid ASCENT. If a ROBOT does not meet
+              ASCENT criteria, the ROBOT may disengage from the SUBMERSIBLE and attempt the ASCENT
+              again.
+
+                   A ROBOT is considered ASCENDING once it is attempting to achieve an ASCENT
+                   LEVEL, and ASCENDED once it has achieved an ASCENT LEVEL.
+
+                   The intent of part B of this rule is for the ROBOT to start its ASCENT outside of
+                   the SUBMERSIBLE ZONE except for elements used by the ROBOT to contact the
+                   RUNG. Once ROBOTS start their ASCENT, parts of the CHASSIS ROBOT may
+                   swing into the SUBMERSIBLE ZONE, which is not a violation of this rule.
+
+                   ROBOTS attempting a LEVEL 3 ASCENT which then violate C. i or ii, may still be
+                   eligible for lower LEVEL ASCENT points as long as all other lower LEVEL ASCENT
+                   criteria are met at the end of the MATCH period. In this scenario, if a ROBOT
+                   would like to reattempt a LEVEL 3 ASCENT they must disengage from the HIGH
+                   RUNG and attempt their LEVEL 3 ASCENT again.
+
+                   ROBOTS supported by an ALLIANCE partner ROBOT, SCORING ELEMENTS, other
+                   non-RUNG elements sections of the SUBMERSIBLE or the FIELD floor will not be
+                   awarded an ASCENT LEVEL 2 or 3.
+
+Section 11.4.3 SCORING ELEMENT
+
+    · Rule G408 orange box update:
+                   SCORING ELEMENTS removed from the FIELD while attempting to score are
+                   not subject to a violation of this rule, however, are not returned to the FIELD.
+
+    · Rule G410 orange box update:
+                   Examples of interaction with a SAMPLE or SPECIMEN that are not
+                   "CONTROL" include, but are not limited to:
+                   A. PLOWING or "bulldozing" (inadvertent contact with a SAMPLE or
+                        SPECIMEN, typically via a flat or convex surface, while in the path of the
+                        ROBOT moving about the FIELD).
+                   B. "deflecting" (being hit by a SAMPLE or SPECIMEN that bounces off a
+                        ROBOT).
+
+                   Excessive violations of CONTROL limits include, but are not limited to,
+                   simultaneous CONTROL of 3 or more SAMPLES and/or SPECIMENS, or
+                   frequent, greater-than MOMENTARY CONTROL (i.e., more than twice in a
+                   MATCH) of 2 or more SCORING ELEMENTS SAMPLES and/or SPECIMENS.
+                   REPEATED excessive violations of this rule do not result in additional
+
+Team Update 05  October 31, 2024  2 of 4
+                YELLOW CARDS unless the violation reaches the level of egregious to trigger
+                a G201 violation.
+
+Section 11.4.4 ROBOT
+
+· Rule G418 orange box update:
+
+                   This rule is intended to limit the amount of floor area each ROBOT can cover
+                   with the maximum range of motion of all extensions. All possible movement
+                   of extensions outside the STARTING CONFIGURATION must be constrained
+                   as described in R104.
+
+                   During the MATCH REFEREES may use ARENA elements to help gauge
+                   ROBOT expansion during the MATCH. For example:
+                   A. TILES are approximately 24 in. (~61 cm)
+                   B. The RUNGS on the SUBMERSIBLE are 44.5 in. (~113 cm) wide
+                   REFEREES that observe ROBOTS that are in violation of this rule may request
+                   the ROBOT be reinspected.
+
+G420  No climbing on the inside. ROBOTS must start their ASCENT with their CHASSIS completely outside
+      the SUBMERSIBLE ZONE.
+
+      Violation: MAJOR FOUL, and team will not receive credit for ASCENT scoring outlined in section 10.5.3
+
+      The purpose of this rule is to limit how much of the ROBOT may be inside the
+      SUBMERSIBLE ZONE before the ASCENT begins. ROBOT elements are allowed to
+      reach into the SUBMERSIBLE ZONE while attempting to ASCEND, as long as the
+      ROBOT CHASSIS remains completely outside the SUBMERSIBLE ZONE. It is
+      expected that there will be some contact between opponent ROBOTS within the
+      SUBMERSIBLE ZONE, and this is intended to minimize the extent of that contact.
+
+Section 12.5 Motors and Actuators
+
+Rule R502 orange box update:
+
+                   Servos must meet both requirements to be legal for use. Refer to the Legal and
+                   Illegal Parts List Inspection Quick Reference document for a list of servos that
+                   are pre-approved, otherwise teams must be able to provide documentation
+                   verifying servo specifications. Use the online calculator to verify output power
+                   compliance.
+
+                   If a manufacturer does not provide 6V specs, any specs for voltages that exceed
+                   6V are allowed to be used.
+
+                   Stall current is the maximum stall current possible for the device at the specified
+                   voltage, regardless of any user or VENDOR adjustable software limits that may
+                   be available within the servo.
+
+Team Update 05        October 31, 2024                                                                  3 of 4
+It is important to ensure the voltage provided by the intended power regulation
+device is within the operating voltage range of the desired servo. The REV Control
+Hub and REV Expansion Hub provide 5V to servos, and the REV Servo Power
+Module, Studica Servo Power Block, and REV Servo Hub provide 6V to servos.
+While virtually all servos are compatible with 6V, servos with an operating voltage
+range of 6-8.4 DCV, for example, may not work properly when only provided 5V.
+
+Team Update 05  October 31, 2024                                                     4 of 4
+Team Update 04
+
+General
+
+N/A
+
+Competition Manual
+
+Section 11.4.4 ROBOT
+
+Upon review of Team Update 03, an expedient update and release of Team Update 04 was necessary to ensure
+consistency of the Competition Manual rules, and the way they are enforced.
+
+G420 No climbing on the inside. ROBOTS must start their ASCENT with their CHASSIS be outside the
+         SUBMERSIBLE ZONE. when they begin their ASCENT, except for minor elements used by the ROBOT to
+         contact the RUNG.
+
+         Violation: MAJOR FOUL, and team will not receive credit for ASCENT scoring outlined in section 10.5.3
+
+                   The purpose of this rule is to limit how much of the ROBOT may be inside the
+                   SUBMERSIBLE ZONE before the ASCENT begins. ROBOT elements are allowed to
+                   reach into the SUBMERSIBLE ZONE while attempting to ASCEND, as long as the
+                   ROBOT CHASSIS remains outside the SUBMERSIBLE ZONE. It is expected that
+                   there will be some contact between opponent ROBOTS within the SUBMERSIBLE
+                   ZONE, and this is intended to minimize the extent of that contact.
+
+Team Update 04  October 17, 2024  1 of 1
+Team Update 03
+
+General
+
+    · Minor formatting updates
+    · Updates to volunteer role capitalization throughout document
+
+              o Example: head Referee > Head Referee
+
+Competition Manual
+
+Section 3.3
+
+Link to inspection checklist added:
+
+         An Inspection Checklist will be is available to help teams self-inspect their
+         ROBOT before their event. Teams are strongly encouraged to self-inspect prior to
+         their event.
+
+Section 6.1 Team Judges Awards Overview and Schedule
+
+A101  *Team PORTFOLIOS have limits. Teams have the opportunity to submit a team PORTFOLIO to be used
+      as part of the judging process. No other printed or digital content not directly included in this document
+      will be collected by the JUDGES to consider during deliberations. PORTFOLIOS must meet the following
+      requirements:
+
+         A. must consist of 1 cover page including the team number and optionally: team name,
+             PORTFOLIO table of contents, team organizations, sponsors, logo, motto, and picture of the
+             ROBOT and/or team.
+
+         B. no more than 15 pages of judged content (if printing front and back, 8 sheets of paper, including
+             the cover page)
+
+         C. use only US Letter (8.5" x 11") or A4 (210 x 297 mm) size paper.
+         D. font minimum of 10 point or larger
+         E. if submitted digitally, the complete submission must be less than 15MB in size.
+         F. must only include progress, challenges, and accomplishments which take place during the
+
+             current season and, for returning teams, after the conclusion of their last official event that they
+             participated in.
+
+         None of the content of the cover page will be used by JUDGES to evaluate any
+         awards criteria. Any content beyond the allowed 15 pages will not be reviewed by
+         the JUDGES.
+
+         The JUDGES use the cover page to identify the team associated with the
+         PORTFOLIO. Teams who forget to include a cover page may be disqualified from
+         judging if the JUDGES cannot determine what team the PORTFOLIO is
+         associated with.
+
+         Font minimums are used to help ensure minimum readability. Teams should
+         carefully consider font size, color, and graphic design when making their
+         PORTFOLIO so that all JUDGES are able to read their submission. Teams whose
+         design choices include small fonts or low contrast text on images will not be
+
+Team Update 03  October 17, 2024                                                           1 of 9
+          excluded from consideration but understand that JUDGES will not be able to use
+          anything they cannot read.
+
+          JUDGES will not open, view, or use any included links to other documents,
+          websites, or videos referenced to linked to from the PORTFOLIO.
+
+          Teams may use writing and research aids including Artificial Intelligence (AI) to
+          help them compose their PORTFOLIOS. If AI or other resources are used, they
+          must be credited via footnote or endnote.
+
+          The PORTFOLIO captures a team's progression through the current FIRST Tech
+          Challenge season. A team may include anything in their PORTFOLIO which took
+          place after their final official event of the previous season. Off-season events are
+          not a part of the official FIRST Tech Challenge event calendar may be included as
+          part of the team's current season. A team may reference previous seasons (for
+          example, in a team or organizational plan) to demonstrate growth, but the
+          emphasis must be on the current season.
+
+A108  *One adult silent observer is welcome. One adult mentor may attend the judging session and be
+      present for any interaction between the JUDGES and the STUDENT team members. Adult mentor(s)
+      may be present for any interactions between the JUDGES and the STUDENT team members outside of
+      the formal scheduled interview. The adult observer and mentor(s) may not interact or coach actively
+      during any interaction between the JUDGES and the STUDENT team members.
+
+Section 6.2.1 Inspire Award
+
+                             Table 0-1: Inspire Award Criteria
+
+                             Inspire Award Criteria
+
+Required       Team must submit a PORTFOLIO. The PORTFOLIO must include engineering content,
+Required  1 team information and a team plan. The PORTFOLIO must be high quality, thoughtful,
+
+               thorough, and concise.
+
+               The Inspire Award celebrates the strongest qualities of all the judged awards. A team
+               must be a strong contender for at least one award in each of the following judged award
+          2 categories:
+
+                    A. Machine, Creativity, and Innovation Awards,
+                    B. Team Attributes Awards, and
+                    C. Think Award
+
+Required  3 Team judging interview session must be professional and engaging. Team must be
+               positive and inclusive, and each team member contribute to the success of the team.
+
+Encouraged 4 The team should be able to discuss, demonstrate, display, document, or otherwise provide more detailed information to support the information in the PORTFOLIO.
+
+Team Update 03               October 17, 2024                                                   2 of 9
+Section 6.2.2 Think Award
+
+This judged award is given to the team that best reflects the journey the team took as they experienced the
+engineering design process during the build season. The engineering content within the PORTFOLIO is the key
+reference for JUDGES to help identify the most deserving team. The team's engineering content must focus on
+the design and build stage of the team's ROBOT.
+
+The team must could share or provide additional detailed information that is helpful for the JUDGES. This
+could include descriptions of the underlying science and mathematics of the ROBOT design and game
+strategies, the designs, redesigns, successes, or opportunities for improvement.
+
+                                                                      Table 0-2: Think Award Criteria
+
+                Think Award Criteria
+
+Required       Team must submit a PORTFOLIO. The PORTFOLIO must include engineering content
+               which includes at least one of the following:
+
+          1 A. evidence of use of the engineering process, B. lessons learned,
+                    C. trade off analysis /cost benefit analysis, and/or
+                    D. mathematical analysis used to make design decisions
+
+Required        Team must should be able to speak to discuss, describe, display, or document the
+
+Encouraged 2 engineering content contained in their PORTFOLIO during the judging interview and/or pit interviews.
+
+                Team PORTFOLIO may include information about technical resources which includes any
+
+                number of the following examples:
+
+Encouraged 3    A. how the team acquire new mentors,
+
+                B. how the team learns from team mentors, and/or
+
+                C. development plan for team members to learn new skills
+
+Encouraged 4 PORTFOLIO information is organized in a clear and intuitive manner
+
+6.2.3 Connect Award
+
+Connecting the dots between the STEM community, FIRST, and the diversity of the engineering world.
+
+This judged award is given to the team that connects with their local science, technology, engineering, and
+math (STEM) community. A true FIRST team is more than a sum of its parts and recognizes that engaging their
+local STEM community plays an essential part in their success. The recipient of this award is recognized for
+helping the community understand FIRST, the FIRST Tech Challenge, and the team itself. The team that wins
+the Connect Award actively seeks and recruits engineers and explores the opportunities available in the world
+of engineering, science, and technology. This team has a clear team plan and has identified steps to achieve
+their goals. A PORTFOLIO is not required for this award.
+
+                                                                    Table 0-3: Connect Award Criteria
+
+                Connect Award Criteria
+
+                Team must describe, display, or document a team plan that covers all of the following:
+
+Required  1     A. The team's goals for the development of team member skills, and
+
+                B. The steps the team has taken or will take to reach those goals
+
+Team Update 03  October 17, 2024                                                    3 of 9
+                                                          Connect Award Criteria
+ Encouraged 2 Provide clear examples of developing in person or virtual connections with individuals in the engineering, science, or technology community.
+ Encouraged 3 Provide clear examples of how it actively engages with the engineering community to help them understand FIRST, the FIRST Tech Challenge, and the team itself.
+
+6.2.4 Motivate Award
+
+This team embraces the culture of FIRST and clearly shows what it means to be a team. This team makes a
+collective effort to make FIRST known throughout their school and community and sparks others to embrace
+FIRST's culture. A PORTFOLIO is not required for this award.
+
+                                                                    Table 0-4: Motivate Award Criteria
+
+                Motivate Award Criteria
+
+                Team must describe, display, or document an organizational plan which includes at least
+
+                one of the following examples:
+
+                A. team or organization goals,
+
+Required  1     B. finances and financial sustainability plan,
+
+                C. risk management planning,
+
+                D. season timeline project planning, and/or
+
+                E. outreach and service plan
+
+Required 2 Explain Discuss, describe, display, or document the individual contributions of each team member, and how these apply to the overall success of the team.
+
+Encouraged 3 Is an ambassador for FIRST programs and successfully recruits people who were not already active within the STEM community.
+
+Encouraged 4 Evidence of using lessons learned from outreach activities to improve future events.
+
+Encouraged 5 Has a creative approach to materials that market their team and FIRST.
+
+6.2.5 Innovate Award sponsored by RTX
+
+The Innovate Award celebrates a team that thinks imaginatively and has the ingenuity, creativity, and
+inventiveness to make their designs come to life. This judged award is given to the team that has an innovative
+and creative ROBOT design solution to any specific components in the FIRST Tech Challenge game. Elements
+of this award include elegant design, robustness, and `out of the box' creative thinking related to design. This
+award may address the design of the whole ROBOT or of a sub-assembly MECHANISM attached to the ROBOT
+The creative design element must work consistently, but a ROBOT and does not have to work all the time
+during matches to be considered for this award. A PORTFOLIO is not required for this award.
+
+                                                                    Table 0-5: Innovate Award Criteria
+
+Required                                      Innovate Award Criteria
+Required  1 Team must describe, display, or document examples of the team's engineering content that illustrate how the team arrived at their design solution.
+          2 ROBOT or ROBOT sub-assembly MECHANISM is creative and unique in its design.
+
+Team Update 03  October 17, 2024                                                     4 of 9
+                                                          Innovate Award Criteria
+
+   Required 3 Creative design element must be stable, robust, and contribute positively to the team's game objectives most of the time.
+
+ Encouraged 4 Creative designs often come with additional risks, the team should document or describe how they mitigated that risk.
+
+6.2.6 Control Award
+
+The Control Award celebrates a team that uses sensors and software to increase the ROBOT'S functionality
+during gameplay. This award is given to the team that demonstrates innovative thinking and solutions to solve
+game challenges such as autonomous operation, improving mechanical systems with intelligent control, or
+using sensors to achieve better results. The control component solution(s) should work consistently during
+MATCHES. The team's PORTFOLIO must contain a summary of the software, sensors, and mechanical control
+but would not include copies of the code itself.
+
+                                                                     Table 67: Control Award Criteria
+
+                            Control Award Criteria
+
+                Team must submit a PORTFOLIO. The PORTFOLIO must include all of the following:
+
+                A. hardware and/or software control components COMPONENTS and systems on
+
+ Required   1   the ROBOT,
+
+ Required       B. which challenges each component COMPONENT or system is intended to solve,
+Encouraged
+Encouraged      and
+Encouraged
+                C. how does each component COMPONENT or system work
+
+            2 Team must use one or more hardware or software solutions to improve ROBOT functionality by using external feedback and control.
+
+            3 The control solution(s) should work consistently during most MATCHES.
+
+                  Team could describe, display, or document how the solution should consider reliability
+            34 either through demonstrated effectiveness or identification of how the solution could be
+
+                  improved
+
+            45 Use of the engineering process to develop the control solutions (sensors, hardware
+                  and/or algorithms) used on the ROBOT includes lessons learned.
+
+Team Update 03              October 17, 2024                         5 of 9
+6.2.7 Design Award
+
+The Design Award celebrates the team that demonstrates industrial design principles, striking a balance
+between form, function, and aesthetics. The design process used should result in a ROBOT which is durable,
+efficiently designed, and effectively addresses the game challenge. A PORTFOLIO is not required for this
+award.
+
+                                                                     Table 68: Design Award Criteria
+
+                                                           Design Award Criteria
+   Required 1 A team must be able to describe or demonstrate how their ROBOT is elegant, efficient (simple/executable), and practical to maintain.
+   Required 2 The entire machine design, or the detailed process used to develop the design, is worthy of this recognition, and not just a single component COMPONENT.
+
+  Encouraged 3 The ROBOT distinguishes itself from others by its aesthetic and functional design.
+
+  Encouraged 4 The basis for the design is well considered (that is inspiration, function, etc.).
+
+  Encouraged 5 Design is effective and consistent with team's game plan and/or event strategy.
+
+Section 9.7.1 SAMPLES
+
+A SAMPLE is a 3.5 in. (8.9 cm) long by 1.5 in. (3.8 cm) wide by 1.5 in. (3.8 cm) high rectangular prism shaped
+SCORING ELEMENT. There are forty (40) yellow SAMPLES, twenty (20) red SAMPLES, and twenty (20) blue
+SAMPLES. A SAMPLE with a CLIP attached is no longer a SAMPLE and is now a SPECIMEN. An ALLIANCE
+SPECIFIC SAMPLE with a CLIP attached is no longer a SAMPLE and is now a SPECIMEN. A neutral SAMPLE
+with a CLIP attached is no longer still considered a SAMPLE.
+
+Section 10.5.3 ROBOT Scoring Criteria
+
+         Additionally, the following conditions must be met:
+
+              A. ROBOTS can only ASCEND their own ALLIANCE SPECIFIC RUNGS.
+              B. ROBOTS must start ASCENDING from their ASCENT with their CHASSIS outside the
+
+                   SUBMERSIBLE ZONE.
+              C. for a LEVEL 3 ASCENT, ROBOTS may not contact the HIGH RUNG while:
+
+                    i. supported by the TILES directly or transitively through another object (e.g., SCORING
+                        ELEMENTS or another ROBOT), or
+
+                    ii. supported by any other part of the SUBMERSIBLE structure except for the LOW RUNG
+              D. ROBOTS that are eligible for multiple ASCENTS or ASCENT and PARKING points only earn
+
+                   points for the highest value achievement.
+
+              If any of the above conditions are not met, it is not a valid ASCENT. If a ROBOT does not meet
+              ASCENT criteria, the ROBOT may disengage from the SUBMERSIBLE and attempt the ASCENT
+              again.
+
+                   A ROBOT is considered ASCENDING once it is attempting to achieve an ASCENT
+                   LEVEL, and ASCENDED once it has achieved an ASCENT LEVEL.
+
+                   The intent of part B of this rule is for the ROBOT to start its ASCENT outside of
+                   the SUBMERSIBLE ZONE except for minor elements used by the ROBOT to
+
+Team Update 03  October 17, 2024  6 of 9
+                   contact the RUNG. Once ROBOTS start their ASCENT, parts of the ROBOT may
+                   swing into the SUBMERSIBLE ZONE, which is not a violation of this rule.
+
+                   ROBOTS attempting a LEVEL 3 ASCENT which then violate C. i or ii, may still be
+                   eligible for lower LEVEL ASCENT points as long as all other lower LEVEL ASCENT
+                   criteria are met at the end of the MATCH period. In this scenario, if a ROBOT
+                   would like to reattempt a LEVEL 3 ASCENT they must disengage from the HIGH
+                   RUNG and attempt their LEVEL 3 ASCENT again.
+
+                   ROBOTS supported by an ALLIANCE partner ROBOT, SCORING ELEMENTS, other
+                   sections of the SUBMERSIBLE or the FIELD floor will not be awarded an ASCENT
+                   LEVEL 2 or 3.
+
+Section 11.4.4 ROBOT
+
+This rule was reformatted, with B added.
+
+G419 Watch out for Humans. A ROBOT may not:
+
+    A. enter the OBSERVATION ZONE while a HUMAN PLAYER is in the OBSERVATION ZONE.
+    B. contact a SCORING ELEMENT, either directly or transitively, that is controlled/possessed by a HUMAN
+
+         PLAYER.
+
+Section 11.4.5 Opponent Interaction
+
+G421 *This is not combat robotics. A ROBOT may not deliberately damage or deliberately functionally impair
+         an opponent ROBOT as perceived by a REFEREE.
+
+Section 11.4.6 Human
+
+G431 HUMAN PLAYERS manipulate SCORING ELEMENTS within limits. Only the HUMAN PLAYER may
+         introduce SCORING ELEMENTS into or retrieve SCORING ELEMENTS from the OBSERVATION ZONE.
+
+    A. any number of SCORING ELEMENTS can be manipulated by the HUMAN PLAYER at a time.
+    B. SCORING ELEMENTS may be placed in any orientation and/or in contact with other SCORING
+
+         ELEMENTS.
+    C. HUMAN PLAYERS may only place SCORING ELEMENTS into the OBSERVATION ZONE during the AUTO
+
+         and TELEOP periods of the MATCH.
+    D. HUMAN PLAYERS may not be in contact with a SCORING ELEMENT, either directly or transitively, that is
+
+         possessed/controlled by a ROBOT.
+
+         Violation: MINOR FOUL per SCORING ELEMENT occurrence.
+
+Section 12.1 General ROBOT Design
+
+Added link to orange box of rule R104.
+
+                   Please see the R104 and R418 Recap Video for helpful visuals to help teams
+                   comply with this rule.
+
+Team Update 03  October 17, 2024  7 of 9
+Section 12.5 Motors and Actuators
+
+Motor Name                                   Part Numbers          Notes
+                                             Available
+
+AndyMark NeveRest 12V DC                     am-3104, am-3104b
+
+AndyMark NeveRest Hex 12V DC                 am-3104c
+
+goBILDA Yellow Jacket 520x Series 12V DC 5201-0002-0026, etc. 5201, 5202, 5203, and 5204 series
+
+Modern Robotics / MATRIX 12V DC              5000-0002-0001
+
+REV Robotics HD Hex 12V DC                   REV-41-1291
+
+REV Robotics Core Hex 12V DC                 REV-41-1300
+
+Studica Robotics Maverick 12V DC             75001
+
+TETRIX MAX 12V DC                            739530, 39530         Discontinued
+
+TETRIX MAX TorqueNADO 12V DC                 W44260
+
+VEX EDR 393                                  276-2177              Counts as a servo for R503
+
+Factory installed vibration and autofocus motors resident in COTS computing devices (e.g., rumble motor
+in a smartphone); can only be used as part of the device and cannot be removed and/or repurposed. These
+motors do not count toward the limit in R503.
+
+Motors integral to a COTS sensor (e.g., LIDAR, scanning sonar), provided the device is not modified except
+to facilitate mounting. These motors do not count toward the limit in R503.
+
+Section 13.7.1 - Dual Division Playoffs
+Added breaks for awards
+
+                                                            Gap         Next MATCH
+                                                            (min)  (MATCH # (ALLIANCE
+                                                       Blue Red
+                                                                             color))
+                                                       0:09
+Round                      Upper/                      0:09        Winner         Loser    Estimated
+   1         MATCH Lower FIELD Blue Red                0:15 0:09   M3 (B)        M6 (B)    Start (min)
+                                                       0:27 0:09                 M5 (B)
+   2            1  Upper 1 A5 A4                       0:15 0:21   M4 (B)        M5 (R)          0
+   3                                                   0:15 0:09                 M6 (R)
+   4            2  Upper 2 A6 A3                                   M7 (R)                        6
+                                                                                 Tied 5th
+                3  Upper 1 W1 A1                                   M7 (B)        M9 (R)         12
+                                                                   M8 (B)
+                4  Upper 2 W2 A2                                   M8 (R)           4th         18
+                                                                   M10 (R)                      24
+                5  Lower 1               L2  L3                    M9 (B)                       30
+                                                                                                36
+                6  Lower 2               L1  L4                                                 42
+
+                7  Upper 1 W4 W3
+
+                8  Lower 2 W5 W6
+
+Team Update 03                               October 17, 2024                              8 of 9
+8-minute break                                                                                        45
+
+5                  9    Lower 1 W8 L7 0:08 0:14                      M10 (B)             3rd     53
+                                                                                        M11*     56
+8-minute break                                                                                   64
+                                                                                        M14      67
+Finals             10   1 W9 W7 0:08 0:25                            M11*               M15*     75
+                                                                                                 78
+8-minute break                                                                                   93
+                                                                                                 96
+Finals*            11   1 W9 W7 0:08 0:08                                                     104 111
+                                                                                              107 114
+End of Divisional Playoffs/15 Minute Break Design Award, (2, 1), Motivate Award (2, 1)        115 129
+                                                                                              118 132
+Evt Fin            13   1 DivA DivB 0:15 0:15                        M14
+
+8 15-minute break       Control Award (2, 1), Innovate Award (2, 1)
+
+Evt Fin            14   1 DivA DivB 0:08 0:08                        M15*
+
+8 15-minute break       Connect Award (2, 1), Think Award (2, 1)
+
+Evt Fin            15*  1 DivA DivB 0:08 0:08
+
+Awards: Remaining awards, Finalists, Winners, and Inspire Award
+
+Section 16 - Glossary
+
+Added Judge Definition:
+
+JUDGE - Judges meet with teams to learn about and celebrate the unique journey and accomplishments of
+each team and evaluate these against award requirements. Judges interact with students during the interview
+process and in the pits. As a group, Judges determine the teams that receive awards at events
+
+Team Update 03          October 17, 2024                                                      9 of 9
+Team Update 02
+
+General
+General formatting fixes.
+Competition Manual
+Section 6.2.2 Think Award
+
+                             Think Award Criteria
+
+Required       Team must submit a PORTFOLIO. The PORTFOLIO must include engineering content
+               including which includes at least one of the following:
+
+          1 A. evidence of use of the engineering process, B. lessons learned,
+                    C. trade off analysis /cost benefit analysis, and/or
+                    D. mathematical analysis used to make design decisions
+
+Required 2 Team must be able to speak to the engineering content contained in their PORTFOLIO during the judging interview and/or pit interviews.
+
+                Team PORTFOLIO may include information about technical skill resources including
+
+                which includes any number of the following examples:
+
+Encouraged 3    A. how the team acquire new mentors,
+
+                B. how the team learns from team mentors, and/or
+
+                C. development plan for team members to learn new skills
+
+Encouraged 4 PORTFOLIO information is organized in a clear and intuitive manner
+
+Section 6.2.3 Connect Award
+
+                             Connect Award Criteria
+
+                Team must describe, display, or document a team plan that covers all of the following:
+
+Required  1     A. The team's goals for the development of team member skills, and
+
+                B. The steps the team has taken or will take to reach those goals
+
+Team Update 02               October 3, 2024                                        1 of 6
+Section 6.2.4 Motivate Award
+
+                                      Motivate Award Criteria
+
+                Team must describe, display, or document an organizational plan including which
+                includes at least one of the following examples:
+
+                A. team or organization goals,
+
+Required  1     B. finances and financial sustainability plan,
+
+                C. risk management planning,
+
+                D. season timeline project planning, and/or
+
+                E. outreach and service plan
+
+Section 6.2.6 Control Award
+
+                                      Control Award Criteria
+
+                Team must submit a PORTFOLIO. The PORTFOLIO must include all of the following:
+
+Required  1                  A. hardware and/or software control components and systems on the
+
+                              ROBOT,
+
+                             B. which challenges each component or system is intended to solve, and
+
+                             C. how does each component or system work
+
+Section 9.7.1 SAMPLES
+
+    · A SAMPLE is a 3.5 in. (8.9 cm) long by 1.5 in. (3.8 cm) wide by 1.5 in. (3.8 cm) high rectangular prism
+         shaped SCORING ELEMENT. There are forty (40) yellow SAMPLES, twenty (20) red SAMPLES, and
+         twenty (20) blue SAMPLES. A SAMPLE with a CLIP attached is no longer a SAMPLE and is now a
+         SPECIMEN. An ALLIANCE SPECIFIC SAMPLE with a CLIP attached is no longer a SAMPLE and is now a
+         SPECIMEN. A neutral SAMPLE with a CLIP attached is no longer a SAMPLE.
+
+Section 9.7.2 CLIP
+
+    · The CLIP is a black plastic SCORING ELEMENT which is designed to be connected to an ALLIANCE
+         SPECIFIC SAMPLE by a HUMAN PLAYER or ROBOT to create a SPECIMEN. The CLIP is a 2.5 in. (~6.4
+         cm) high by ~3.2 in. (~8.1 cm) long by 1 in. (~2.5 cm) wide .
+
+Section 10.3.1 SCORING ELEMENTS
+
+    · From the SCORING ELEMENTS provided in D and E each ROBOT may be pre-loaded with either 1
+         SAMPLE or one SPECIMEN such that it is in contact with the ROBOT and not in the OBSERVATION
+         ZONE or NET ZONE. SAMPLES or CLIPS not pre-loaded will remain in setup locations D and E.
+
+Section 10.5 Scoring
+
+    · All accomplishments are tracked live by FIELD STAFF and certified at the end of the MATCH.
+         Accomplishments are officially scored at the end of the each MATCH period based on the status of the
+         FIELD, when all ROBOTS and SCORING ELEMENTS have come to rest, except as follows:
+
+Team Update 02                        October 3, 2024                   2 of 6
+Section 10.5.1 SAMPLE Scoring Criteria
+
+    · A neutral SAMPLE with a CLIP attached in the NET ZONE or either the LOW or HIGH BASKETS have no
+         score value.
+
+Section 10.5.3 ROBOT Scoring Criteria
+
+         Additionally, the following conditions must be met:
+
+              A. ROBOTS can only ASCEND their own ALLIANCE SPECIFIC RUNGS.
+              B. ROBOTS must start ASCENDING from outside the SUBMERSIBLE ZONE.
+              C. for a LEVEL 3 ASCENT, ROBOTS may not initiate contact with the HIGH RUNG while:
+
+                      i. still supported by the TILES directly or transitively through another object (e.g., SCORING
+                           ELEMENTS or another ROBOT), or
+
+                      ii. supported by any other part of the SUBMERSIBLE structure except for the LOW RUNG
+              D. ROBOTS that are eligible for multiple ASCENTS or ASCENT and PARKING points only earn
+
+                   points for the highest value achievement.
+
+              If any of the above conditions are not met, it is not a valid ASCENT. If a ROBOT does not meet
+              ASCENT criteria, the ROBOT may disengage from the SUBMERSIBLE and attempt the ASCENT
+              again.
+
+                   A ROBOT is considered ASCENDING once it is attempting to achieve an ASCENT
+                   LEVEL, and ASCENDED once it has achieved an ASCENT LEVEL.
+
+                   The intent of part B of this rule is for the ROBOT to start its ASCENT outside of
+                   the SUBMERSIBLE ZONE except for minor elements used by the ROBOT to
+                   contact the RUNG. Once ROBOTS start their ASCENT, parts of the ROBOT may
+                   swing into the SUBMERSIBLE ZONE, which is not a violation of this rule.
+
+                   ROBOTS attempting a LEVEL 3 ASCENT which then violate C. i or ii, may still be
+                   eligible for lower LEVEL ASCENT points as long as all other lower LEVEL ASCENT
+                   criteria are met at the end of the MATCH period. In this scenario, if a ROBOT
+                   would like to reattempt a LEVEL 3 ASCENT they must disengage from the HIGH
+                   RUNG and attempt their LEVEL 3 ASCENT again.
+
+                   ROBOTS supported by an ALLIANCE partner ROBOT, SCORING ELEMENTS, other
+                   sections of the SUBMERSIBLE or the FIELD floor will not be awarded an ASCENT
+                   LEVEL 2 or 3.
+
+Section 11.3 Pre-MATCH
+
+G303 *ROBOTS on the FIELD must be set up to play a MATCH. A ROBOT must meet all following MATCH-
+         start requirements:
+
+              A. does not pose a hazard to humans, FIELD elements, or other ROBOTS.
+              B. has passed inspection, i.e., it is compliant with all ROBOT rules.
+              C. if modified after initial Inspection, it is compliant with I304.
+              D. is the only team-provided item left on the FIELD.
+              E. is fully contained within the FIELD and not in the NET ZONE or OBSERVATION ZONE.
+              F. touching the FIELD wall adjacent to the ALLIANCE AREA.
+
+Team Update 02  October 3, 2024  3 of 6
+      G. not attached to, entangled with, or suspended from any FIELD element.
+      H. confined to its STARTING CONFIGURATION (see R101 and R102).
+      I. in contact with no more than the allowed pre-load possession limit as described in section
+
+          10.3.1 SCORING ELEMENTS.
+      J. ROBOT SIGNS must indicate the correct ALLIANCE color (see R402).
+
+Section 11.4.1 AUTO
+
+G404 No AUTO opponent interference. FIELD columns A, B, C constitute the blue side of the FIELD, and
+         columns D, E, F (Figure 9-4) institute the red side of the FIELD. During AUTO ROBOTS may not:
+
+      A. contact an opposing ALLIANCE'S ROBOT which is completely within the opposing ALLIANCE'S
+          half of the FIELD.
+
+      B. contact a pre-set SAMPLE on the opposing ALLIANCE'S half of the FIELD.
+      C. move SCORING ELEMENTS onto the opposing ALLIANCE'S half of the FIELD outside of the
+
+          SUBMERSIBLE ZONE.
+
+Section 11.4.3 SCORING ELEMENT
+
+G406  *ROBOTS are motionless at the end of TELEOP. ROBOTS must no longer be actively controlled by
+      DRIVERS after the end of the TELEOP period. This can be done by a DRIVE TEAM member pressing the
+      () stop button on the DRIVER STATION app or by discontinuing any operation of the ROBOT by the
+      end of the MATCH period.
+
+G411 ROBOTS may not CONTROL the opposing ALLIANCE'S SPECIFIC SAMPLES or SPECIMENS. ROBOTS
+         may only have MOMENTARY CONTROL of opposing ALLIANCE SPECIFIC SAMPLES or SPECIMENS.
+
+      Violation: MINOR FOUL per SCORING ELEMENT, plus an additional MINOR FOUL per opposing SCORING
+      ELEMENT for each 5-second interval that the situation continues. A MAJOR PENALTY FOUL is applied for
+      each SCORING ELEMENT that is scored while in CONTROL.
+
+Section 11.4.4 ROBOT
+
+G418 Horizontal expansion limit. After the MATCH has started, ROBOTS may expand beyond the STARTING
+         CONFIGURATION but are still subject to sizing constraints (per. The sizing constraints are specified in
+         R104.
+
+      Violation: if more than MOMENTARY, MINOR FOUL, or MAJOR FOUL if the over-expansion is used for
+      strategic benefit, including if it impedes or enables a scoring action.
+
+      This rule is intended to limit the amount of floor area each ROBOT can cover
+      with the maximum range of motion of all extensions. All possible movement
+      of extensions outside the STARTING CONFIGURATION must be constrained
+      within the horizontal size boundary assuming a stationary DRIVETRAIN
+      resting normally on a flat surface as described in R104.
+
+      During the MATCH REFEREES may use ARENA elements to help gauge
+          ROBOT expansion during the MATCH. For example:
+
+      A. TILES are approximately 24 in. (~61 cm)
+      B. The RUNGS on the SUBMERSIBLE are 44.5 in. (~113 cm) wide
+
+Team Update 02                  October 3, 2024                                     4 of 6
+                REFEREES that observe ROBOTS that are in violation of this rule may request
+                the ROBOT be reinspected.
+
+Section 11.4.6 Human
+
+G431 HUMAN PLAYERS manipulate SCORING ELEMENTS within limits. Only the HUMAN PLAYER may
+         introduce SCORING ELEMENTS into or retrieve SCORING ELEMENTS from the OBSERVATION ZONE.
+
+      A. any number of SCORING ELEMENTS can be manipulated by the HUMAN PLAYER at a time.
+      B. SCORING ELEMENTS may be placed in any orientation and/or in contact with other SCORING
+
+          ELEMENTS.
+      C. HUMAN PLAYERS may only place SCORING ELEMENTS into the OBSERVATION ZONE during
+
+          the AUTO and TELEOP periods of the MATCH.
+
+Section 11.5 Post-MATCH
+
+G502 *Stop ROBOTS before entering the FIELD. DRIVE TEAM members may not enter the FIELD to recover
+         ROBOTS until:
+
+      A. the head REFEREE has signaled it is okay to enter the field and
+      B. the DRIVE TEAM has pressed the () stop button on their DRIVER STATION app
+
+      Violation: Verbal warning plus YELLOW CARD if subsequent violations at any point during the event.
+
+Section 12.1 General ROBOT Design
+
+R104 There is a horizontal expansion limit. After the MATCH has started, ROBOTS may expand beyond the
+         STARTING CONFIGURATION but are still subject to sizing constraints. The sizing constraints are:
+
+      A. there is no vertical height limit relative to the TILE floor for ROBOT extensions,
+      B. the horizontal size boundary is a 20 in. x 42 in. (50.8 cm x 106.7 cm) rectangle measured
+
+          parallel (coplanar) to the TILE floor,
+      C. the horizontal size boundary translates and rotates with the overall configuration of parallel
+
+          (coplanar) to the TILE floor, with the CHASSIS of the ROBOT, which is the structural frame or
+          base of a ROBOT that allows it to move and maneuver.
+      D. the maximum extent of all extensions of the ROBOT must be confined to the horizontal size
+          boundary, with the ROBOT chassis remaining in the same relative location within the horizontal
+          size boundary at all times (the location and orientation of the chassis within the horizontal size
+          boundary is determined by the team), and
+      E. the horizontal size boundary as described in B is always parallel (coplanar) to the TILES, so
+          ROBOTS which change orientation (drive, tip, roll, etc.) during the MATCH are still subject to the
+          horizontal expansion limit measured parallel (coplanar) to the TILES.
+
+Section 12.6 Power Distribution
+
+R616  *Use specified wire colors. All non-SIGNAL LEVEL wiring with a constant polarity (i.e., except for
+      outputs of motor controllers, or sensors) must use consistent color-coding with different colors used
+      for the positive (red, yellow, white, brown, or black with white stripe) and negative/common (black, blue)
+      wires. Integrated wires originally attached to legal COTS devices or wires included/sold by the
+      manufacturer are considered part of the device and by default legal. Such wires are exempt from this
+      rule.
+
+Team Update 02                     October 3, 2024                                           5 of 6
+Section 12.7 Control, Command & Signals System
+
+R718 *Configure Android devices appropriately. ROBOT CONTROLLER and DRIVER STATION Android
+         devices (smartphones, REV Control Hub, REV Driver Hub) must additionally be configured in the
+         following ways:
+
+              A. REV Control Hub users must change the Wi-Fi password to a non-default password,
+              B. smartphone users must enable Airplane Mode,
+              C. on ROBOT CONTROLLER and DRIVER STATION Android devices, Wi-Fi must be enabled and
+
+                   Bluetooth must be disabled,
+              D. on smartphones and REV Driver Hub, remove all remembered Wi-Fi Direct Groups and Wi-Fi
+
+                   connections, leaving only the ROBOT CONTROLLER Wi-Fi connection.
+
+Team Update 02  October 3, 2024  6 of 6
+Team Update 01
+
+General
+
+The Q&A system is now open for questions. As a reminder, each team has one account that can be used to ask
+questions on the Q&A. Please reference the Team Q&A Registration Instructions document to access your
+team's account.
+
+Competition Manual
+
+Section 1.10 Question and Answer System
+
+    · Moderators will answer team questions beginning each Monday, and close on Thursday at 12:00pm ET.
+
+Section 9.7 SCORING ELEMENTS
+
+    · There are two different physical elements used in INTO THE DEEP: the SAMPLE and the CLIP. Red or
+         blue ALLIANCE SPECIFIC SAMPLES can be combined by a HUMAN PLAYER with a CLIP to create a
+         SPECIMEN. The SAMPLE and the SPECIMEN can be used to score points.
+
+Section 9.7.2 CLIP
+
+    · The CLIP is a black plastic SCORING ELEMENT which is designed to be connected to a SAMPLE by a
+         HUMAN PLAYER or ROBOT to create a SPECIMEN. The CLIP is a 2.5 in. (~6.4 cm) high by ~3.2 in. (~8.1
+         cm) long by 1 in. (~2.5 cm) wide .
+
+Section 10.3.1 SCORING ELEMENTS
+    · From the SCORING ELEMENTS provided in E D and F E each ROBOT may be pre-loaded with either 1
+         SAMPLE or one SPECIMEN such that it is in contact with the ROBOT. SAMPLES or CLIPS not pre-
+         loaded will remain in setup locations E D and F E.
+
+Section 10.5.3 ROBOT Scoring Criteria
+         Additionally, the following conditions must be met:
+              · ROBOTS can only ASCEND their own ALLIANCE SPECIFIC RUNGS.
+              · ROBOTS must start ASCENDING from outside the SUBMERSIBLE ZONE.
+              · ROBOTS may not initiate contact with the HIGH RUNG while:
+                      · still supported by the TILES directly or transitively through another object (e.g., SCORING
+                           ELEMENTS or another ROBOT), and or
+                      · supported by any other part of the SUBMERSIBLE structure except for the LOW RUNG
+              · ROBOTS that are eligible for multiple ASCENTS or ASCENT and PARKING points only earn
+                   points for the highest value achievement.
+
+              If any of the above conditions are not met, it is not a valid ASCENT. If a ROBOT does not meet
+              ASCENT criteria, the ROBOT may disengage from the SUBMERSIBLE and attempt the ASCENT
+              again.
+
+Section 11.4.2 TELEOP
+
+G406 *ROBOTS are motionless at the end of TELEOP. ROBOTS must no longer be actively controlled after the
+         end of the TELEOP period. This can be done by a DRIVE TEAM member pressing the () stop button
+
+Team Update 01  September 19, 2024  1 of 4
+      on the DRIVER STATION app or by discontinuing any operation of the ROBOT by the end of the buzzer
+      sound MATCH period.
+
+      Violation: MINOR FOUL, MAJOR FOUL if actions result in a scoring achievement by the offending ROBOT
+
+               DRIVE TEAMS should make their best effort to stop gameplay immediately when
+               the end of the period game sound begins at the end of the MATCH period. The
+               end of MATCH period buzzer audio cue is approximately 3 seconds long and is
+               used as an unofficial indicator to teams and REFEREES that the MATCH has
+               ended.
+
+Section 11.4.3 SCORING ELEMENT
+
+G410  1 SAMPLE or SPECIMEN at a time. A ROBOT may not CONTROL more than 1 SAMPLE or 1 SPECIMEN
+      at a time, either directly or transitively through other objects. There is no limit to the number of CLIPS a
+      ROBOT may possess.
+
+      A ROBOT is in CONTROL of a SAMPLE or SPECIMEN if:
+           · the SAMPLE or SPECIMEN is fully supported by the ROBOT or
+           · it intentionally pushes a SAMPLE or SPECIMEN to a desired location or in a preferred direction
+                (i.e., herding, often with a concave surface)
+
+      Exceptions to this rule are as follows:
+           · ROBOTS may MOMENTARILY exceed CONTROL limits while collecting SAMPLES that are in the
+                SUBMERSIBLE ZONE.
+           · scored SAMPLES or SPECIMENS for the corresponding ALLIANCE are exempt from the
+                CONTROL limit.
+
+      Violation: MINOR FOUL per SCORING ELEMENT, plus YELLOW CARD if excessive.
+
+      Examples of interaction with a SAMPLE or SPECIMEN that are not "CONTROL"
+      include, but are not limited to:
+
+      A. PLOWING or "bulldozing" (inadvertent contact with a SAMPLE or SPECIMEN,
+          typically via a flat or convex surface, while in the path of the ROBOT moving
+          about the FIELD).
+
+      B. "deflecting" (being hit by a SAMPLE or SPECIMEN that bounces off a
+          ROBOT).
+
+      Excessive violations of CONTROL limits include, but are not limited to,
+      simultaneous CONTROL of 3 or more SCORING ELEMENTS SAMPLES and/or
+      SPECIMENS, or frequent, greater-than MOMENTARY CONTROL (i.e., more than
+      twice in a MATCH) of 2 or more SCORING ELEMENTS. REPEATED excessive
+      violations of this rule do not result in additional YELLOW CARDS unless the
+      violation reaches the level of egregious to trigger a G201 violation.
+
+Team Update 01                  September 19, 2024                                       2 of 4
+G411 ROBOTS may not CONTROL the opposing ALLIANCE'S SPECIFIC SAMPLES or SPECIMENS. ROBOTS
+         may only have MOMENTARY CONTROL of opposing ALLIANCE SPECIFIC SAMPLES or SPECIMENS.
+
+         Violation: MINOR FOUL per SCORING ELEMENT, plus an additional MINOR FOUL per opposing SCORING
+         ELEMENT for each 5-second interval that the situation continues. A MAJOR PENALTY is applied for each
+         SCORING ELEMENT that is scored while in CONTROL.
+
+Section 12.3 Fabrication
+
+R307  *COTS must be single DoF. COTS COMPONENTS and MECHANISMS must not exceed a single degree
+      of mechanical freedom (DoF). Examples of allowed COTS single degree of freedom MECHANISMS and
+      COMPONENTS are as follows:
+
+           A. linear slide kit,
+           B. linear actuator kit,
+           C. single speed (non-shifting) gearboxes,
+           D. pulley,
+           E. turntable,
+           F. lead screw, and
+           G. single DoF gripper.
+
+      Allowed exceptions to this rule are:
+
+           H. ratcheting devices (wrenches, bearings, etc.),
+           I. holonomic wheels (omni or mecanum), and
+           J. dead-wheel odometry kits.
+
+      The general test for a single degree of freedom MECHANISM is whether the
+      orientation and position of each COMPONENT in the MECHANISM can be
+      generally predicted based on the orientation and position of a single
+      COMPONENT (such as the input) of the system.
+
+      Example 1: A mecanum drivetrain is made up of four independent drive modules,
+      each with a single DoF (ignoring the DoF of the mecanum wheels as allowed by
+      this rule), attached to a common structure (e.g., chassis). The overall
+      MECHANISM is still a single DoF.
+
+      Example 2: Dead wheel odometry modules, allowed by this rule, are typically
+      composed of a 1 DoF wheel (ignoring the effect of the holonomic wheel)
+      providing forward/backwards motion and a spring force providing an additional
+      unique rotational or vertical motion, creating a two DoF system.
+
+      Example 3: Simple gripper claws, comprised of a single actuator moving two
+      gripper jaws simultaneously or double actuators each controlling an independent
+      gripper jaw, are by and large a single DoF. However, grippers that incorporate
+      additional actuators providing additional twisting and/or bending actions (like a
+      wrist) add degrees of freedom that are prohibited in COTS MECHANISMS.
+
+Team Update 01  September 19, 2024  3 of 4
+Section 12.4 ROBOT SIGNS
+
+R402  *ROBOT SIGNS indicate your ALLIANCE. Each ROBOT SIGN must contain a 6.5 in. by 2.5 in. (16.5 cm
+      by 6.4 cm) rectangle with a solid red or blue opaque background to indicate their ALLIANCE color
+      (Figure 12-4), as assigned in the MATCH schedule at the event. Visible markings on ROBOT SIGNS
+      when installed on the ROBOT, other than the following, are prohibited:
+
+          A. those required per R403,
+          B. solid white FIRST logos no larger than 1.5 in. (3.8 cm) in height (Figure 12-5)
+          C. small amounts of hook-and-loop tape, hard fasteners, or functional equivalents,
+          D. narrow areas of differing colors exposed at corners, folds, or cutouts,
+          E. dark narrow markings on background solely for template purposes,
+          F. cannot be powered or rely on power from any sources to illuminate/reveal ALLIANCE color
+
+Section 13.6.4 4-ALLIANCE Bracket and Typical Timing
+Correction to Match 5 lower bracket, loser of M4 plays winner of M3.
+
+Team Update 01            September 19, 2024                          4 of 4
+Team Update 00
+
+The FIRST® Tech Challenge Competition Manual has undergone significant reorganization and modification
+since the 2023-2024 season. The Competition Manual is the ultimate source for rules and will be updated
+throughout the season to reflect any clarifications or changes. High level changes to the format of the manual
+were addressed in this blog post.
+
+When reading the Competition Manual, avoid making any assumptions based on previous year's rules or prior
+interpretations. It's important to read the whole manual at least once and become an expert on sections of the
+manual that directly relate to your role and responsibilities on your team.
+
+Teams are welcome to view existing questions and answers and to ask thoughtful and informed questions
+through the official Q&A system opening at September 16, 2024, 12:00p.m. ET. Before asking a question,
+please review section 1.10 in the Competition Manual for information on what types of questions should be
+asked.
+
+Content Changes
+A summary of major content changes made since the preview version of the manual (V0) was released in July
+can be found below. In addition to what is listed below, other editorial changes to verbiage, and modifications
+to figures and examples have been made. Be sure to read the current version of the competition manual in its
+entirety to see all updates and changes.
+
+Section 1 Introduction
+Added more precision to metric dimensions as described in section 1.7.
+
+    · Imperial dimensions are followed by comparable metric dimensions in parentheses to provide metric
+         users with the approximate size, mass, etc. Metric conversions (e.g., dimensions) round to the nearest
+         tenths, e.g., "17.5 in. (~44.5 cm)."
+
+Section 5 Event Rules
+Multiple rules have added text for clarity in this section. Make sure to read the updated section for the most
+current wording.
+
+E702 *Pit person limit during ceremonies is 5. No more than 5 team members may be in the pits during
+ceremonies outside of playoff MATCHES. Each team must have at least 1 representative observing
+ceremonies to be responsible to relay important information to the entire team.
+
+Team Update 00  September 7, 2024  1 of 4
+Section 12 ROBOT Construction Rules
+R104 There is a horizontal expansion limit.
+Horizontal expansion limit rules have been updated for clarity with:
+
+              · revised wording to the rule text
+              · additions to the orange box text
+              · updated figure 12-1 Expansion Limits
+              · new figure 12-2 Expansion Limit Examples
+
+R402 *ROBOT SIGNS indicate your ALLIANCE.
+              E. cannot be powered or rely on power from any sources to illuminate/reveal ALLIANCE color
+
+R504  *Do not modify actuators unless explicitly allowed.
+
+          B. the electrical leads may be trimmed to length as necessary and connectors or splices to
+               additional wiring may be added, and purely electrical enclosures can be substituted with
+               functionally equivalent replacements,
+
+R505 *All actuators must be powered from approved devices.
+
+                                                                Table 12 3: Power Regulators and Limits
+
+      Power Regulating Device  Part Number       Load Limit per Device
+
+      REV Robotics Servo Hub   REV-11-1855       2 Servos per Port
+
+Additionally, references to the REV Robotics Servo Hub have been added to relevant tables in R614, R619, R713.
+
+R609 *Connect the ROBOT battery safely though the Main Power Switch.
+
+                                                                     Table 0-1: Legal Power Switches
+
+                Power Switch                                          Part Number
+                Studica On/Off Power Switch Kit                       70182
+
+R702 *Teams may not alter coprocessor software. Modifying software on coprocessors, unless explicitly
+permitted in this rule or rule R703, is not allowed by teams. Firmware updates in binary form provided by the
+manufacturer may be applied as directed by the manufacturer.
+
+                   The following are examples of allowed devices:
+
+Team Update 00                 September 7, 2024                                                         2 of 4
+Example 1: The Adafruit BNO055 Absolute Orientation Sensor is an IMU package
+with an onboard ARM Cortex-M0 based coprocessor to crunch sensor data and
+produce composite output. Its coprocessor contains software that is not
+intended by the manufacturer to be modified by users.
+
+Example 2: The SparkFun Optical Tracking Odometry Sensor is a laser and IMU
+tracking device that uses an onboard microcontroller to perform complex
+calculations and produce simplified results. SparkFun does provide the source
+code and toolchain for advanced users to modify/update the software, which is
+not permitted by this rule. Firmware updates provided by SparkFun are allowed to
+be applied to the device.
+
+Example 3: The Digital Chicken Labs OctoQuad FTC Edition is an 8-channel
+encoder/PWM interface, utilizing a Raspberry Pi Pico coprocessor. Teams are
+not permitted to modify software running on the device, including replacing the
+software with their own. Updates provided in binary form by the manufacturer
+(Digital Chicken Labs) may be applied to the device.
+
+R703 *Some vision coprocessors can be programmed. Programmable vision coprocessors that are natively
+supported by the FTC SDK may be programmed. The programmable vision coprocessors that are supported
+are:
+
+                                     Table 0-2: Supported programmable vision coprocessors
+
+                Device                         Part Number
+
+                Limelight Vision Limelight 3A  LL_3A
+
+Example 1: Optical Flow sensors are an example of a sensor that utilizes a vision
+coprocessor that is treated no differently than other coprocessors per R702.
+
+Example 2: The DFRobot HuskyLens and the Charmed Labs Pixy2 are examples
+of vision coprocessors that are configurable but not programmable and are
+treated no differently than other coprocessors per R702.
+
+Example 3: The OpenMV Cam, Luxonis OAK-1, and LimeLight Vision Limelight 3G
+are examples of programmable vision coprocessors that are prohibited.
+
+See R715 for more information regarding vision coprocessor support.
+
+R706 *Bandwidth is restricted. While in the ARENA and MATCH queue devices on the ROBOT network are
+limited to only the ROBOT CONTROLLER device and the DRIVER STATION device, and communication between
+the ROBOT CONTROLLER and the DRIVER STATION device is limited to ROBOT command data from the
+DRIVER STATION app, debugging data and telemetry from the ROBOT CONTROLLER app to the DRIVER
+STATION app, and single frame images used during ROBOT set-up pre-MATCH. When not in the ARENA or
+MATCH queue, additional devices (including, but not limited to, programming computers) may also
+communicate on the ROBOT network and teams must be careful to limit Wi-Fi streaming bandwidth between
+devices.
+
+Team Update 00          September 7, 2024                   3 of 4
+R710 *Use assigned Wi-Fi bands and/or channels if requested. Teams may be asked by the event director to
+use a specific Wi-Fi frequency band or channel on the day of competition. If requested, teams are required to
+do so. Teams may work with the FTA or wireless technical advisor (WTA) to find an alternate frequency band
+or channel if the suggested band/channel is deemed problematic by the FTA or WTA.
+
+R710-R717 Rules from R710 to R717 have been renumbered to make room for R710
+
+R715 *Use only supported USB vision. Only single image sensor vision devices that are natively supported by
+the ROBOT CONTROLLER app are allowed to connect to USB (stereoscopic cameras are not allowed). This
+includes the following:
+
+              A. all UVC compatible USB webcams (Logitech C270, and related), and
+              B. Vision coprocessors allowed per R703.
+
+                   To request support (or to provide sample drivers) for alternate USB vision
+                   devices for inclusion in future FIRST Tech Challenge seasons, please use the Part
+                   Suggestion Form.
+                   UVC compatible USB webcams may only use the UVC provided stream / data. No
+                   other interfaces or data provided by the webcam may be used.
+
+Team Update 00  September 7, 2024  4 of 4
+

@@ -1,0 +1,22 @@
+# Game manuals, field drawings and CAD downloaded from FIRST.
+#
+# Excluded for two independent reasons, either of which is sufficient. They are not ours to
+# redistribute: they are FIRST's copyrighted material, and a public mirror of them is a
+# redistribution however well intentioned. And they are 245 MB of this folder's 270 MB, which
+# makes every clone of this repository pay for files anybody can download from FIRST directly.
+#
+# Everything that reads them still works on a machine that has them. Nothing in this repository
+# depends on them being version controlled.
+manuals/
+
+# Editor and OS noise.
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Python bytecode and editor backups.
+__pycache__/
+*.pyc
+*.bak
+*.bak[0-9]

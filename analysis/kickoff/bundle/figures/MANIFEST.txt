@@ -1,0 +1,44 @@
+# rendered from BIOBUZZ_Competition_Manual_KICKOFF.pdf (188 pages)
+# Upload these to Claude in this order, alongside the text extract.
+# The ARENA pages answer field geometry; the Game Details pages carry the
+# scoring table. Read the scoring PROSE in the text extract, not off the image.
+
+page  58	p058_s8-game-overview.png	0.53 MB	130 dpi
+page  59	p059_s9-arena.png	0.41 MB	130 dpi
+page  60	p060_s9-arena.png	0.28 MB	130 dpi
+page  61	p061_s9-arena.png	0.56 MB	130 dpi
+page  62	p062_s9-arena.png	0.29 MB	130 dpi
+page  63	p063_s9-arena.png	0.27 MB	130 dpi
+page  64	p064_s9-arena.png	0.22 MB	130 dpi
+page  65	p065_s9-arena.png	0.23 MB	130 dpi
+page  66	p066_s9-arena.png	0.24 MB	130 dpi
+page  67	p067_s9-arena.png	0.19 MB	130 dpi
+page  68	p068_s9-arena.png	0.25 MB	130 dpi
+page  69	p069_s9-arena.png	0.22 MB	130 dpi
+page  70	p070_s9-arena.png	0.37 MB	130 dpi
+page  71	p071_s9-arena.png	0.22 MB	130 dpi
+page  72	p072_s9-arena.png	0.44 MB	130 dpi
+page  73	p073_s9-arena.png	0.34 MB	130 dpi
+page  74	p074_s9-arena.png	0.41 MB	130 dpi
+page  75	p075_s9-arena.png	0.29 MB	130 dpi
+page  76	p076_s9-arena.png	0.2 MB	130 dpi
+page  77	p077_s9-arena.png	0.15 MB	130 dpi
+page  78	p078_s9-arena.png	0.01 MB	130 dpi
+page  79	p079_s10-game-details.png	0.46 MB	130 dpi
+page  80	p080_s10-game-details.png	0.22 MB	130 dpi
+page  81	p081_s10-game-details.png	0.38 MB	130 dpi
+page  82	p082_s10-game-details.png	0.27 MB	130 dpi
+page  83	p083_s10-game-details.png	0.29 MB	130 dpi
+page  84	p084_s10-game-details.png	0.2 MB	130 dpi
+page  85	p085_s10-game-details.png	0.36 MB	130 dpi
+page  86	p086_s10-game-details.png	0.17 MB	130 dpi
+page  87	p087_s10-game-details.png	0.16 MB	130 dpi
+page  88	p088_s10-game-details.png	0.18 MB	130 dpi
+page  89	p089_s10-game-details.png	0.27 MB	130 dpi
+page  90	p090_s10-game-details.png	0.35 MB	130 dpi
+page  91	p091_s10-game-details.png	0.26 MB	130 dpi
+page  92	p092_s10-game-details.png	0.27 MB	130 dpi
+page  93	p093_s10-game-details.png	0.27 MB	130 dpi
+page  94	p094_s10-game-details.png	0.01 MB	130 dpi
+
+total	10.23 MB	37 images

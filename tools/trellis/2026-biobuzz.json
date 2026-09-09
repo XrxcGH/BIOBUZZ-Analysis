@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-biobuzz",
+  "year": 2026,
+  "gameName": "BIOBUZZ",
+  "program": "ftc",
+
+  "_what": "A Trellis season file for FTC BIOBUZZ, written 2026-09-04 from the pre-season V0 manual, eight days before kickoff. It is a SKELETON. Sections 8 Game Overview, 9 ARENA, 10 Game Details, 11 Game Rules, 13 Tournament and 15 FIRST Championship of V0 are one-page placeholders, so almost everything a season file is for is genuinely unpublished. Every field below is either [C] confirmed in a final BIOBUZZ document, or empty with a note saying which manual section fills it. Nothing is carried over from DECODE and presented as a BIOBUZZ number.",
+
+  "_notLoadable": "DO NOT SHIP THIS AS A SEASON FILE. The program key above makes this MORE dangerous to ship, not less: it now beats the FRC file on an FTC install rather than losing a coin flip, so a stray copy in config/season/ is loaded rather than merely possible. It validates and it is not usable: phases are zero, scoringLocations is empty, rankingPoints is empty. Loaded as-is the simulator builds a one-second match and Cycle Economics prices nothing. That is the intended failure. A zero-length match is obviously broken on the first screen that renders it; a borrowed DECODE 30 and 120 would be plausibly broken, and nobody would find it until an event. Fill it in on 2026-09-12 with reference/SEASON-FILE-PROTOCOL.md, steps S1 to S9.",
+
+  "_firewall": "[M] Re-measured 2026-09-04 against Trellis after it changed, and the old rule no longer holds. The program key above is what fixes it. chooseSeason in src/lib/config/bundled.ts now scores each season file against the program in force before it looks at the year: claims this program scores 2, claims nothing scores 1, claims a different program is ineligible. So this file wins on an FTC install and is refused outright on an FRC one, and the year tie with config/season/2026-rebuilt.json never has to be broken. Measured both glob orders on 2026-09-04 against the real chooseSeason: with the program key, ftc gets 2026-biobuzz and frc gets 2026-rebuilt in either order. WITHOUT it, both programs got 2026-rebuilt, which is the old silent failure and the reason this key is not optional in practice. A separate FTC checkout is therefore no longer required, though it is still fine.",
+
+  "_evidence": "[C] confirmed in a final BIOBUZZ document. [C-web] confirmed on a web page with no copy in the local corpus and no FIRST primary source behind it, which is weaker than [C]; research/BIOBUZZ-PRESEASON.md section 6 already uses this label for the Pollen dimensions. [C-feed] a fact about the FTCScout data feed rather than about BIOBUZZ. [H] historical pattern across prior FTC seasons, never a BIOBUZZ number. [J] judgment. [M] measured here against a named source file on the date given. [U] unverified. A suffix narrows a label to the part of the claim it applies to: [U-meaning] the value is real and what it measures is not known, [U-manual] no BIOBUZZ manual section supports it. [V-tooling] verified against Trellis documentation rather than against a manual, borrowing Trellis's own [V] from docs/00-INDEX.md. The base labels are this workspace convention, README.md section 1. The suffixed forms are declared here because that list does not carry them.",
+
+  "phases": {
+    "auto": 0,
+    "teleop": 0,
+    "endgame": 0,
+    "_note": "[U] ALL THREE ARE UNKNOWN AND THE ZEROS SAY SO. Match timing lives in Competition Manual section 10.4, which is a one-page placeholder in V0 (p. 62). DECODE ran 30 seconds AUTO, an 8 second transition and 120 seconds TELEOP, and that is [H]: it is question 6 on the kickoff unknowns list in research/BIOBUZZ-V0-STRUCTURE.md and it is not a BIOBUZZ fact. Read section 10.4 on 2026-09-12 and write the two lengths here. The zeros are deliberate: src/lib/calibrate/index.ts already reads phases.auto of 0 as a season that is describing something other than a normal match, and the 2021 FRC file in this suite is the precedent for a zero AUTO. [M] Read on 2026-09-04, config/season/2021-infinite-recharge-at-home.json sets auto 0, teleop 60 and endgame 0, so it is a precedent for one zero rather than for three. Nothing shipped in this suite sets all three, which is a further reason this file must not be shipped.",
+    "_endgameNote": "[U] endgame is a Trellis window rather than a manual period, counted back from the end of TELEOP. It is zero here because BIOBUZZ may not have an endgame at all: the string ENDGAME appears zero times in V0. Do not author a nonzero endgame window until section 10 names a scoring action that only pays in the last N seconds.",
+    "_transitionNote": "[U] the transition key is deliberately absent, not zero. FTC has a gap between AUTO and TELEOP that FRC does not, DECODE 10.4 put it at 8 seconds and DECODE 15.2.2 at 15 at FIRST Championship, and both are [H]. It is left out here because for FTC the number arrives from the event profile rather than from this file: phaseMarks in src/types/index.ts takes options.transitionSeconds ahead of phases.transition, and config/program/ftc.json supplies it per event tier. Set it here only if section 10.4 gives a number the program file does not carry."
+  },
+
+  "gamePieces": [
+    "Pollen"
+  ],
+  "_gamePiecesNote": "[C] the SCORING ELEMENT is named Pollen, from FIRST's Game Preview of 2026-05-02. [C-web] its stated size, 2.8 in plus or minus 0.1 in and 0.055 lb, comes from the AndyMark product listing rather than from a FIRST primary source, so treat the dimensions as unverified until the kickoff manual confirms them. Either way it is not DECODE's roughly 5 in ball, which is the single most consequential intake fact known before kickoff. [U] whether BIOBUZZ has a second scoring element at all: section 8 is a placeholder. See research/BIOBUZZ-PRESEASON.md section 6.",
+
+  "scoringLocations": [],
+  "_scoringLocationsNote": "[U] EMPTY ON PURPOSE, AND THE EMPTINESS IS THE HONEST ANSWER. Every point value in BIOBUZZ lives in section 10 Game Details, which is one placeholder page in V0. reference/SCORING-PATTERNS.md carries 21 seasons of FTC point values and not one of them is a BIOBUZZ point value. Fill this from bundle/TABLES.md after the kickoff ingest, never from bundle/full_layout.txt, which mis-pairs labels with numbers. Protocol step S4.",
+
+  "rankingColumns": [
+    {
+      "sortOrder": 3,
+      "key": "tiebreaker_2",
+      "label": "Tiebreaker 2",
+      "_note": "[C-feed] [U-meaning] Position 3 of the FTCScout ranking feed, which is tb2. The position is a fact about the feed rather than about BIOBUZZ: FTCScout publishes exactly three sort orders, rp then tb1 then tb2, checked against the season 2025 and season 2019 payloads, see FTCSCOUT_SORT_ORDERS in src/lib/baseline/ftcscout.ts. What tb2 MEASURES is season data and is unknown: Table 13-1 is in section 13, a placeholder. In DECODE it was average BASE points [H]. On kickoff day, read Table 13-1 and rename key and label to what the third sort is, or delete this entry if the season publishes fewer than three sorts."
+    }
+  ],
+  "_rankingColumnsNote": "[C] FTC ranking columns arrive POSITIONALLY. The feed sends sortOrder1 through sortOrder3 with no header names, which is why config/program/ftc.json sets rankingColumns to ordinal and why SeasonColumn.sortOrder exists. Do not write a published header here: there is nothing to copy. POSITIONS 1 AND 2 ARE DELIBERATELY UNCLAIMED. Baseline reads position 1 as the Ranking Score and falls back to position 2 for Avg Match, in buildRankingRows and readAvgMatch in src/lib/baseline/baseline.ts, exactly as the FRC path treats the Ranking Score and Avg Match headers. Claiming them here would print the same two numbers twice, once as the table's own columns and once as season columns. Expect a warning on every event load saying the rankings carried columns no season column claims, naming Sort Order 1 and Sort Order 2. That warning is wrong and following it makes the file worse: measured against src/lib/baseline/columns.ts on 2026-09-04, discoverColumnsByOrdinal has no equivalent of the named resolver's STRUCTURAL_HEADERS set. Reported to the Trellis maintainer rather than worked around here. [U] whether BIOBUZZ ranks on three sorts at all: DECODE sorted on four plus random and FTCScout published three of them, so a fourth tiebreaker has no position in this feed.",
+
+  "rankingPoints": [],
+  "_rankingPointsNote": "[U] EMPTY ON PURPOSE. Ranking points, the RANKING SCORE definition and the Table 13-1 sort are section 13.6.3, a placeholder page. DECODE paid 3 for a win and 1 for a tie and set three RP thresholds that took different values at three event tiers [H]. When these are authored on kickoff day, note that thresholdsByTier on each entry is how the three tiers are written, keyed by the tier keys in config/program/ftc.json, which today are championship and regional_championship, and that unmatched keys are reported rather than silently dropped. Protocol step S5.",
+
+  "matchFields": [
+    {
+      "key": "cycle_count",
+      "label": "Cycles",
+      "kind": "counter",
+      "phase": "teleop",
+      "min": 0,
+      "max": 99,
+      "help": "One trip from picking Pollen up to scoring it.",
+      "_note": "[J] game-independent. Every FTC game since 2009 has had an acquire-and-score loop, and FIRST's BIOBUZZ preview names four robot tasks, all of them acquisition-side [C]. No points key: the value per cycle is unknown until section 10. max is a fat-thumb guard, not a match-length claim."
+    },
+    {
+      "key": "intake_misses",
+      "label": "Intake misses",
+      "kind": "counter",
+      "phase": "teleop",
+      "min": 0,
+      "max": 99,
+      "help": "Failed pickups. A miss on the way out does not count here.",
+      "_note": "[C] an intake exists: FIRST's preview names intake off the floor, intake several at once, intake off walls and out of corners, and intake autonomously. research/BIOBUZZ-PRESEASON.md section 6.1."
+    },
+    {
+      "key": "defense_seconds",
+      "label": "Time playing defense",
+      "kind": "timer",
+      "phase": "teleop",
+      "min": 0,
+      "max": 300,
+      "help": "Hold while they are actively blocking an opponent.",
+      "_note": "[U] max is a guard rather than the driver period, which is unknown. Set it equal to phases.teleop on kickoff day. [U] that defense is legal at all: section 11 holds every G-rule and is a placeholder. Defense has been legal in every prior FTC season [H], but a contact restriction would make this field collect nothing."
+    },
+    {
+      "key": "defended_against",
+      "label": "Was defended",
+      "kind": "toggle",
+      "phase": "teleop",
+      "help": "On if an opponent spent real time shutting this robot down."
+    },
+    {
+      "key": "breakdown",
+      "label": "Broke down",
+      "kind": "toggle",
+      "phase": "post",
+      "help": "On if they stopped or lost a mechanism during the match."
+    },
+    {
+      "key": "breakdown_cause",
+      "label": "Breakdown cause",
+      "kind": "text",
+      "phase": "post",
+      "help": "Say what broke and whether they kept playing. Leave blank when nothing broke."
+    },
+    {
+      "key": "defense_quality",
+      "label": "Defense quality",
+      "kind": "rating",
+      "phase": "post",
+      "min": 1,
+      "max": 5,
+      "help": "1 is ineffective, 5 stopped them cold. Skip if they played none."
+    },
+    {
+      "key": "driver_skill",
+      "label": "Driver skill",
+      "kind": "rating",
+      "phase": "post",
+      "min": 1,
+      "max": 5,
+      "help": "Control and awareness, not how fast the robot is."
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "kind": "text",
+      "phase": "post",
+      "help": "One line a strategist can act on."
+    }
+  ],
+  "_matchFieldsNote": "Nine fields, and every one of them is true whatever BIOBUZZ turns out to be. WHAT IS MISSING IS THE POINT. There is no auto field of any kind, because whether BIOBUZZ pays for leaving a starting zone, for a preload, or for anything else in AUTO is section 10 and unpublished, and a field named auto_leave would be a guess wearing a scout's label. There is no starting position choice, because its options are ARENA geometry from section 9. There is no endgame field, because the word ENDGAME does not appear in V0 even once, and climb_attempted presumes a climb. There are no scoring counters. Steps S6 and S7 of the protocol add all of these on kickoff day, from the scoring table rather than from this list.",
+
+  "pitFields": [
+    {
+      "key": "drivetrain",
+      "label": "Drivetrain",
+      "kind": "choice",
+      "phase": "post",
+      "options": [
+        "Mecanum",
+        "Tank",
+        "Omni",
+        "Swerve",
+        "Other"
+      ],
+      "help": "Ask what they run. Do not guess from the frame.",
+      "_note": "[H] the option list is FTC's drivetrain population rather than FRC's, mecanum first because it is what most FTC teams run. These strings are stored values in pit records, so settle them before the first event and do not rename them after."
+    },
+    {
+      "key": "programming_language",
+      "label": "Programming language",
+      "kind": "choice",
+      "phase": "post",
+      "options": [
+        "Blocks",
+        "OnBot Java",
+        "Android Studio Java",
+        "Kotlin",
+        "Other"
+      ],
+      "fullOnly": true,
+      "_note": "[U-manual] [V-tooling] the four FTC authoring paths, from docs/08-FTC.md section 2.4 in the Trellis repository, which sources them to FTC tooling rather than to a manual section. Deliberately NOT labeled [C]: no BIOBUZZ document read in this workspace lists them, and [C] means confirmed in a final BIOBUZZ document. It is a program fact rather than a season fact and it does not move in January. The FRC list, Java and C++ and LabVIEW and Python, is the wrong question to ask an FTC team."
+    },
+    {
+      "key": "vision_used",
+      "label": "Vision used",
+      "kind": "choice",
+      "phase": "post",
+      "options": [
+        "None",
+        "AprilTags",
+        "Scoring element detection",
+        "Both"
+      ],
+      "fullOnly": true,
+      "help": "What the camera is actually used for in a match.",
+      "_note": "[C] AprilTags are still live in BIOBUZZ: R202.C in the final section 12 still bans robot imagery that mimics 36h11 AprilTags, which is a rule about a tag family the game still uses. [U] where the tags are and what they are for is section 9. If section 9 turns out to publish no tags, cut this option rather than leaving a choice nobody can pick."
+    },
+    {
+      "key": "mechanism_count",
+      "label": "Mechanism count",
+      "kind": "counter",
+      "phase": "post",
+      "min": 0,
+      "max": 8,
+      "fullOnly": true,
+      "help": "Independent moving systems past the drivetrain.",
+      "_note": "[C] R503 caps a BIOBUZZ robot at 8 motors and 8 servos across every configuration used at an event, which bounds this number from above. Not at 8, and the arithmetic is worth doing rather than assuming: 8 plus 8 is 16 actuators, a mechanism can take several of them, and a passive one takes none. So max 8 is still a fat-thumb guard rather than a rule, and a robot reporting 9 is telling you something rather than mistyping."
+    },
+    {
+      "key": "spare_parts_depth",
+      "label": "Spare parts on hand",
+      "kind": "choice",
+      "phase": "post",
+      "options": [
+        "None",
+        "Some",
+        "Full spare set"
+      ],
+      "fullOnly": true,
+      "help": "Predicts how fast they come back from a broken mechanism."
+    },
+    {
+      "key": "known_weaknesses",
+      "label": "Known weaknesses",
+      "kind": "text",
+      "phase": "post",
+      "help": "Ask this last, after the photographs. Teams answer it honestly."
+    }
+  ],
+  "_pitFieldsNote": "Six of the nine standard pit fields. THREE ARE DELIBERATELY ABSENT AND EACH FOR A DIFFERENT REASON. weight_lb is gone for good and not until kickoff: R104 states there is no weight limit for a BIOBUZZ robot [C], config/program/ftc.json carries weightLimited false for exactly this, and asking a team a question the rules give no answer to wastes the one minute a pit interview has. scoring_locations is absent because its options are this season's nouns off the section 10 scoring table, and a pit form that offers a scout a word nobody at the event uses is worse than one field short. climb_levels is absent because nothing says BIOBUZZ has a climb. Steps S8 adds the last two. Note the express subset: with scoring_locations and climb_levels missing, a team running pitSchema express currently collects only drivetrain and known_weaknesses, which is thin, and authoring scoring_locations on kickoff day restores it.",
+
+  "field": {
+    "lengthM": 3.658,
+    "widthM": 3.658,
+    "_source": "[H] 144 in by 144 in, 3.658 m square, measured to the inside face of the perimeter wall. That envelope has held for 17 consecutive FTC seasons, 2009-10 through 2025-26, per reference/FIELD-AND-ARENA.md section 1. It is NOT a BIOBUZZ measurement: section 9 ARENA is a placeholder page. The [C] anchor under it is narrow and worth stating exactly: V0's glossary still defines the field in terms of a 36-TILE floor, and 36 tiles of 24 in in a 6 by 6 grid is 144 in. Read section 9.2 on 2026-09-12 and either confirm these two numbers or replace them.",
+    "_whyNotOmitted": "[M] This block is optional in the schema and omitting it is the wrong kind of honest. Measured against src/lib/sim/engine.ts on 2026-09-04: buildField falls back to DEFAULT_LENGTH_M of 16.46 and DEFAULT_WIDTH_M of 8.23 when season.field is absent, which is the FRC carpet. A missing field block does not produce a blank simulator, it produces a confident FRC-sized one, and the 3 m floors in config/program/ftc.json cannot save it because 16.46 is above them. An [H] number carrying this note is loud. An omission is silent and wrong.",
+    "_note": "[U] no zones, structures or lines. Those are section 9 and there is nothing to write. The schema accepts arbitrary measurement names on a feature and keeps them, so on kickoff day write what the drawings say rather than what the schema seems to ask for."
+  }
+}

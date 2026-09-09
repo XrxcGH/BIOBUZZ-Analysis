@@ -1,0 +1,17 @@
+G402  No AUTO opponent interference.
+G408  No more than 3 at a time.
+G414  ROBOTS have horizontal expansion limits.
+G415  ROBOTS have vertical expansion limits, with exceptions.
+G416  LAUNCHING in the LAUNCH ZONE only.
+G417  ROBOTS only operate GATES as directed.
+G418  ROBOTS may not meddle with ARTIFACTS on RAMPS.
+G419  ROBOTS LAUNCH into their own GOAL.
+G424  GATE ZONE is OFF LIMITS.
+G425  Keep out of opponent’s SECRET TUNNEL
+G426  LOADING ZONE protection.
+G427  BASE ZONE protection.
+G432  Humans, only meddle with ARTIFACTS in the LOADING ZONE.
+G433  Humans may only enter SCORING ELEMENTS.
+G434  The ALLIANCE AREA has a storage limit.
+R105  There are expansion limits.
+C501  da Vinci round-robin DISQUALIFICATIONS are handled differently
