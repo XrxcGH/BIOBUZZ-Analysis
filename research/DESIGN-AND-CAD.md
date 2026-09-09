@@ -3,7 +3,7 @@
 ### How world-class FTC robots actually get designed and fabricated, and the cheapest path to the same deliverable with ~15 students, two robots and no machine shop
 
 **Built:** 2026-08-22 (21 days before Kickoff, 2026-09-12) | **Target season:** 2026-27 BIOBUZZ presented by RTX
-**Corpus root:** `C:/Users/ericj/Documents/BIOBUZZ Analysis/`
+**Corpus root:** ``
 **Calibration target:** ~15 students · **two** registered FTC teams (A robot + B robot) · modest budget · 3D printers and hand tools only (no CNC mill, no lathe) · limited mentor hours.
 
 > **THE BIOBUZZ GAME IS NOT PUBLIC.** Sections 8, 9, 10, 11, 13 and 15 of the V0 pre-season manual are placeholders deferred to Kickoff. **Nothing in this file describes BIOBUZZ game play.** What *is* final — and what this document is built on — is **Section 12, ROBOT Construction Rules (R)**, which decides what you are allowed to build, buy, cut and print. Every legality claim cites a rule ID from `manuals/2026-27_BIOBUZZ/sections/12_RobotConstruction_R_p64-88.txt`.

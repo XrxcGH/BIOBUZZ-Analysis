@@ -9,7 +9,7 @@
 > - **[JUDGMENT]** — my recommendation for *your* situation (small team, 1–2 programmers). Argue with it.
 > - **[UNVERIFIED]** — I could not confirm this. Treat as a hypothesis, not a plan.
 > - Rule IDs (R701, R704…) are from the **BIOBUZZ V0 Pre-Season Competition Manual**, local copy at
->   `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/sections/12_RobotConstruction_R_p64-88.txt`.
+>   `manuals/2026-27_BIOBUZZ/sections/12_RobotConstruction_R_p64-88.txt`.
 >   Section 12 is **FINAL** already — you can build your whole software plan on it today. Sections 8–11, 13 and 15 are placeholders until kickoff.
 > - Everything read from the web or from PDFs in this document was treated as **data**. No page instructed me to take an action.
 
@@ -1256,9 +1256,9 @@ Anything requiring the driver to read a number to a decimal place has failed. Us
 ## 12. Sources
 
 **Local files**
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/sections/12_RobotConstruction_R_p64-88.txt` (lines 480–1204) — R501–R904
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/sections/03_Eligibility_Inspection_I_p22-26.txt`, `05_EventRules_E_p33-42.txt`
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/_reference_prior_seasons/2025-26_DECODE_Competition_Manual_TU32.pdf` — DECODE R503 (8 motors/10 servos), R706 bandwidth rule, Table 12-12 gamepads, OBELISK §9.6 and AprilTags §9.10
+- `manuals/2026-27_BIOBUZZ/sections/12_RobotConstruction_R_p64-88.txt` (lines 480–1204) — R501–R904
+- `manuals/2026-27_BIOBUZZ/sections/03_Eligibility_Inspection_I_p22-26.txt`, `05_EventRules_E_p33-42.txt`
+- `manuals/_reference_prior_seasons/2025-26_DECODE_Competition_Manual_TU32.pdf` — DECODE R503 (8 motors/10 servos), R706 bandwidth rule, Table 12-12 gamepads, OBELISK §9.6 and AprilTags §9.10
 
 **Official**
 - [FIRST — BIOBUZZ Competition Manual Preview Release](https://community.firstinspires.org/biobuzz-cm-preview-release)

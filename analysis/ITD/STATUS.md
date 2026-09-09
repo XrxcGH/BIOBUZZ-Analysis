@@ -1,7 +1,7 @@
 # KICKOFF INGEST STATUS
 
 **Run:** 2026-08-23 20:32
-**Manual:** `/c/Users/ericj/Downloads/Competition Manual - V14.pdf`
+**Manual:** `Competition Manual - V14.pdf`
 **Pages:** 146  ·  **Rules:** 209  ·  **G-rules:** 53  ·  **Game-specific (orange):** 16
 
 ## Gates

@@ -3,7 +3,7 @@
 **Purpose.** The analytical backbone for the BIOBUZZ (2026-27) kickoff strategy review. Every number below was
 pulled from the actual manual text in this corpus. Use Part C on kickoff day.
 
-**Built:** 2026-08-21 | **Extended to the full 21-season corpus 2026-08-22 (Part D)** | **Corpus root:** `C:/Users/ericj/Documents/BIOBUZZ Analysis/`
+**Built:** 2026-08-21 | **Extended to the full 21-season corpus 2026-08-22 (Part D)** | **Corpus root:** ``
 
 **Layout.** **Part A** = season-by-season architecture, 2015-16 → 2025-26. **Part B** = the synthesis.
 **Part C** = the kickoff-day question list. **Part D** = the pre-2015 era (2005-06 → 2014-15), which corrects

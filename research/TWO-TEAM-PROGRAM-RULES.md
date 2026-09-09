@@ -22,9 +22,9 @@ the part of the season you can lock down *now*.
 
 **Primary sources**
 
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf` (93 pp)
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/sections/03_Eligibility_Inspection_I_p22-26.txt`, `04_Advancement_p27-32.txt`, `05_EventRules_E_p33-42.txt`, `06_Awards_A_p43-58.txt`, `12_RobotConstruction_R_p64-88.txt`
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/_reference_prior_seasons/2025-26_DECODE_Competition_Manual_TU32.pdf` (DRIVE TEAM definition only)
+- `manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf` (93 pp)
+- `manuals/2026-27_BIOBUZZ/sections/03_Eligibility_Inspection_I_p22-26.txt`, `04_Advancement_p27-32.txt`, `05_EventRules_E_p33-42.txt`, `06_Awards_A_p43-58.txt`, `12_RobotConstruction_R_p64-88.txt`
+- `manuals/_reference_prior_seasons/2025-26_DECODE_Competition_Manual_TU32.pdf` (DRIVE TEAM definition only)
 - FIRST Tech Challenge **Judging Process Guide**, Rev. 25-26.3 — <https://ftc-resources.firstinspires.org/ftc/archive/2026/event/judging-guide>
 - FIRST **Guidelines for Sibling Teams**, Rev. June 2026 (FRC-scoped) — <https://info.firstinspires.org/hubfs/web/program/frc/reg/sibling-teams-guidelines.pdf>
 

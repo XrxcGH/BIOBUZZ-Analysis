@@ -77,7 +77,7 @@ Read every file in these directories dated between <start> and <end>:
 Draft ONE portfolio page (about 450-550 words plus 2 figure placeholders) that
 covers this period, targeting the <Think / Design / Control / Innovate / Connect
 / Motivate / Sustain> Award criteria. Read the criteria in
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/AWARD-CATALOG-BIOBUZZ.md
+  reference/AWARD-CATALOG-BIOBUZZ.md
 first and tell me which specific criterion each paragraph is serving.
 
 Hard rules:
@@ -107,9 +107,9 @@ page, so we can prepare answers.
 Audit our portfolio draft at <path> against the award criteria.
 
 Read:
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/AWARD-CATALOG-BIOBUZZ.md
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/AWARD-ALIGNMENT-MATRIX.md
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/research/SCOUTING-AND-AWARDS.md section 7
+  reference/AWARD-CATALOG-BIOBUZZ.md
+  reference/AWARD-ALIGNMENT-MATRIX.md
+  research/SCOUTING-AND-AWARDS.md section 7
 
 Produce ONE ROW PER CRITERION for these awards: <the 2-3 we are targeting, plus
 Inspire>. Columns:

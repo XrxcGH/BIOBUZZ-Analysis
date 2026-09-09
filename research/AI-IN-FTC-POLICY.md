@@ -464,7 +464,7 @@ Copy, fill in the team number, adopt at a team meeting, and date it.
 
 **Local (authoritative, held on disk)**
 
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/BIOBUZZ_V0_layout.txt` — BIOBUZZ Pre-Season V0 Competition Manual, extracted layout text. Key lines verified this session: **1789-1791** (A201 AI clause), **436-557** (§1.5 CIC in full), **340-366** (§1.4.2 Framework of Behaviors), **367-395** (§1.4.3 Role of Mentors), **663** (FTC AI Chatbot), **683-712** (§1.7.4 Q&A), **1628-1650** (§6.1.1 sources judges may consider), **1812-1890** (A203-A210), **1990-2000** (Think criteria), **2138-2192** (Control & Design criteria), **1363-1373** (E301), **3286-3312** (R704.A-E), **3238-3283** (R702 + Table 12-9).
+- `manuals/2026-27_BIOBUZZ/BIOBUZZ_V0_layout.txt` — BIOBUZZ Pre-Season V0 Competition Manual, extracted layout text. Key lines verified this session: **1789-1791** (A201 AI clause), **436-557** (§1.5 CIC in full), **340-366** (§1.4.2 Framework of Behaviors), **367-395** (§1.4.3 Role of Mentors), **663** (FTC AI Chatbot), **683-712** (§1.7.4 Q&A), **1628-1650** (§6.1.1 sources judges may consider), **1812-1890** (A203-A210), **1990-2000** (Think criteria), **2138-2192** (Control & Design criteria), **1363-1373** (E301), **3286-3312** (R704.A-E), **3238-3283** (R702 + Table 12-9).
 - `.../manuals/_reference_prior_seasons/` — DECODE (2025-26) A201 and INTO THE DEEP (2024-25) A101 AI clauses.
 - `.../manuals/archive/2023-24_CENTERSTAGE_GameManual_Part1_Traditional.txt` — §9.2.5.1, the original standalone AI section.
 

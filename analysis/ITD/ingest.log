@@ -4,7 +4,7 @@
    ### BIOBUZZ_Competition_Manual_ITD: 146pp rules=209 evergreen=193 game-specific=16 unpaired=0 orange-box lines=1015 penalty lines=120
       sections: 16 {"Section 1 Introduction": "V2", "Section 2 FIRST Season Overview": "V2", "Section 3 Competition Eligibility and Inspection (I)": "V2", "Section 4 Advancement": "V2", "Section 5 Event Rules (E)": "V2", "Section 6 Awards (A)": "V6"
       GAME-SPECIFIC (orange) ids -- read every one of these first: G404 G410 G411 G412 G417 G418 G419 G420 G425 G426 G427 G431 G432 G433 G434 R104
-      wrote C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_ITD/rules_new.tsv
+      wrote manuals/2026-27_BIOBUZZ/ingest_ITD/rules_new.tsv
    V0=109  NEW=209
    ADDED=118  REMOVED=18
    --- G-rules (the new game rules) ---
@@ -63,7 +63,7 @@
 == 8. Loophole tripwires ==
    tripwire hits: 312
 == 9. Tables by geometry (the scoring table is NOT readable in the flat text) ==
-   == BIOBUZZ_Competition_Manual_ITD: 66 tables from 146 page(s) -> C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_ITD/tables
+   == BIOBUZZ_Competition_Manual_ITD: 66 tables from 146 page(s) -> manuals/2026-27_BIOBUZZ/ingest_ITD/tables
         TABLES.md / tables.tsv / INDEX.txt
    --- tables that carry numbers you will build a strategy on ---
    18:  66      1   13 x 9           Table 10-3: INTO THE DEEP point values
@@ -73,7 +73,7 @@
 == 10. Full rule bodies + orange boxes (loophole-hunting input) ==
    == BIOBUZZ_Competition_Manual_ITD: 209 rules (0 unpaired), 149 orange boxes
       short rules (< 8 words), check for extraction loss: E503 E505 E506 G417 R302
-   == wrote C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_ITD/rulebodies
+   == wrote manuals/2026-27_BIOBUZZ/ingest_ITD/rulebodies
         rules_full.md  (267.6 KB)
         rules_full.tsv  (196.9 KB)
         VIOLATIONS.tsv  (8.3 KB)
@@ -82,14 +82,14 @@
 == 11. Rendering the pages text cannot carry (ARENA figures + scoring table) ==
    == rendering 28 page(s) from BIOBUZZ_Competition_Manual_ITD.pdf (146pp) at 130 dpi
    == section map from the PDF outline:
-   == 28 image(s), 8.2 MB total -> C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_ITD/figures
-   == manifest: C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_ITD/figures\MANIFEST.txt
+   == 28 image(s), 8.2 MB total -> manuals/2026-27_BIOBUZZ/ingest_ITD/figures
+   == manifest: manuals/2026-27_BIOBUZZ/ingest_ITD/figures\MANIFEST.txt
 == 12. HTML edition (the second, independent pipeline) ==
    (no HTML edition found - fetch .../game/cm-html, or pass HTML=<file>. Optional,
     but it is the cleanest source for the scoring table and the orange-box split.)
 
 ==========================================================
- INGEST COMPLETE -> /c/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_ITD
+ INGEST COMPLETE -> manuals/2026-27_BIOBUZZ/ingest_ITD
 ==========================================================
  Key files to hand to Claude:
    html/tables_html.md     ** THE SCORING TABLE, cleanest source ** (if the HTML was found)

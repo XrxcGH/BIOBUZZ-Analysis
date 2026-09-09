@@ -3,7 +3,7 @@
 ### The buyer's map of the FTC parts world — profiles, the interoperability map, the ecosystem-commitment decision, procurement reality, and a pre-kickoff standing order for a two-robot program
 
 **Built:** 2026-08-21 (pre-kickoff) | **Target season:** 2026-27 BIOBUZZ presented by RTX | **Kickoff:** 2026-09-12
-**Corpus root:** `C:/Users/ericj/Documents/BIOBUZZ Analysis/`
+**Corpus root:** ``
 **Calibration target:** ~15 students, TWO registered FTC teams (A team + B team), **two robots**, modest budget, 3D printers and hand tools only (no CNC mill), limited mentor hours.
 
 > **THE BIOBUZZ GAME IS NOT PUBLIC.** Nothing here describes BIOBUZZ game play. Sections 8, 9, 10, 11, 13 and 15

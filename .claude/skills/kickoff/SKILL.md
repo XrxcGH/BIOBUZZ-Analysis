@@ -9,7 +9,7 @@ The user has one job: get the manual to this machine. **Everything else is yours
 permission between phases. Do not ask which phase to run. Run the whole chain and report at the end.
 Only stop early if a hard gate fails (§2) — in that case say exactly what broke and what to check.
 
-Workspace root: `C:\Users\ericj\Documents\BIOBUZZ Analysis`
+Workspace root: `.`
 
 ---
 

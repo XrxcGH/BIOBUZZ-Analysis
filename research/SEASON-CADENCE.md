@@ -49,7 +49,7 @@ Written 2026-08-21, revised 2026-08-22. **Second pass:** §1.7 region/advancemen
 
 ### 1.1 Official season dates
 
-**[FACT]** Source: `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/archive/supplemental/2026-27_BIOBUZZ_ImportantSeasonDates.pdf` (document version V26-27.1, dated June 24, 2026), cross-checked against <https://community.firstinspires.org/key-upcoming-biobuzz-season-dates> and the V0 Competition Manual.
+**[FACT]** Source: `manuals/archive/supplemental/2026-27_BIOBUZZ_ImportantSeasonDates.pdf` (document version V26-27.1, dated June 24, 2026), cross-checked against <https://community.firstinspires.org/key-upcoming-biobuzz-season-dates> and the V0 Competition Manual.
 
 | Date | Day | Event | Why it matters to you |
 |---|---|---|---|

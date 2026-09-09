@@ -19,7 +19,7 @@ cannot install anything when you need this most.
 ## 1. Quick start (60 seconds, no signup)
 
 ```bash
-cd "C:/Users/ericj/Documents/BIOBUZZ Analysis/tools/ai/scouting"
+cd "tools/ai/scouting"
 
 # Does anything work at all?
 python fetch_events.py check

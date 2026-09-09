@@ -52,7 +52,7 @@ ordered_status,po_ref,notes
 
 ```text
 You are working inside the FTC 2026-27 BIOBUZZ review workspace at
-ROOT = "C:/Users/ericj/Documents/BIOBUZZ Analysis".
+ROOT = ".".
 
 CONTEXT YOU MUST LOAD FIRST (read these files before answering):
   ROOT/reference/BOM-PROTOCOL.md            <- the procedure; you are executing Step B1
@@ -114,7 +114,7 @@ OUTPUT: the mechanism table, then the 8+8 worksheet, then a short "cut candidate
 
 ```text
 You are working inside the FTC 2026-27 BIOBUZZ review workspace at
-ROOT = "C:/Users/ericj/Documents/BIOBUZZ Analysis".
+ROOT = ".".
 
 CONTEXT YOU MUST LOAD FIRST (read all of these before answering):
   ROOT/reference/BOM-PROTOCOL.md            <- the procedure; you are executing Steps B2-B5
@@ -212,7 +212,7 @@ OUTPUT, in this order:
 
 ```text
 You are working inside the FTC 2026-27 BIOBUZZ review workspace at
-ROOT = "C:/Users/ericj/Documents/BIOBUZZ Analysis".
+ROOT = ".".
 
 CONTEXT YOU MUST LOAD FIRST:
   ROOT/manuals/2026-27_BIOBUZZ/sections/12_RobotConstruction_R_p64-88.txt  <- THE SOURCE OF TRUTH.
@@ -327,7 +327,7 @@ name a part you have not verified, name the family and mark it NEEDS-SKU-CHECK. 
 
 ```text
 You are working inside the FTC 2026-27 BIOBUZZ review workspace at
-ROOT = "C:/Users/ericj/Documents/BIOBUZZ Analysis".
+ROOT = ".".
 
 CONTEXT YOU MUST LOAD FIRST:
   ROOT/reference/VENDOR-ECOSYSTEMS.md       <- vendor profiles, the INTEROPERABILITY MAP (§3),
@@ -407,7 +407,7 @@ then any R503 motor/servo slots freed.
 
 ```text
 You are working inside the FTC 2026-27 BIOBUZZ review workspace at
-ROOT = "C:/Users/ericj/Documents/BIOBUZZ Analysis".
+ROOT = ".".
 
 CONTEXT YOU MUST LOAD FIRST:
   ROOT/playbook/TWO-ROBOT-PROGRAM.md        <- §5.2 the AUTHORITATIVE shared-vs-duplicated split,
@@ -488,7 +488,7 @@ and corrected cost delta for two robots, then a one-line verdict: SAFE TO ORDER 
 
 ```text
 You are working inside the FTC 2026-27 BIOBUZZ review workspace at
-ROOT = "C:/Users/ericj/Documents/BIOBUZZ Analysis".
+ROOT = ".".
 
 CONTEXT YOU MUST LOAD FIRST:
   ROOT/reference/BOM-PROTOCOL.md            <- §B6, which this prompt executes, and §0.2 the tags

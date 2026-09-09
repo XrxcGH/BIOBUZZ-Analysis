@@ -12,7 +12,7 @@
 | **[SPECULATION]** | Reasoned inference. Treat as a hypothesis to test against the real manual |
 | **UNVERIFIED** | Could not be confirmed from the corpus |
 
-**Primary sources** (all paths relative to `C:/Users/ericj/Documents/BIOBUZZ Analysis/`):
+**Primary sources** (all paths relative to ``):
 
 - `manuals/2026-27_BIOBUZZ/BIOBUZZ_V0_layout.txt` + `manuals/2026-27_BIOBUZZ/sections/*.txt` — BIOBUZZ V0
 - `manuals/_reference_prior_seasons/2025-26_DECODE_Section11_text.txt` — DECODE Section 11 V15

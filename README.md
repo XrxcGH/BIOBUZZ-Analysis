@@ -261,4 +261,4 @@ kickoff until two weeks before Championship — additions highlighted yellow, de
 
 ---
 
-*Root: `C:/Users/ericj/Documents/BIOBUZZ Analysis/`. BIOBUZZ™, *FIRST*® and *FIRST*® Tech Challenge are trademarks of FIRST. This workspace is an unofficial team resource; the Competition Manual, Team Updates, and the referees and inspectors at your event are always the authority.*
+*Root: ``. BIOBUZZ™, *FIRST*® and *FIRST*® Tech Challenge are trademarks of FIRST. This workspace is an unofficial team resource; the Competition Manual, Team Updates, and the referees and inspectors at your event are always the authority.*

@@ -3,7 +3,7 @@
 ### A game-agnostic catalogue of recurring FTC robot and scoring-strategy archetypes, profiled for a two-team, ~15-student, modest-budget program
 
 **Built:** 2026-08-21 (pre-kickoff) | **Target season:** 2026-27 BIOBUZZ presented by RTX | **Kickoff:** 2026-09-12
-**Corpus root:** `C:/Users/ericj/Documents/BIOBUZZ Analysis/`
+**Corpus root:** ``
 
 > **THE BIOBUZZ GAME IS NOT PUBLIC.** Nothing in this file describes BIOBUZZ game play. Sections 8, 9, 10, 11,
 > 13 and 15 of the BIOBUZZ V0 pre-season manual are placeholders deferred to Kickoff. What *is* final for

@@ -54,7 +54,7 @@ Paste this first in any fresh session, then paste one step prompt after it.
 
 ```text
 You are working inside the FTC 2026-27 BIOBUZZ review workspace at
-ROOT = "C:/Users/ericj/Documents/BIOBUZZ Analysis".
+ROOT = ".".
 
 READ THESE BEFORE ANSWERING:
   ROOT/README.md                          <- the map of this workspace

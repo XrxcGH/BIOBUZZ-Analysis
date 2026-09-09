@@ -54,9 +54,9 @@ The concept, in plain language:
 
 Read these local files for the actual rule text — do NOT rely on your memory of
 prior FTC seasons, the rules were renumbered for BIOBUZZ:
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/CONSTRUCTION-RULES-R.md
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/LEGAL-PARTS-CONSTRAINTS.md
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/BIOBUZZ_V0_layout.txt
+  reference/CONSTRUCTION-RULES-R.md
+  reference/LEGAL-PARTS-CONSTRAINTS.md
+  manuals/2026-27_BIOBUZZ/BIOBUZZ_V0_layout.txt
 
 Give me a table: rule id | what it says | how my concept interacts | verdict
 (LEGAL / ILLEGAL / DEPENDS / DEFERRED-UNTIL-KICKOFF) | what I would have to
@@ -394,8 +394,8 @@ if you can see one.
 Run a full design review of our robot against the BIOBUZZ inspection criteria.
 
 Read:
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/CONSTRUCTION-RULES-R.md
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/tools/ai/inspection-checklist.template.md
+  reference/CONSTRUCTION-RULES-R.md
+  tools/ai/inspection-checklist.template.md
 
 Our robot: <describe every mechanism, every actuator, wiring approach, signs,
 operator console>

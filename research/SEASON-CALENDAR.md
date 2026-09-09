@@ -22,8 +22,8 @@
 
 | Key | Source | Note |
 |---|---|---|
-| `[DATES]` | `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/archive/supplemental/2026-27_BIOBUZZ_ImportantSeasonDates.pdf` | Rev **V26-27.1, June 24, 2026**. Verified identical to live `https://ftc-resources.firstinspires.org/ftc/archive/2027/event/season-dates`. |
-| `[V0]` | `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf` | Pre-season V0. Verified identical to live `…/archive/2027/game/manual` (MD5 `6044b5b0…b005`). Sections 8-11, 13 and 15 are Kickoff placeholders (§14 League Play is NOT). |
+| `[DATES]` | `manuals/archive/supplemental/2026-27_BIOBUZZ_ImportantSeasonDates.pdf` | Rev **V26-27.1, June 24, 2026**. Verified identical to live `https://ftc-resources.firstinspires.org/ftc/archive/2027/event/season-dates`. |
+| `[V0]` | `manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf` | Pre-season V0. Verified identical to live `…/archive/2027/game/manual` (MD5 `6044b5b0…b005`). Sections 8-11, 13 and 15 are Kickoff placeholders (§14 League Play is NOT). |
 | `[WEB]` | firstinspires.org program / resource pages | Cited inline. |
 | `[COMM]` | community.firstinspires.org — official FIRST blog | Primary, but marketing-voice; its dates drift vs `[DATES]` (see §7). |
 

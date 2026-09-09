@@ -229,7 +229,7 @@ Scraped directly from the live DECODE 2026 game page, where all 16 are published
 
 ### 9.1 The 15 minutes that matter
 
-The runner already exists and is hardened: **`C:/Users/ericj/Documents/BIOBUZZ Analysis/tools/kickoff-fetch.sh`**. It reports rather than silently skips 404s, page-counts every PDF (so the 93-page / 1.7 MB V0 placeholder cannot be mistaken for the real manual), writes a `MANIFEST.txt`, and supports `--retry` and `--tier N`.
+The runner already exists and is hardened: **`tools/kickoff-fetch.sh`**. It reports rather than silently skips 404s, page-counts every PDF (so the 93-page / 1.7 MB V0 placeholder cannot be mistaken for the real manual), writes a `MANIFEST.txt`, and supports `--retry` and `--tier N`.
 
 ```bash
 bash tools/kickoff-fetch.sh --tier 0     # manual + TU00 first

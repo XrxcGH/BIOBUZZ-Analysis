@@ -546,7 +546,7 @@ WHEN YOU SLIP:   Cut scope, hold the date. Write on the board what you CUT — n
 
 ### 9.1 Local files this document integrates
 
-All in `C:/Users/ericj/Documents/BIOBUZZ Analysis/`:
+All in ``:
 
 `research/SEASON-CADENCE.md` · `research/SEASON-CALENDAR.md` · `research/SMALL-TEAM-ECONOMICS.md` · `research/ELITE-TEAM-PRACTICES.md` · `research/DESIGN-AND-CAD.md` · `research/PROGRAMMING-PRACTICE.md` · `research/TESTING-AND-TUNING.md` · `research/SCOUTING-AND-AWARDS.md` · `research/AI-IN-FTC-POLICY.md` · `research/BIOBUZZ-PRESEASON.md` · `research/BIOBUZZ-V0-STRUCTURE.md` · `playbook/AI-FOR-PROGRAMMING.md` · `playbook/AI-FOR-DESIGN-AND-ANALYSIS.md` · `playbook/AI-TOOLKIT-SETUP.md` · `playbook/BUILD-AND-FABRICATION.md` · `reference/ANALYSIS-PROTOCOL.md` · `reference/CONSTRUCTION-RULES-R.md` · `reference/AWARD-CATALOG-BIOBUZZ.md` · `reference/TOURNAMENT-AND-RANKING.md` · `reference/ROBOT-ARCHETYPE-LIBRARY.md` · `reference/ARCHETYPE-BOMS.md`
 

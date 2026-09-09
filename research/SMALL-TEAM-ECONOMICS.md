@@ -93,7 +93,7 @@ Sources: [NJ FTC](https://www.newjerseyftc.com/event-registration-and-acceptance
 ### 1.2 The control system — and whether the cheap path is still legal
 
 **[FACT — LOCAL SOURCE]** The BIOBUZZ **V0 Competition Manual Section 12 (ROBOT Construction Rules) is FINAL already** — it will not change at kickoff. R-rules read directly from
-`C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/sections/12_RobotConstruction_R_p64-88.txt`
+`manuals/2026-27_BIOBUZZ/sections/12_RobotConstruction_R_p64-88.txt`
 
 **R701 — ROBOT CONTROLLER.** Must be:
 > A. a REV Control Hub (REV-31-1595), **or**

@@ -1,7 +1,7 @@
 # KICKOFF INGEST STATUS
 
 **Run:** 2026-08-23 20:27
-**Manual:** `/c/Users/ericj/Downloads/DECODE_Competition_Manual_TU32.pdf`
+**Manual:** `DECODE_Competition_Manual_TU32.pdf`
 **Pages:** 188  ·  **Rules:** 214  ·  **G-rules:** 53  ·  **Game-specific (orange):** 17
 
 ## Gates

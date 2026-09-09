@@ -457,7 +457,7 @@ meaningful figure. One Part 1 rule, `C10`, extracted with **no body** and was fl
 
 ### Files produced
 
-- `C:\Users\ericj\AppData\Local\Temp\claude\C--Users-ericj-Documents-BIOBUZZ-Analysis\6e879332-30f3-403e-b22c-6efe296bc52c\scratchpad\ff_p2.tsv` (+ `.json`) — 23 Part 2 rules
+- `...\scratchpad\ff_p2.tsv` (+ `.json`) — 23 Part 2 rules
 - `...\scratchpad\ff_p1.tsv` (+ `.json`) — 90 Part 1 rules
 - `...\scratchpad\ff_tables\TABLES.md` / `tables.tsv` / `INDEX.txt` — 10 geometry-recovered tables
 - `...\scratchpad\ff_fig\p008_page.png` (field top view), `p042_page.png` (Appendix D randomization)

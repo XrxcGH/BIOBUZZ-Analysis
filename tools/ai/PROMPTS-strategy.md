@@ -80,7 +80,7 @@ Read it. Then extract, with a page citation for EVERY line:
    and more details will be released at Kickoff", V0 p. 68). Quote whatever it
    now says, exactly.
 7. ANY OTHER PLACEHOLDER NOW FILLED — diff against
-   C:/Users/ericj/Documents/BIOBUZZ Analysis/research/BIOBUZZ-V0-STRUCTURE.md
+   research/BIOBUZZ-V0-STRUCTURE.md
    and list every section that changed from placeholder to real content.
 
 Rules for you:
@@ -168,8 +168,8 @@ been handed our plan. Your job is to beat us. Be specific and be harsh.
 Our plan: <paste it>
 Our robot's intended capabilities: <list>
 The rules: read
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/CONSTRUCTION-RULES-R.md
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/PENALTY-AND-ENFORCEMENT.md
+  reference/CONSTRUCTION-RULES-R.md
+  reference/PENALTY-AND-ENFORCEMENT.md
   and the current BIOBUZZ manual text.
 
 Produce:
@@ -200,7 +200,7 @@ Integrity Contract (CIC) and may be subject to mitigation."
 
 ```
 Read the current BIOBUZZ manual text and
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/research/LOOPHOLE-CASEBOOK.md
+  research/LOOPHOLE-CASEBOOK.md
 (which catalogues how prior-season rule edges were actually ruled on).
 
 Find provisions in the CURRENT rules that permit something most teams will
@@ -224,7 +224,7 @@ Write questions that are answerable YES or NO and quote the rule id.
 
 ```
 Score this strategy for ACHIEVABILITY by OUR team, using the rubric in
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/ACHIEVABILITY-RUBRIC.md
+  reference/ACHIEVABILITY-RUBRIC.md
 Read that file and use its actual dimensions and scale — do not invent your own.
 
 Our real capacity (be brutal with me if these are inconsistent):
@@ -333,7 +333,7 @@ Mark clearly anything you inferred rather than got from the data I gave you.
 
 ```
 Audit this plan for penalty risk. Read
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/PENALTY-AND-ENFORCEMENT.md
+  reference/PENALTY-AND-ENFORCEMENT.md
 and the current BIOBUZZ game rules (Section 11) for the actual foul text.
 
 Our plan: <paste>
@@ -365,7 +365,7 @@ Sections 8-11 were placeholders in V0 and are only final after Kickoff.
 Use our scouting tooling to answer this with data, not opinion.
 
 1. Run:
-   python "C:/Users/ericj/Documents/BIOBUZZ Analysis/tools/ai/scouting/fetch_events.py" \
+   python "tools/ai/scouting/fetch_events.py" \
        events --source scout --season 2026 -o events.csv
    then pull matches, rankings and awards for these events: <list of event codes
    in our region and 2-3 strong regions elsewhere>

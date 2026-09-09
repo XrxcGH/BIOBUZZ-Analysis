@@ -1,7 +1,7 @@
 # FTC Loophole Casebook
 
 **Purpose:** raw material for a kickoff-day loophole-hunting playbook against the BIOBUZZ Kickoff Competition Manual (2026-09-12).
-**Compiled:** 2026-08-22 · **Corpus:** local primary sources under `C:/Users/ericj/Documents/BIOBUZZ Analysis/`
+**Compiled:** 2026-08-22 · **Corpus:** local primary sources under ``
 
 ---
 

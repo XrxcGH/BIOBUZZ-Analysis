@@ -5,7 +5,7 @@ This file (a) locks down what BIOBUZZ V0 already defines, (b) shows which glossa
 vacated — that is exactly where BIOBUZZ's new game nouns will land — and (c) gives a tested one-liner
 that enumerates every new BIOBUZZ game noun from the Kickoff manual in about five seconds.
 
-**Companion file:** `C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/known_caps_stoplist.txt` (341 tokens, 3 tiers).
+**Companion file:** `reference/known_caps_stoplist.txt` (341 tokens, 3 tiers).
 
 **Evidence labels used throughout**
 
@@ -27,7 +27,7 @@ Plain-text mirrors of all three live in `manuals/archive/*.txt`.
 ## 0. Kickoff-day 60-second workflow
 
 ```bash
-cd "C:/Users/ericj/Documents/BIOBUZZ Analysis"
+cd "."
 K="manuals/2026-27_BIOBUZZ/BIOBUZZ_Kickoff_Manual.pdf"     # <- the file you download 2026-09-12
 S="reference/known_caps_stoplist.txt"
 
@@ -419,8 +419,8 @@ scoring model on one screen.
 
 | Path | Contents |
 |---|---|
-| `C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/KEYWORD-GLOSSARY.md` | this document |
-| `C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/known_caps_stoplist.txt` | 341-token, 3-tier known-caps stoplist; safe as a `grep -vxF -f` pattern file |
+| `reference/KEYWORD-GLOSSARY.md` | this document |
+| `reference/known_caps_stoplist.txt` | 341-token, 3-tier known-caps stoplist; safe as a `grep -vxF -f` pattern file |
 
 ---
 

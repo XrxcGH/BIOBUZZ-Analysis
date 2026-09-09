@@ -1063,21 +1063,21 @@ If a question can't be answered from a vendor page or a datasheet, **don't buy i
 
 ### 15.1 Primary — BIOBUZZ V0 (all rule text, tables and page numbers above)
 
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf`
+- `manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf`
   — §12 pp. 64-88 (re-extracted with PyMuPDF for every table); I301-I302 p. 24; E511 p. 40; §5.1 p. 33;
   Glossary p. 92.
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/BIOBUZZ_V0_layout.txt` — used for
+- `manuals/2026-27_BIOBUZZ/BIOBUZZ_V0_layout.txt` — used for
   full-manual keyword searches (cost/budget, Android version, gamepad, charger).
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/sections/12_RobotConstruction_R_p64-88.txt`
+- `manuals/2026-27_BIOBUZZ/sections/12_RobotConstruction_R_p64-88.txt`
   — ⚠ column-shifted in five places; see §0.3.
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/archive/supplemental/2026-27_BIOBUZZ_RobotSign_USLetter.pdf`
+- `manuals/archive/supplemental/2026-27_BIOBUZZ_RobotSign_USLetter.pdf`
   — vector geometry measured directly this session; see §9.2.
 
 ### 15.2 Prior season — HISTORICAL only
 
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/archive/supplemental/2025-26_DECODE_Competition_Manual_TU32.html`
+- `manuals/archive/supplemental/2025-26_DECODE_Competition_Manual_TU32.html`
   — R503 servo count (10), Table 12-2 stall current (≤4 A), Tables 12-1/12-3/12-4/12-9 for the diff.
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/archive/supplemental/2025-26_DECODE_InspectionQuickReference.pdf`
+- `manuals/archive/supplemental/2025-26_DECODE_InspectionQuickReference.pdf`
   — pre-verified servos (pp. 4-5), known-illegal servos (p. 6), illegal servo signal/power adapters (p. 9),
   illegal traction devices (p. 10).
 

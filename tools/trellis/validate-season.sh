@@ -39,7 +39,12 @@ case "$SEASON" in
   /* | [A-Za-z]:[/\]*) ;;
   *) SEASON="$(cd "$(dirname "$SEASON")" 2>/dev/null && pwd)/$(basename "$SEASON")" ;;
 esac
-TRELLIS="${2:-${TRELLIS_ROOT:-C:/Users/ericj/Documents/Trellis}}"
+# Where Trellis is checked out. Argument two wins, then TRELLIS_ROOT, then a sibling checkout
+# beside this repository, which is what somebody who cloned both from github.com/XrxcGH gets.
+# The default used to be one machine's absolute path, which is no use to anybody else and put a
+# home directory into a public repository.
+DEFAULT_TRELLIS="$(cd "$(dirname "${BASH_SOURCE[0]}")/../../.." 2>/dev/null && pwd)/Trellis"
+TRELLIS="${2:-${TRELLIS_ROOT:-$DEFAULT_TRELLIS}}"
 
 say(){ printf '%s\n' "$*"; }
 rule(){ printf '%s\n' "------------------------------------------------------------"; }

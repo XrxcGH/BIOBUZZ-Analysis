@@ -4,7 +4,7 @@
    ### BIOBUZZ_Competition_Manual_KICKOFF: 188pp rules=214 evergreen=197 game-specific=17 unpaired=0 orange-box lines=1316 penalty lines=114
       sections: 16 {"Section 1 Introduction": "V2", "Section 2 FIRST Season Overview": "V3", "Section 3 Competition Eligibility and Inspection (I)": "V3", "Section 4 Advancement": "V3", "Section 5 Event Rules (E)": "V2", "Section 6 Awards (A)": "V10
       GAME-SPECIFIC (orange) ids -- read every one of these first: G402 G408 G414 G415 G416 G417 G418 G419 G424 G425 G426 G427 G432 G433 G434 R105 C501
-      wrote C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF/rules_new.tsv
+      wrote manuals/2026-27_BIOBUZZ/ingest_KICKOFF/rules_new.tsv
    V0=109  NEW=214
    ADDED=107  REMOVED=2
    --- G-rules (the new game rules) ---
@@ -63,7 +63,7 @@
 == 8. Loophole tripwires ==
    tripwire hits: 343
 == 9. Tables by geometry (the scoring table is NOT readable in the flat text) ==
-   == BIOBUZZ_Competition_Manual_KICKOFF: 101 tables from 188 page(s) -> C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF/tables
+   == BIOBUZZ_Competition_Manual_KICKOFF: 101 tables from 188 page(s) -> manuals/2026-27_BIOBUZZ/ingest_KICKOFF/tables
         TABLES.md / tables.tsv / INDEX.txt
    --- tables that carry numbers you will build a strategy on ---
    28:  88      1   15 x 9           Table 10-2: DECODE point values
@@ -75,7 +75,7 @@
 == 10. Full rule bodies + orange boxes (loophole-hunting input) ==
    == BIOBUZZ_Competition_Manual_KICKOFF: 214 rules (0 unpaired), 179 orange boxes
       short rules (< 8 words), check for extraction loss: E503 E505 E506 G412 R304
-   == wrote C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF/rulebodies
+   == wrote manuals/2026-27_BIOBUZZ/ingest_KICKOFF/rulebodies
         rules_full.md  (308.0 KB)
         rules_full.tsv  (218.7 KB)
         VIOLATIONS.tsv  (7.9 KB)
@@ -84,14 +84,14 @@
 == 11. Rendering the pages text cannot carry (ARENA figures + scoring table) ==
    == rendering 37 page(s) from BIOBUZZ_Competition_Manual_KICKOFF.pdf (188pp) at 130 dpi
    == section map from the PDF outline:
-   == 37 image(s), 10.2 MB total -> C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF/figures
-   == manifest: C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF/figures\MANIFEST.txt
+   == 37 image(s), 10.2 MB total -> manuals/2026-27_BIOBUZZ/ingest_KICKOFF/figures
+   == manifest: manuals/2026-27_BIOBUZZ/ingest_KICKOFF/figures\MANIFEST.txt
 == 12. HTML edition (the second, independent pipeline) ==
    (no HTML edition found - fetch .../game/cm-html, or pass HTML=<file>. Optional,
     but it is the cleanest source for the scoring table and the orange-box split.)
 
 ==========================================================
- INGEST COMPLETE -> /c/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/ingest_KICKOFF
+ INGEST COMPLETE -> manuals/2026-27_BIOBUZZ/ingest_KICKOFF
 ==========================================================
  Key files to hand to Claude:
    html/tables_html.md     ** THE SCORING TABLE, cleanest source ** (if the HTML was found)

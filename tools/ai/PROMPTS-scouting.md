@@ -58,10 +58,10 @@ protocol.
 ```
 Help me get FTC data access working on this machine.
 
-1. Read C:/Users/ericj/Documents/BIOBUZZ Analysis/tools/ai/scouting/README.md
+1. Read tools/ai/scouting/README.md
    and tell me, in numbered steps, exactly what I have to do.
 2. Run:
-     python "C:/Users/ericj/Documents/BIOBUZZ Analysis/tools/ai/scouting/fetch_events.py" check
+     python "tools/ai/scouting/fetch_events.py" check
    and interpret the output for me line by line.
 3. If credentials are missing, tell me exactly where to register and what to do
    with the username and key I receive. Do NOT ask me to paste my token into
@@ -322,7 +322,7 @@ Non-negotiable constraints:
   columns that do not exist in any prior season.
 
 Reference implementation to match in style and rigour:
-  C:/Users/ericj/Documents/BIOBUZZ Analysis/tools/ai/scouting/fetch_events.py
+  tools/ai/scouting/fetch_events.py
 
 Before you finish: run `python -m py_compile <file>` and show me the result, and
 run the script against real data (or a saved fixture) and show me the first

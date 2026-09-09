@@ -15,10 +15,10 @@
 
 **Primary sources**
 
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf` (93 pp)
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/_reference_prior_seasons/2025-26_DECODE_Competition_Manual_TU32.pdf` (188 pp)
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/archive/supplemental/2026-27_BIOBUZZ_ImportantSeasonDates.pdf` (V26-27.1, dated 24 Jun 2026)
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/archive/supplemental/2026-27_BIOBUZZ_RobotSign_USLetter.pdf` (V26-27.1, created 18 Jun 2026)
+- `manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf` (93 pp)
+- `manuals/_reference_prior_seasons/2025-26_DECODE_Competition_Manual_TU32.pdf` (188 pp)
+- `manuals/archive/supplemental/2026-27_BIOBUZZ_ImportantSeasonDates.pdf` (V26-27.1, dated 24 Jun 2026)
+- `manuals/archive/supplemental/2026-27_BIOBUZZ_RobotSign_USLetter.pdf` (V26-27.1, created 18 Jun 2026)
 
 ---
 

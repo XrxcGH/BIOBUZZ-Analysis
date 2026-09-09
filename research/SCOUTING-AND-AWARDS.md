@@ -1639,13 +1639,13 @@ Rules: every file dated; every claim about people numerically justified (per the
 ## 18. Sources
 
 ### Local files
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/sections/06_Awards_A_p43-58.txt` — BIOBUZZ V0 Section 6 Awards (A), **FINAL**
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/sections/04_Advancement_p27-32.txt` — Section 4 Advancement, Tables 4-1/4-2/4-3
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/sections/05_EventRules_E_p33-42.txt` — Section 5 Event Rules (E116 recording consent)
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/sections/02_SeasonOverview_p5-21.txt` — Team Updates cadence, Q&A open date
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf` — pages 47, 51, 53–58 extracted structurally with PyMuPDF for Table 6-1 and the criteria tables
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/v0_pymupdf.txt` — recovered §4.1.1 advancement formula
-- `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/archive/2025-26_DECODE_Competition_Manual_TU32.txt` — DECODE §6 (award diff), §13.6–13.7 (tournament mechanics), T601, T701–T705
+- `manuals/2026-27_BIOBUZZ/sections/06_Awards_A_p43-58.txt` — BIOBUZZ V0 Section 6 Awards (A), **FINAL**
+- `manuals/2026-27_BIOBUZZ/sections/04_Advancement_p27-32.txt` — Section 4 Advancement, Tables 4-1/4-2/4-3
+- `manuals/2026-27_BIOBUZZ/sections/05_EventRules_E_p33-42.txt` — Section 5 Event Rules (E116 recording consent)
+- `manuals/2026-27_BIOBUZZ/sections/02_SeasonOverview_p5-21.txt` — Team Updates cadence, Q&A open date
+- `manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf` — pages 47, 51, 53–58 extracted structurally with PyMuPDF for Table 6-1 and the criteria tables
+- `manuals/2026-27_BIOBUZZ/v0_pymupdf.txt` — recovered §4.1.1 advancement formula
+- `manuals/archive/2025-26_DECODE_Competition_Manual_TU32.txt` — DECODE §6 (award diff), §13.6–13.7 (tournament mechanics), T601, T701–T705
 
 ### Official FIRST
 - FTC Events API docs — <https://ftc-events.firstinspires.org/api-docs> · try-it-out <https://ftc-events.firstinspires.org/try-it-out> · OpenAPI <https://ftc-events.firstinspires.org/swagger/v2.0/swagger.json>

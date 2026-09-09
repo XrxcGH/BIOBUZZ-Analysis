@@ -57,7 +57,7 @@ Standing rules for this whole session:
 5. FLAG UNKNOWNS. If the manual does not say, write UNVERIFIED and add it to the Q&A
    list. Do not fill gaps with plausible inference.
 
-Files I will refer to are in C:\Users\ericj\Documents\BIOBUZZ Analysis.
+Files I will refer to are in ..
 ```
 
 ---

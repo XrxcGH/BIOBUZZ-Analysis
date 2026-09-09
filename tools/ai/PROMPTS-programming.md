@@ -297,7 +297,7 @@ tell me whether the TEST or the CODE is wrong, and why you believe that.
 
 ```
 Check our robot software for compliance with the BIOBUZZ 2026-27 rules.
-Read C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/CONSTRUCTION-RULES-R.md
+Read reference/CONSTRUCTION-RULES-R.md
 section 12.7 for the rule text, and the V0 manual text at
 manuals/2026-27_BIOBUZZ/BIOBUZZ_V0_layout.txt if you need the exact wording.
 Do not rely on memory of prior seasons — the rules were renumbered for BIOBUZZ.
@@ -380,7 +380,7 @@ Do not implement anything yet. Our drivers will pick.
 ```
 Read our repo (TeamCode/, docs/TUNING-LOG.md, tuning/) and produce a factual
 inventory of our control system for the Control Award, per the criteria in
-C:/Users/ericj/Documents/BIOBUZZ Analysis/reference/AWARD-ALIGNMENT-MATRIX.md
+reference/AWARD-ALIGNMENT-MATRIX.md
 section M3 and research/SCOUTING-AND-AWARDS.md section 12.
 
 Produce a table with one row per claim:

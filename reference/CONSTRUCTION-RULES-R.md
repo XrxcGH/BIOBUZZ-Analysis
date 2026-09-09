@@ -4,7 +4,7 @@
 (which are Kickoff placeholders), Section 12 is fully written. Everything below is actionable **now**, before
 the 12 September 2026 Kickoff — with exactly one deferred rule (R105) and a short list of documented gaps.
 
-**Primary source:** `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf`
+**Primary source:** `manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf`
 (pp. 64-88; text extract at `.../sections/12_RobotConstruction_R_p64-88.txt`).
 **Diff baseline:** `.../manuals/_reference_prior_seasons/2025-26_DECODE_Competition_Manual_TU32.pdf` §12, pp. 119-152 (V6, post-TU32).
 
@@ -694,7 +694,7 @@ Work this list in order on 12 September 2026; it takes ~30 minutes and covers ev
 
 | Claim class | File |
 |---|---|
-| All BIOBUZZ rule text, tables, figures | `C:/Users/ericj/Documents/BIOBUZZ Analysis/manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf`, pp. 64-88 (§12); p. 18 (§1.7.1 conventions); pp. 23-24 (I301-I303); p. 39 (E510-E511); pp. 34-35 (E106-E109) |
+| All BIOBUZZ rule text, tables, figures | `manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf`, pp. 64-88 (§12); p. 18 (§1.7.1 conventions); pp. 23-24 (I301-I303); p. 39 (E510-E511); pp. 34-35 (E106-E109) |
 | Text extract used for search | `.../manuals/2026-27_BIOBUZZ/sections/12_RobotConstruction_R_p64-88.txt`, `.../BIOBUZZ_V0_layout.txt` |
 | DECODE baseline (V6 §12, post-TU32) | `.../manuals/_reference_prior_seasons/2025-26_DECODE_Competition_Manual_TU32.pdf`, pp. 119-152; pp. 18-20 (I301-I307) |
 | ITD servo count trend | `.../manuals/archive/2024-25_ITD_layout.txt`, R503 |

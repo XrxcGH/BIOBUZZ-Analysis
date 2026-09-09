@@ -3,7 +3,7 @@
 ### The kickoff-day procedure that turns a ranked strategy into a purchase order, twice
 
 **Built:** 2026-08-21 (pre-kickoff) | **Re-verified:** 2026-08-22 — every VERIFIED SKU re-fetched (§A5.1), storefront prices adjudicated, **Table 12-3 corrected against the PDF (§A5.2)** | **Target season:** 2026-27 BIOBUZZ presented by RTX | **Kickoff:** 2026-09-12
-**Corpus root:** `C:/Users/ericj/Documents/BIOBUZZ Analysis/`
+**Corpus root:** ``
 **Calibration target:** ~15 students, TWO registered FTC teams (A team + B team), **two robots**, modest budget, 3D printers and hand tools only (no CNC mill, no lathe), limited mentor hours.
 
 > **THE BIOBUZZ GAME IS NOT PUBLIC.** V0 Sections 8, 9, 10, 11, 13 and 15 are placeholders deferred to Kickoff.

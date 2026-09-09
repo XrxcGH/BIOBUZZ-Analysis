@@ -15,7 +15,7 @@
 
 ## Sources used
 
-| Path (relative to `C:/Users/ericj/Documents/BIOBUZZ Analysis/`) | Use |
+| Path (relative to ``) | Use |
 |---|---|
 | `manuals/2026-27_BIOBUZZ/sections/06_Awards_A_p43-58.txt` | Primary — Section 6 |
 | `manuals/2026-27_BIOBUZZ/BIOBUZZ_Competition_Manual_V0_2026-07-31.pdf` | Cross-check. Table 6-1 and Figures 6-1 / 6-2 / 6-3 were reconstructed from PDF word coordinates and rendered page images — the flat text extraction scrambles merged table cells and silently drops some digits (e.g. A201.C renders as `(8. " x ")` in text but is `(8.5" x 11")` on the page) |
