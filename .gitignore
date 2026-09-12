@@ -9,6 +9,64 @@
 # depends on them being version controlled.
 manuals/
 
+# Manual text, rule bodies, tables and page renders extracted from FIRST's documents.
+#
+# Excluded for the first reason above: an extract is still FIRST's copyrighted material, whether
+# it is a manual's flat text, its rule bodies or a render of one of its pages. None of it needs
+# to be version controlled. tools/RUN-KICKOFF.sh regenerates the bundles from a manual you
+# download from FIRST.
+#
+# Each analysis/<label>/bundle/ holds one competition manual's full flat text, its rule bodies
+# and orange boxes, its tables, the grep lines in TRIPWIRES.txt and renders of its pages, plus
+# small derived lists that mean nothing without the rest. The script deletes and rebuilds the
+# directory on every run, so a file left tracked inside it would show as deleted or modified
+# after the next one.
+#
+# The second line repeats the exclusion for the page renders in figures/. A render is a whole
+# manual page, logos included (FIRST's, the game's and the sponsors'), so it is a trademark
+# question as well as a copyright one, and it stays out even if the first line is narrowed.
+analysis/*/bundle/
+analysis/*/bundle/figures/
+
+# The same extracts written outside a bundle. Without --out, extract-tables.py, rule-bodies.py
+# and render-pages.py write tables_*, rulebodies_* and figures_* next to the input PDF. A manual
+# dropped in this folder for kickoff day (README.md section 4) stays here, because
+# tools/ingest-manual.sh copies it into manuals/ rather than moving it, and those tools pointed
+# at it write their output here too. render-pages.py names every page render
+# pNNN_<section>.png; the last line catches a render copied anywhere else.
+/*.pdf
+/tables_*/
+/rulebodies_*/
+/figures_*/
+p[0-9][0-9][0-9]_*.png
+
+# Run leftovers tools/RUN-KICKOFF.sh writes to analysis/<label>/ beside the bundle.
+#
+# _guard.tsv and _guard.txt are the parser's rule list and log for the check that tells a
+# kickoff manual from the pre-season V0. The script deletes them at the end of a run that passes
+# that check, so a refused manual (exit 3 or 4) or a run stopped partway leaves them behind,
+# holding the ID, page, class and headline of every rule in the refused PDF. fetch.log is the
+# output of tools/kickoff-fetch.sh, written whenever the script finds no manual locally and goes
+# to get one, and nothing deletes it. None of it is analysis; it records one machine's attempt.
+analysis/*/_guard.*
+analysis/*/fetch.log
+
+# Raw inputs in _workfiles/: plain text of FIRST's Team Updates and official Q&A archive.
+#
+# These are FIRST's copyrighted text as well, and nothing in this repository reads them. The
+# folder is excluded by default so a future extract stays unpublished whatever its name;
+# _workfiles/README.txt gives the pdftotext command that regenerates each one. The Chief Delphi
+# category dump stays out too: it carries forum members' post excerpts and usernames, and
+# nothing reads it either. The negation that keeps README.txt must stay below the line it
+# overrides. That line has to remain _workfiles/* rather than _workfiles/, because git cannot
+# re-include a file inside an excluded directory. The first two lines name today's extracts and
+# the dump; they are redundant while the folder line stands and keep those files out if it is
+# ever narrowed.
+_workfiles/*_text.txt
+_workfiles/chiefdelphi_category_list.json
+_workfiles/*
+!_workfiles/README.txt
+
 # Editor and OS noise.
 .DS_Store
 Thumbs.db

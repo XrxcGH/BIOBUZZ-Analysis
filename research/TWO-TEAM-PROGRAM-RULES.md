@@ -381,21 +381,17 @@ affiliations on arrival and ensures judges "are not assigned to a panel schedule
 
 ### 8.2 What FIRST actually tells FTC judges about you
 
-[O-FTC] FTC **Judging Process Guide**, Rev. 25-26.3, §"Judging Teams with Close Affiliations (Sibling Teams)"
-— quoted at length because this is the single most decision-relevant document outside the manual:
+[O-FTC] FTC **Judging Process Guide**, Rev. 25-26.3, §"Judging Teams with Close Affiliations (Sibling Teams)",
+the single most decision-relevant document outside the manual. The phrases in quotation marks in the three
+bullets below are that section's own words; the rest of those bullets is paraphrased.
 
-> "This section defines multiple teams associated with one organization as Sibling Teams... Sibling Teams are
-> considered separately for all awards, and Judges will use the information provided to them by each team
-> individually to assess the team against the award criteria. Each team should be prepared to cover all
-> relevant information with the Judges.
->
-> Teams have the opportunity to collaborate with one another on a number of items that are judged at a FIRST
-> Tech Challenge event. Although this approach is welcome, it can provide a challenge when judging Sibling
-> Teams. When judging Sibling Teams, for example, it is possible to find that multiple teams have a similar
-> design for their robot or claim the same outreach activities.
->
-> The simplest way to address Sibling Teams is to judge each team on their own, and to ask clarifying
-> questions that may help identify how one team may stand out amongst other Sibling Teams."
+- The guide calls several teams tied to one organization Sibling Teams. "Sibling Teams are considered
+  separately for all awards": judges assess each team only on what that team presents, so each team has to
+  be ready to cover everything relevant on its own.
+- Collaboration between teams is welcome, but it complicates judging, because judges may find that "multiple
+  teams have a similar design for their robot or claim the same outreach activities."
+- The guide's remedy is to "judge each team on their own, and to ask clarifying questions that may help
+  identify how one team may stand out amongst other Sibling Teams."
 
 The **exact questions judges are told to ask**:
 

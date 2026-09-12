@@ -534,6 +534,8 @@ If FIRST changes the format on 2026-09-12, the failure modes rank like this:
    produced one instance of this class at a different layer: ingest gate G-d passed (it requires only
    "a `Table 10-x` row with 8 or more rows") **while Table 10-2 was entirely missing from `TABLES.md`**, with
    a glossary block masquerading under its heading. The analyst recovered it only by reading a rendered PNG.
+   `TABLES.md` belongs to the ingest bundle, which `tools/RUN-KICKOFF.sh` generates locally and which is not
+   published with this repository.
 
 **The contingency, in the order to run it on the day:**
 

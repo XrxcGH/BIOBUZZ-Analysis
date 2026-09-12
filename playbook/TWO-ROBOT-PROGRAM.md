@@ -365,7 +365,7 @@ why they happen.
 [O-FTC] The FTC **Judging Process Guide** (Rev. 25-26.3) has a section *"Judging Teams with Close Affiliations
 (Sibling Teams)"* that tells judges sibling teams "are considered separately for all awards," warns that
 "multiple teams have a similar design for their robot or claim the same outreach activities," and gives judges
-three clarifying questions. Full quotation and sourcing: `research/TWO-TEAM-PROGRAM-RULES.md` §8.2.
+three clarifying questions. Key quotations, the three questions and sourcing: `research/TWO-TEAM-PROGRAM-RULES.md` §8.2.
 
 | Judge's question | A bad answer | A good answer |
 |---|---|---|

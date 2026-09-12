@@ -24,6 +24,8 @@ SUBMERSIBLE SAMPLES OBSERVATION ASCENT SAMPLE SPECIMEN NET SPECIMENS CHAMBERS DE
 | Full ingest output | `manuals/2026-27_BIOBUZZ/ingest_ITD/` |
 | Ingest log | `analysis/ITD/ingest.log` |
 
+The bundle is generated on this machine by tools/RUN-KICKOFF.sh and is not published with the repository, because it is FIRST's manual text. To rebuild it, run bash tools/RUN-KICKOFF.sh with the manual PDF.
+
 ## Feed order
 1. `bundle/TABLES.md` — the scoring table. **Never read point values from flat text**
 2. `bundle/rules_GAMESPECIFIC.txt` — the orange rules; read these first

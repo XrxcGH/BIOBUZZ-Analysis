@@ -2,6 +2,7 @@
 
 **Phase:** R5 (ANALYSIS-PROTOCOL.md §6) · **Run:** 2026-08-23 · **Manual:** ingested bundle, 188 pp, 214 rules, 53 G-rules, 17 orange (STATUS.md)
 **Sources used:** `bundle/rules_full.tsv`, `bundle/VIOLATIONS.tsv`, `bundle/rules_GAMESPECIFIC.txt`, `bundle/TABLES.md` (all point values), `bundle/ORANGE_BOXES.md` (non-binding, flagged as such), `bundle/full_layout.txt` (glossary + two truncated Violation strings only — **no point values**).
+**Bundle availability:** `tools/RUN-KICKOFF.sh` generated the bundle locally from `DECODE_Competition_Manual_TU32.pdf`; it is not published with this repository, because it is FIRST's manual text. Page and table numbers refer to the manual; `L` numbers are lines of the generated `full_layout.txt`.
 **Method files consulted:** `reference/ANALYSIS-PROTOCOL.md` §6 only.
 **Deliberately NOT opened:** `reference/PENALTY-AND-ENFORCEMENT.md`, `reference/SCORING-PATTERNS.md`, `research/LOOPHOLE-CASEBOOK.md`, `reference/ROBOT-ARCHETYPE-LIBRARY.md`, `manuals/_reference_prior_seasons/`. See Beta feedback #1 — one allowed method file leaked answers anyway.
 

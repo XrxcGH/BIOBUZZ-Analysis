@@ -958,72 +958,72 @@ The same document warns: *"While Publishing Resources is helpful, teams should i
 | **A214** | *Teams cannot win the Inspire Award at multiple Qualifying or League Tournaments* | 1st-place Inspire once per season from any QT/LT. You **may** still win 2nd/3rd at later QT/LTs, and **you may win 1st again at your Regional Championship**. |
 | **A215** | *Teams can only get one judged award* | "Teams are only eligible to win or be a runner-up for a **single team judged award** at the event." Does not block Alliance awards (§6.4) or Individual awards (§6.5). |
 
-### 7.5 The criteria tables — Required vs. Encouraged, verbatim
+### 7.5 The criteria tables: Required vs. Encouraged, paraphrased
 
-**FACT** — extracted structurally from the V0 PDF (pages 53–57) so the Required/Encouraged column is correctly aligned. **Required means the judges cannot give you the award without it.**
+**FACT** (V0 PDF pages 53–57, extracted structurally so the Required/Encouraged column is correctly aligned). The criteria are paraphrased; words in quotation marks are the manual's. **Required means the judges cannot give you the award without it.**
 
 **Inspire (Table 6-2)** — all four Required:
-1. Team must submit a PORTFOLIO.
-2. "A team must be a strong contender for at least one award in each of the following judged award categories: A. Machine, Creativity, and Innovation Awards, B. Team Attributes Awards, and C. Think Award."
-3. Team must be positive and inclusive, and each team member contributes to the success of the team.
-4. Team is able to share their experiences and knowledge to the JUDGES.
+1. Submit a PORTFOLIO.
+2. Be a strong contender for at least one award in each judged category: A. Machine, Creativity, and Innovation; B. Team Attributes; C. Think.
+3. The team is positive and inclusive, and every member contributes to its success.
+4. The team can share its experiences and knowledge with the judges.
 
 **Think (Table 6-3)**
 | | Criterion |
 |---|---|
-| **Required** | Submit a PORTFOLIO containing **at least one** of: A. evidence of use of the engineering process; B. lessons learned and applied relating to the design of their ROBOT; C. **comparing choices** — "Show how you looked at different ideas and explain why you chose one over the other"; D. **math choices** — "Show how you used math to make decisions about your ROBOT or programming design." |
-| Encouraged | "Information in the PORTFOLIO should be easy to read and easy to find." |
+| **Required** | Submit a PORTFOLIO that covers **"at least one"** of four engineering topics: A. use of the engineering process; B. design lessons learned and applied to the ROBOT; C. **comparing choices**: the alternatives considered and why one was picked; D. **math choices**: math used to make ROBOT or programming decisions. |
+| Encouraged | The PORTFOLIO is easy to read, and its information is easy to find. |
 
 **Connect (Table 6-4)**
 | | Criterion |
 |---|---|
-| **Required** | Professional development competency: explain the plan for developing team member skills, including **both** (A) the team's goals for learning and (B) the steps taken or to be taken to reach them. |
-| Encouraged | Networking competency — building and maintaining meaningful in-person or virtual relationships with STEM professionals. |
-| Encouraged | Collaboration competency — "actively working with members of the engineering community through mentoring, knowledge sharing, technical guidance, or collaborative activities." |
+| **Required** | Professional development competency: a plan for building members' skills that covers **both** (A) what the team wants to learn and (B) the steps taken or planned to get there. |
+| Encouraged | Networking competency: lasting relationships, in person or virtual, with STEM professionals. |
+| Encouraged | Collaboration competency: active work with the engineering community, such as mentoring, sharing knowledge, technical guidance, or joint activities. |
 
 **Reach (Table 6-5)**
 | | Criterion |
 |---|---|
-| **Required** | Outreach planning competency: clearly explain **all** of (A) outreach objectives, (B) **the strategy behind** the activities, (C) how these activities support the growth of the FIRST community. |
-| **Required** | "Team demonstrates successful **recruitment of new teams, coaches, mentors, or volunteers who have not previously participated** in the FIRST community." |
-| Encouraged | Communication competency — ambassador for FIRST, increasing public awareness. |
-| Encouraged | Media and promotion competency — "creative, continuously improving outreach materials." |
+| **Required** | Outreach planning competency: explain **all** three of (A) the outreach objectives, (B) the strategy behind the activities, and (C) how they grow the FIRST community. |
+| **Required** | Recruit new teams, coaches, mentors, or volunteers **"who have not previously participated"** in FIRST. |
+| Encouraged | Communication competency: acting as a FIRST ambassador and raising public awareness of FIRST programs. |
+| Encouraged | Media and promotion competency: inventive outreach materials that keep getting better and introduce the team and FIRST to the public. |
 
 **Sustain (Table 6-6)**
 | | Criterion |
 |---|---|
-| **Required** | Organizational sustainability competency: plans for long-term success including **one or more** of (A) financial sustainability, (B) season planning, (C) long-term team sustainability objectives. |
-| **Required** | Project management competency: "explaining how it **measures, reviews, and tracks progress** toward its sustainability plans and objectives." |
-| Encouraged | Leadership development competency — defined roles + intentional process for preparing future student leaders. |
-| Encouraged | Risk management competency — identifying constraints, mitigation, adapting plans. |
+| **Required** | Organizational sustainability competency: long-term plans covering **one or more** of (A) finances, (B) season planning, (C) long-term team objectives. |
+| **Required** | Project management competency: how the team tracks, reviews, and measures progress toward those plans. |
+| Encouraged | Leadership development competency: defined team roles and a deliberate way of preparing future student leaders. |
+| Encouraged | Risk management competency: naming organizational constraints, mitigating them, and adjusting plans when problems arise. |
 
 **Innovate, sponsored by RTX (Table 6-7)**
 | | Criterion |
 |---|---|
-| **Required** | "The team demonstrates their engineering competency by showing examples of their engineering work that explain how the team developed their design." |
-| **Required** | The design of the ROBOT or ROBOT MECHANISM is creative, unique, or both. |
-| **Required** | "The creative design must be stable and reliable. It must help the team reach its game goals **most of the time**." |
-| Encouraged | "Designs often involve risks. The team should explain how they reduced those risks." |
+| **Required** | Engineering competency: examples of the team's engineering work that show how the design was developed. |
+| **Required** | The ROBOT, or a MECHANISM on it, is creative, unique, or both. |
+| **Required** | The design is stable and reliable, and it helps the team reach its game goals **"most of the time."** |
+| Encouraged | The team explains the design's risks and how it reduced them. |
 
 **Control (Table 6-8)**
 | | Criterion |
 |---|---|
-| **Required** | Submit a PORTFOLIO including **all** of: A. hardware or software control COMPONENTS on the ROBOT; B. the challenges each COMPONENT or system solves; C. the function of each COMPONENT or system. |
-| **Required** | "The team must use one or more hardware or software solutions that use **external feedback** to control the ROBOT and improve how it performs." |
+| **Required** | Submit a PORTFOLIO that covers **all** of: A. the ROBOT's hardware or software control COMPONENTS; B. the problem each COMPONENT or system solves; C. what each COMPONENT or system does. |
+| **Required** | At least one hardware or software solution uses **"external feedback"** to control the ROBOT and improve its performance. |
 | Encouraged | Solutions work consistently during most MATCHES. |
-| Encouraged | Explain reliability — by demonstrating it works, or explaining how it could be improved. |
-| Encouraged | Describe what was learned using the engineering process to develop the control solutions. |
+| Encouraged | The team can explain how reliable the solution is, by showing it working or describing how it could be improved. |
+| Encouraged | The team describes what it learned by applying the engineering process to its control solutions. |
 
-Section 6.3.7 also states: *"The team's PORTFOLIO must include a summary of the software, sensors, and mechanical control system. The PORTFOLIO does not need to include the full code itself."*
+Section 6.3.7 also asks for a PORTFOLIO summary of the software, sensors, and mechanical control system, and says the PORTFOLIO *"does not need to include the full code itself."*
 
 **Design (Table 6-9)**
 | | Criterion |
 |---|---|
-| **Required** | "Team must describe or demonstrate that their ROBOT is elegant, efficient (simple to build and operate), **and/or** practical to maintain." |
-| **Required** | "The design of the **entire ROBOT**, or the detailed process used to create it, must be considered — not just one COMPONENT." |
+| **Required** | Show that the ROBOT is elegant, efficient to build and operate, **"and/or"** practical to maintain. |
+| **Required** | Judges consider the design of the **"entire ROBOT"**, or the detailed process behind it, rather than a single COMPONENT. |
 | Encouraged | Stands out for appearance and function. |
 | Encouraged | Reasons behind design choices clearly thought through. |
-| Encouraged | Design works consistently and aligns with the team's game plan or strategy. |
+| Encouraged | The design performs consistently and fits the team's game plan or strategy. |
 
 ---
 
@@ -1324,42 +1324,45 @@ That single page satisfies Control-R1, Control-R2, Control-E3, Control-E4 and Co
 | **Unscheduled in-person** | **"The interview is not scheduled for a specific time. JUDGES meet teams in their pit area at the event or in a dedicated judging space."** |
 | Remote | Online video conference, held before in-person gameplay (hybrid events) |
 
-The sequence (Figure 6-3, verbatim):
-1. "JUDGES introduce themselves to the team and ask if the team has a prepared presentation they would like to start with."
-2. "Teams may present to the JUDGES uninterrupted for **up to about 5 minutes**, per A205."
-3. "JUDGES will ask open ended questions and interact with the team for the remaining interview time."
-4. "The interview is concluded by the JUDGES."
-5. Judges privately discuss and complete the feedback form.
+The sequence (Figure 6-3, paraphrased; the five-minute reservation itself is rule A207):
+1. Judges introduce themselves and ask whether the team wants to open with a prepared presentation.
+2. The team may present uninterrupted for **"up to about 5 minutes."**
+3. Judges ask open-ended questions and talk with the team for the rest of the slot.
+4. Judges end the interview.
+5. Judges privately discuss the interview and complete the feedback form.
 
-**FACT** — the manual warns about pit interviews specifically: *"Teams participating at events where the Initial Interview is conducted in the pits should be mindful that the pit area is an active and often noisy environment… external distractions (such as pit announcements and general background noise) may occur during the interview and could create communication challenges."*
+**FACT** (BIOBUZZ §6.1.2): the manual warns about pit interviews specifically. The pit is busy and loud, and announcements or background noise may interrupt the interview and make it harder to communicate.
 
-**FACT** — mandated question structure: *"At each event, the JUDGE Advisor will select two questions from the question bank that all teams will be asked at the start of the Initial Interview's question and answer session. One question will be focused on the MCI award category, and one question will be focused on the TA award category."*
+**FACT** (BIOBUZZ §6.1.2): mandated question structure. The JUDGE Advisor picks two questions from the question bank, one on the MCI award category and one on the TA award category, and every team at the event is asked both at the start of the Initial Interview's Q&A.
 
 ### 13.2 Pit interviews (round two)
 
-**FACT** (BIOBUZZ §6.1.3): after all Initial Interviews, judges compare notes and may follow up in the pits. *"Teams have the opportunity to expand upon materials presented in the Initial Interview and share additional content with the JUDGES (e.g., ROBOT prototypes, design artifacts, and photos or letters from outreach events). A team does not need to prepare another presentation for this pit interview but should be ready to answer questions."* Crucially: *"JUDGES may read additional information during pit interviews but will **not bring back additional content** to be referenced as part of the JUDGE deliberations."*
+**FACT** (BIOBUZZ §6.1.3): after all Initial Interviews, judges compare notes and may follow up in the pits. Teams can expand on what they presented and show more, such as robot prototypes, design work, or outreach photos and letters; no second presentation is needed, but students should be ready for questions. Crucially, judges may read extra material in the pit but *"will **not bring back additional content** to be referenced as part of the JUDGE deliberations."*
 
 **JUDGMENT.** A pit visit is a **signal that you were nominated for something** (per the Judging Quick Start, follow-up pit interviews are conducted by *award-specific* panels). Notice which award the questions cluster around and answer *that* award's criteria. GM0's advice here is blunt and correct: *"STAND UP and PUT THE PHONES DOWN"*, and *"Judges will signal their focus area (control, outreach, robot)"* — tailor accordingly rather than reciting your whole story again.
 
 ### 13.3 The actual questions — the FIRST Judging Question Bank
 
-**FACT.** FIRST publishes the real bank at <https://ftc-resources.firstinspires.org/ftc/archive/2026/event/question-bank> (Revision 25-26.1 — the BIOBUZZ revision is listed as "coming soon" in the V0 manual, so expect an update; the DECODE-era bank below is the best available proxy today). Ground rules, verbatim from that document:
+**FACT.** FIRST publishes the real bank at <https://ftc-resources.firstinspires.org/ftc/archive/2026/event/question-bank> (Revision 25-26.1; the BIOBUZZ revision is listed as "coming soon" in the V0 manual, so expect an update; the DECODE-era bank summarized below is the best available proxy today). Its ground rules, paraphrased: judges may not ask about religion, politics, gender, disabilities, or how students are doing in school, because none of these bears on any award criterion, and they should draw out each team's own strengths instead of comparing it with other teams.
 
-> "Judges must not ask teams about religion, politics, gender, disabilities, or how the students are doing in school. These topics have no bearing on any FIRST award criteria."
-> "Questions should also avoid comparing one team to another team and instead should focus on the strengths or unique qualities of a team."
+What each award's questions probe, summarized from that revision (read the bank itself for the full wording):
 
-Representative questions, verbatim, by award:
-
-| Award | Sample questions |
+| Award | Question focus |
 |---|---|
-| **Think** | "Can you describe your team's brainstorming process?" (→ "As ideas came in, did your team use any trade-off or cost/benefit analysis?"); "How did your team improve your robot throughout the season?"; "Did your team employ any analysis in making their design decisions?"; "How did your team decide what aspects of their robot needed to be improved? — What types of data did the team use to determine this?" |
-| **Connect** | "How did your team set your goals and strategies for this season?"; "Did your team create a learning plan this season? — If so, how did your team decide what should be on the plan for each team member?"; "Have any STEM professionals become a Mentor for your team?"; "How does your team work with other FIRST teams in your area?" |
-| **Reach** | "What are your objectives when you participate in these activities?"; "Has your team been able to successfully recruit anyone to participate in FIRST? — Can you give examples of individuals who are now involved in FIRST?"; "How do you market your team?"; "Has your team received any feedback on your marketing efforts?" |
-| **Sustain** | "Does your team have a sustainability plan?"; "How is your team's budget allocated, and who is involved in that process?"; "How are responsibilities assigned and tracked over the course of a season?"; "**What gets in the way of your team doing its best work, apart from time?**"; "Does your team have a plan for maintaining or sustaining their finances without relying on a single or few large sources of income?" |
-| **Innovate** | "Walk us through the process that your team used to come up with your design"; "What criteria or process did your team use to determine the success of the design?"; "What actions or tasks within a match is it able to reliably score in? — How did your team test for reliability?"; "What risks did your team identify with your design? — How did your team determine if that risk was mitigated?"; "(For Pit Interviews Only) Can you share any CAD drawings or sketches or photos that highlight your design evolution?" |
-| **Control** | "What sensors and hardware did your team use on your robot? — What worked, what did not, and why?"; "What pre-programmed libraries or outside resources did your team use?"; "How does your robot: Know where it is on the field? Control acquisition of scoring elements in Auto and/or Teleop? Measure and control the speed of the motors?"; "What enhancements did your team program to assist the drivers during Teleop?"; "**How did your team measure reliability?**" |
-| **Design** | "How did your team balance competing factors in your design?"; "Did you look at each component separately or as a single system or sub-systems?"; "How does your team balance functionality, simplicity, and reliability?"; "**What did your team choose to optimize on the robot if you could not do everything?**"; "Did your team's solution originate from an existing design (e.g., in industry, another sport, or a previous season), or was it a completely novel concept?" |
-| **Judges' Choice** | "Tell us your story — how is your team making a difference through FIRST?"; "**What is the one thing that we did not ask about that you most want the Judges to know?**"; "Describe a major failure or setback your team experienced… How did this failure force your team to think differently?"; "(New Team) How did your team quickly bridge the knowledge gap to become competitive?" |
+| **Think** | Brainstorming, trade-off and cost/benefit analysis, analysis behind design decisions, how the robot improved over the season, and the data used to choose what to improve |
+| **Connect** | How goals and strategy were set, whether the team has a learning plan and how it was built, STEM professionals who became mentors, and work with other FIRST teams nearby |
+| **Reach** | Outreach objectives, named people the team actually recruited into FIRST, and how the team markets itself and gathers feedback on that marketing |
+| **Sustain** | The sustainability plan, how the budget is allocated and by whom, how responsibilities are assigned and tracked, obstacles other than time, and whether funding depends on a few large sources |
+| **Innovate** | How the design came about, how its success was judged, which match tasks it scores reliably and how reliability was tested, risks and their mitigation, and (pit interviews only) CAD, sketches, or photos of its evolution |
+| **Control** | Sensors and hardware, outside libraries, localization, control of scoring-element acquisition and motor speed, driver-assist features, and how reliability was measured |
+| **Design** | Balancing competing factors, component versus system thinking, the trade among functionality, simplicity and reliability, what was optimized when not everything fit, and whether the concept was borrowed or new |
+| **Judges' Choice** | The team's story and impact, anything the judges did not ask about, a major setback and what it changed, and how a new team closed its knowledge gap |
+
+Questions quoted exactly, because other documents in this repository cite them:
+
+- **Think:** "Did your team employ any analysis in making their design decisions?" and "As ideas came in, did your team use any trade-off or cost/benefit analysis?"
+- **Control:** "What sensors and hardware did your team use on your robot?" with its follow-up "What worked, what did not, and why?"; "What pre-programmed libraries or outside resources did your team use?"; "How does your robot: Know where it is on the field? Control acquisition of scoring elements in Auto and/or Teleop? Measure and control the speed of the motors?"; "What enhancements did your team program to assist the drivers during Teleop?"; and "**How did your team measure reliability?**"
+- **Judges' Choice:** "**What is the one thing that we did not ask about that you most want the Judges to know?**"
 
 **JUDGMENT.** Note how many of these ask for **process, measurement and evidence**, not for outcomes. "How did your team measure reliability?" is asked in both the Innovate and Control banks. If you have one measurement culture and can describe it, you answer half the bank.
 
@@ -1388,7 +1391,7 @@ Representative questions, verbatim, by award:
 | Late September | Assign speaking roles. **Every student speaks.** GM0: "Make sure everybody has an opportunity to speak"; silent members "can look bad." A204 requires ≥2 student reps; the manual encourages "as many STUDENTS as possible." | 30 min |
 | October | Write the 5-minute presentation as **5 × 1-minute modules** (strategy / robot / control / outreach / sustainability), one student per module. Modules are independently droppable if you're cut short. | 2 h |
 | October | Build a **one-page Q&A cheat sheet**: for each of the 9 awards, one sentence of "our best evidence is ___." Laminate it. Nobody reads it during the interview; writing it is the point. | 1 h |
-| Every meeting, Nov–Feb | **Two questions, two minutes.** Pull two questions at random from the bank (§13.3), two random students answer, 60 seconds each. ~30 questions covered per month at zero scheduling cost. | 2 min/meeting |
+| Every meeting, Nov–Feb | **Two questions, two minutes.** Pull two questions at random from FIRST's published bank (linked in §13.3), two random students answer, 60 seconds each. ~30 questions covered per month at zero scheduling cost. | 2 min/meeting |
 | Two weeks before each event | One full mock interview with an outside adult (a sponsor, a parent engineer, a teacher). Do it **standing up, in a noisy room**, to rehearse the unscheduled-pit format. | 45 min |
 | Night before | Rehearse the answer to "**Is there anything else that you want us to know?**" — GM0 flags this as the near-universal closing question, and it appears verbatim in the Judges' Choice bank as "What is the one thing that we did not ask about that you most want the Judges to know?" | 15 min |
 
@@ -1498,22 +1501,22 @@ Five of six division Inspire 1st winners finished in the **bottom half of their 
 
 | Item | Value |
 |---|---|
-| Who it recognizes | "an adult coach or mentor who has given outstanding guidance and support to a team throughout the year and demonstrates to the team what it means to be a Gracious Professional" |
+| Who it recognizes | An adult coach or mentor who guided and supported the team all season and showed it what being a Gracious Professional means |
 | Who nominates | **FIRST Tech Challenge STUDENT team members** |
-| Where it is offered | **"an optional award offered at the Regional Championship tournament level of competition."** Plus: "All teams attending FIRST Championship will have an opportunity to submit for this award at FIRST Championship." |
+| Where it is offered | **An optional award at the Regional Championship level.** All teams attending FIRST Championship can also submit for it there. |
 | Format | A **40–60 second video**. "videos cannot be longer than 60 seconds, **including credits**." |
-| File types | `.mp4`, `.mov`, `.avi`, `.wmv` — **"no links to streaming services will be accepted"** |
-| Quantity | "one video submission per team per event (videos can be updated or changed between events)" |
-| Deadline | "submitted by the deadline established by the **Event Director or local Program Delivery Partner**" |
-| Music | "all music must be used with permission from the copyright owners and be indicated in the video credits" |
-| Required criterion 1 | "Team must be able to clearly articulate this mentor's contribution to the team and explain what sets this mentor apart." |
+| File types | `.mp4`, `.mov`, `.avi`, `.wmv`; **streaming links are not accepted** |
+| Quantity | One video per team per event; it may be updated or replaced between events |
+| Deadline | Set by the **Event Director or local Program Delivery Partner** |
+| Music | Only with the copyright owners' permission, and credited in the video |
+| Required criterion 1 | The team clearly explains what the mentor contributes and what sets this mentor apart. |
 | Also | Teams are encouraged to review the FIRST Branding and Style Guidelines first |
 
 **JUDGMENT.** Do not build this in February. Shoot 20 seconds of usable footage of your coach at every event and every build night from September; the video then edits itself in an hour. A 40–60 second video with **licensed** music is genuinely constrained — use a royalty-free library and credit it on screen, or use no music at all and let a student speak. Note the level gate: **there is no Compass Award at a qualifier**, so this only matters in the season where you reach a Regional Championship.
 
 ### 15.3 Project-Based Global Awards
 
-**FACT** — BIOBUZZ §6.6: *"Project-based global awards are awards that are only judged and awarded once per season and are open to all registered FIRST Tech Challenge teams. Each award has its own independent requirements and deadlines. **These awards do not contribute towards team advancement.** More information about Project-Based Global Awards coming soon!"*
+**FACT** (BIOBUZZ §6.6): project-based global awards are judged and given once per season, are open to every registered FIRST Tech Challenge team, and each has its own requirements and deadlines. *"**These awards do not contribute towards team advancement.**"* V0 says more information is coming soon.
 
 **FACT** — in DECODE these were the **Digital Animation Award (sponsored by WPI)** and the **Safety Animation Award (sponsored by UL Solutions)** (DECODE §6.6.1, §6.6.2). Neither is confirmed for BIOBUZZ.
 

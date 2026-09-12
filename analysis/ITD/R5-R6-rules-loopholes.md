@@ -9,6 +9,8 @@
 
 **Read (bundle):** `STATUS.md` · `bundle/TABLES.md` · `bundle/rules_GAMESPECIFIC.txt` · `bundle/rules_full.tsv` · `bundle/VIOLATIONS.tsv` · `bundle/ORANGE_BOXES.md` · `bundle/caps_NOVEL_ranked.txt` · `bundle/TRIPWIRES.txt` · `bundle/rules_ADDED.txt` / `rules_REMOVED.txt` / `section_versions.txt` · `bundle/figures/` (MANIFEST, p046, p047, p059, p060, p062, p066) · `bundle/full_layout.txt` (prose only — §9.2, §10.3–10.8, §16 glossary; **no point value taken from it**).
 
+**Bundle availability:** `tools/RUN-KICKOFF.sh` generated the bundle locally from the V14 manual; it is not published with this repository, because it is FIRST's manual text. Page, section and table numbers refer to the manual itself.
+
 **Method files read:** `reference/LOOPHOLE-PLAYBOOK.md` · `reference/ANALYSIS-PROTOCOL.md` §6 (R5) and §7 (R6).
 
 **Refused (answer key):** `reference/SCORING-PATTERNS.md` · `research/LOOPHOLE-CASEBOOK.md` · `reference/ROBOT-ARCHETYPE-LIBRARY.md` · `reference/PENALTY-AND-ENFORCEMENT.md` · `research/SCOUTING-AND-AWARDS.md` · `manuals/_reference_prior_seasons/` · `manuals/archive/`. None opened. `ANALYSIS-PROTOCOL.md` R5 step 2 and R6 both dispatch to two of those files; I substituted a bundle-derived method (see §A2) and logged it in Beta feedback.

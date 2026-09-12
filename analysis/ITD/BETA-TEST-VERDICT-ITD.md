@@ -15,6 +15,10 @@
 `reference/LOOPHOLE-PLAYBOOK.md`, `reference/ACHIEVABILITY-RUBRIC.md`, `reference/ACHIEVABILITY-FACTORS.md`,
 `reference/mechanisms/*.md`, `reference/known_caps_stoplist.txt`.
 
+**Bundle availability:** `tools/RUN-KICKOFF.sh` generated the bundle locally from the V14 manual; it is not published
+with this repository, because it is FIRST's manual text. Line numbers this verdict cites in bundle files refer to that generated
+copy; page and table numbers refer to the manual itself.
+
 > **Headline.** The transcription is near-perfect and the strategic conclusion is right. **Neither result is
 > admissible evidence**, because an *allowed* method file reprints this season's point values and its defining
 > insight. Underneath that, three substantive things went wrong that would have gone wrong on BIOBUZZ too:

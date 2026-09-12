@@ -47,21 +47,35 @@ pdftotext -enc UTF-8 -layout "$PDF" "$WORK/full_layout.txt"
 pdftotext -enc UTF-8         "$PDF" "$WORK/full_raw.txt"
 # Regenerate the V0 baseline the SAME way so the step-4 diff compares like with like; the
 # checked-in BIOBUZZ_V0_layout.txt was extracted as Latin-1 and carries mojibake.
-pdftotext -enc UTF-8 -layout "$V0PDF" "$WORK/baseline_layout.txt"
+# manuals/ is not published with the repository, so a fresh clone has no V0 PDF. The ingest
+# still runs without it; only the V0 comparisons (rules_v0, ADDED/REMOVED, step 4) are skipped.
 BASE="$WORK/baseline_layout.txt"
+HAVE_V0=0
+if [ -f "$V0PDF" ]; then
+  HAVE_V0=1
+  pdftotext -enc UTF-8 -layout "$V0PDF" "$BASE"
+else
+  echo "   !! WARNING: no V0 baseline at ${V0PDF#$ROOT/}"
+  echo "   !! Download the pre-season V0 Competition Manual from FIRST and save it at that path"
+  echo "   !! to get the V0 comparisons. Skipping rules_v0, rules_ADDED/REMOVED and the step-4 diff."
+fi
 PAGES=$(python -c "import pymupdf,sys; print(pymupdf.open(sys.argv[1]).page_count)" "$PDF" 2>/dev/null || echo "?")
 echo "   pages=$PAGES  lines=$(wc -l < "$WORK/full_layout.txt")"
 
 echo "== 2. Rule inventory (validated PDF parser, not regex) =="
 python "$ROOT/reference/ftc_parse.py" "$PDF"   --tsv "$WORK/rules_new.tsv" >"$WORK/parse_new.log" 2>&1 || true
-python "$ROOT/reference/ftc_parse.py" "$V0PDF" --tsv "$WORK/rules_v0.tsv"  >"$WORK/parse_v0.log"  2>&1 || true
 sed 's/^/   /' "$WORK/parse_new.log"
 sed -n '2,$p' "$WORK/rules_new.tsv" | cut -f1 | sort -u > "$WORK/rules_new.txt"
-sed -n '2,$p' "$WORK/rules_v0.tsv"  | cut -f1 | sort -u > "$WORK/rules_v0.txt"
-comm -13 "$WORK/rules_v0.txt" "$WORK/rules_new.txt" > "$WORK/rules_ADDED.txt"
-comm -23 "$WORK/rules_v0.txt" "$WORK/rules_new.txt" > "$WORK/rules_REMOVED.txt"
-echo "   V0=$(wc -l < "$WORK/rules_v0.txt")  NEW=$(wc -l < "$WORK/rules_new.txt")"
-echo "   ADDED=$(wc -l < "$WORK/rules_ADDED.txt")  REMOVED=$(wc -l < "$WORK/rules_REMOVED.txt")"
+if [ "$HAVE_V0" -eq 1 ]; then
+  python "$ROOT/reference/ftc_parse.py" "$V0PDF" --tsv "$WORK/rules_v0.tsv"  >"$WORK/parse_v0.log"  2>&1 || true
+  sed -n '2,$p' "$WORK/rules_v0.tsv"  | cut -f1 | sort -u > "$WORK/rules_v0.txt"
+  comm -13 "$WORK/rules_v0.txt" "$WORK/rules_new.txt" > "$WORK/rules_ADDED.txt"
+  comm -23 "$WORK/rules_v0.txt" "$WORK/rules_new.txt" > "$WORK/rules_REMOVED.txt"
+  echo "   V0=$(wc -l < "$WORK/rules_v0.txt")  NEW=$(wc -l < "$WORK/rules_new.txt")"
+  echo "   ADDED=$(wc -l < "$WORK/rules_ADDED.txt")  REMOVED=$(wc -l < "$WORK/rules_REMOVED.txt")"
+else
+  echo "   NEW=$(wc -l < "$WORK/rules_new.txt")  (no V0 baseline: ADDED/REMOVED not computed)"
+fi
 echo "   --- G-rules (the new game rules) ---"
 { grep -E "^G" "$WORK/rules_new.txt" || echo "(none - game rules section not present)"; } \
   | tr '\n' ' ' | fold -w 100 -s | sed 's/^/   /'
@@ -86,8 +100,12 @@ echo "   --- READ THESE FIRST (game-specific) ---"
 cut -c1-96 "$WORK/rules_GAMESPECIFIC.txt" | sed 's/^/   /' | head -40
 
 echo "== 4. Text diff vs V0 (carried-over sections) =="
-diff -u "$BASE" "$WORK/full_layout.txt" > "$WORK/DIFF_vs_V0.patch" 2>/dev/null || true
-echo "   diff lines: $(wc -l < "$WORK/DIFF_vs_V0.patch")"
+if [ "$HAVE_V0" -eq 1 ]; then
+  diff -u "$BASE" "$WORK/full_layout.txt" > "$WORK/DIFF_vs_V0.patch" 2>/dev/null || true
+  echo "   diff lines: $(wc -l < "$WORK/DIFF_vs_V0.patch")"
+else
+  echo "   skipped: no V0 baseline (see step 1)"
+fi
 
 echo "== 5. Glossary terms + NOVEL game nouns =="
 # NOTE: the flat text extraction mis-pairs glossary TERM with DEFINITION (they live in a

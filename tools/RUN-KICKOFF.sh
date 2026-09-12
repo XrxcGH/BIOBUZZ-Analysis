@@ -18,6 +18,7 @@
 set -uo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+case "${1:-}" in -h|--help) sed -n '2,17p' "${BASH_SOURCE[0]}"; exit 0 ;; esac
 cd "$ROOT"
 LABEL="${2:-KICKOFF}"
 OUT="$ROOT/manuals/2026-27_BIOBUZZ"
@@ -47,7 +48,7 @@ if [ -z "$PDF" ]; then
   done
   # b) newest plausible PDF in the usual download spots
   if [ -z "$PDF" ]; then
-    for d in "$HOME/Downloads" "$HOME/Desktop" "/c/Users/$USER/Downloads"; do
+    for d in "$HOME/Downloads" "$HOME/Desktop" "/c/Users/${USER:-${USERNAME:-}}/Downloads"; do
       [ -d "$d" ] || continue
       cand=$(find "$d" -maxdepth 1 -iname '*.pdf' \
              \( -iname '*biobuzz*' -o -iname '*competition*manual*' -o -iname '*game*manual*' \) \
@@ -193,6 +194,8 @@ $NOVEL
 | Upload bundle (feed Claude in this order) | \`${AN#$ROOT/}/bundle/\` |
 | Full ingest output | \`manuals/2026-27_BIOBUZZ/ingest_$LABEL/\` |
 | Ingest log | \`${AN#$ROOT/}/ingest.log\` |
+
+The bundle is generated on this machine by tools/RUN-KICKOFF.sh and is not published with the repository, because it is FIRST's manual text. To rebuild it, run bash tools/RUN-KICKOFF.sh with the manual PDF.
 
 ## Feed order
 1. \`bundle/TABLES.md\` — the scoring table. **Never read point values from flat text**

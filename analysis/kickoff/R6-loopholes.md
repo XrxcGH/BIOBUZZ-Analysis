@@ -2,6 +2,9 @@
 
 **Phase:** R6 of `reference/ANALYSIS-PROTOCOL.md` · **Method:** `reference/LOOPHOLE-PLAYBOOK.md` (seven passes, §1–§7)
 **Manual under test:** the ingested bundle at `analysis/kickoff/bundle/` (per `STATUS.md`: 188 pp., 214 rules, 53 G-rules, 17 orange)
+**Bundle availability:** `tools/RUN-KICKOFF.sh` generated the bundle locally from `DECODE_Competition_Manual_TU32.pdf` (§0.3);
+it is not published with this repository, because it is FIRST's manual text. Page, table and figure numbers refer to
+the manual itself.
 **Run:** beta harness test, 2026-08-23 · **Author:** kickoff review agent
 
 **Sources used (and only these):** `bundle/TABLES.md`, `bundle/rules_full.tsv`, `bundle/VIOLATIONS.tsv`,

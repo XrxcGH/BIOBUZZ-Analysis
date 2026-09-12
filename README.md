@@ -6,7 +6,7 @@ Built between 21 and 22 August 2026, three weeks before kickoff, so that on **Sa
 | | |
 |---|---|
 | **Kickoff** | Sat **2026-09-12**, 12:00 pm ET |
-| **Corpus** | Every FTC/FVC game manual **2005-06 → 2026-27**, plus Q&A archives, Team Updates, field guides and inspection docs — **109 PDFs**, 296 files, ~217 MB |
+| **Corpus** | Every FTC/FVC game manual **2005-06 → 2026-27**, plus Q&A archives, Team Updates, field guides and inspection docs — **109 PDFs**, 296 files, ~217 MB, kept locally in `manuals/` and not published (see §3) |
 | **Authored analysis** | **61 Markdown documents, ~50 000 lines**, every claim labelled and cited |
 | **Harness** | 4 shell scripts + 5 Python tools. The three manual tools and the five parsers were dry-run tested end to end on the DECODE and INTO THE DEEP manuals. The fourth script, `tools/trellis/validate-season.sh`, reads no manual; it was run against Trellis's validator on 2026-09-04 and reported shape OK. The year collision it used to warn about is closed: Trellis now picks a season file by the program it claims before it looks at the year, the worksheet carries `"program": "ftc"`, and the script checks for that key and reports which of the two cases you are in. Both branches were exercised on 2026-09-04, as was a relative season path, which used to fail |
 | **Start here on the day** | Say **`/kickoff`** to Claude. That is the entire procedure — see §4 |
@@ -54,7 +54,7 @@ Every factual claim carries an evidence label: **`[C]` CONFIRMED-BIOBUZZ** (in a
 
 ## 3. Directory map
 
-Every authored file is listed individually. The `manuals/` corpus is described by group — 109 downloaded PDFs plus their text extractions, indexed season by season in `research/MANUAL-ARCHIVE-INDEX.md`. **★ = read on kickoff day.**
+Every authored file is listed individually. The `manuals/` corpus is described by group — 109 downloaded PDFs plus their text extractions, indexed season by season in `research/MANUAL-ARCHIVE-INDEX.md`. `manuals/` itself is not published with the repository: the PDFs are FIRST's copyrighted documents, so a clone starts without them, and §4 covers getting the kickoff manual. **★ = read on kickoff day.**
 
 ### `reference/` — how the manual works, and how to decide
 
@@ -160,7 +160,7 @@ Every authored file is listed individually. The `manuals/` corpus is described b
 | `archive/` | Full manuals 2020-21 → 2026-27, including the four-variant Traditional/Remote COVID-era sets |
 | `archive/wayback/` | **2005-06 → 2019-20**, recovered from the Wayback Machine — the only surviving copies; `usfirst.org` is DNS-dead |
 | `archive/supplemental/` | Q&A archives 2011-12 → 2025-26, field guides, inspection checklists, referee and judge manuals, AprilTag sheets, Team Update 00s, BIOBUZZ season dates and ROBOT SIGN |
-| `_workfiles/` | Intermediate text extracts kept because they are slow to regenerate; nothing depends on these paths |
+| `_workfiles/` | Intermediate text extracts, kept locally because they are slow to regenerate. Only `_workfiles/README.txt` is published: the extracts are FIRST's Team Update and Q&A text, and that file gives the `pdftotext` command that regenerates them. Nothing depends on these paths |
 
 ---
 
@@ -198,6 +198,9 @@ If you would rather not use the slash command, *"the manual is out, run the revi
 
 Output lands in `analysis/kickoff/`: `STATUS.md`, `R2`–`R7`, `2026-biobuzz.json`, `D5-ranked-strategies.md`,
 `D6-awards.md`, `B-bom.md`, `BOM-A.csv`, `Q-A-SUBMISSIONS.md`, and the one-page `BRIEF.md` your team votes on.
+The step 5 bundle (`analysis/kickoff/bundle/`, or `analysis/<label>/bundle/` for a later release) is generated on
+your machine from the manual you download and is not published with this repository, because it is FIRST's
+copyrighted manual text.
 
 ### If you would rather drive it by hand
 
@@ -223,12 +226,12 @@ kickoff until two weeks before Championship — additions highlighted yellow, de
 
 **Give Claude the ingest outputs, not the manual.** A 200-page PDF is ~100 000 tokens and buries the scoring table under event logistics. Upload in this order:
 
-1. `ingest_V1/tables/TABLES.md` — the scoring table, correctly extracted. **Always first.**
-2. `ingest_V1/rules_GAMESPECIFIC.txt` — the ~16 orange-headline rules that are actually new.
-3. `ingest_V1/figures/p0NN_s9-*.png` — the 6–10 ARENA figures that carry the field and the goals.
-4. `ingest_V1/rulebodies/G_rules_full.tsv` and `VIOLATIONS.tsv` — every game rule and every penalty.
-5. `ingest_V1/TRIPWIRES.txt` — loophole candidates, for the R6 pass only.
-6. `full_layout.txt` — **last, and only if needed.** Prefer a page-range slice.
+1. `manuals/2026-27_BIOBUZZ/ingest_V1/tables/TABLES.md` — the scoring table, correctly extracted. **Always first.**
+2. `manuals/2026-27_BIOBUZZ/ingest_V1/rules_GAMESPECIFIC.txt` — the ~16 orange-headline rules that are actually new.
+3. `manuals/2026-27_BIOBUZZ/ingest_V1/figures/p0NN_s9-*.png` — the 6–10 ARENA figures that carry the field and the goals.
+4. `manuals/2026-27_BIOBUZZ/ingest_V1/rulebodies/G_rules_full.tsv` and `VIOLATIONS.tsv` — every game rule and every penalty.
+5. `manuals/2026-27_BIOBUZZ/ingest_V1/TRIPWIRES.txt` — loophole candidates, for the R6 pass only.
+6. `manuals/2026-27_BIOBUZZ/ingest_V1/full_layout.txt` — **last, and only if needed.** Prefer a page-range slice.
 
 **Give it these five standing instructions every session** (they are the preamble **PR-0** in `REVIEW-PROMPTS-STRATEGY.md`):
 
@@ -261,4 +264,4 @@ kickoff until two weeks before Championship — additions highlighted yellow, de
 
 ---
 
-*Root: ``. BIOBUZZ™, *FIRST*® and *FIRST*® Tech Challenge are trademarks of FIRST. This workspace is an unofficial team resource; the Competition Manual, Team Updates, and the referees and inspectors at your event are always the authority.*
+*BIOBUZZ™, *FIRST*® and *FIRST*® Tech Challenge are trademarks of FIRST. This workspace is an unofficial team resource; the Competition Manual, Team Updates, and the referees and inspectors at your event are always the authority.*

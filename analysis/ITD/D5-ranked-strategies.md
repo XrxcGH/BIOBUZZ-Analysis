@@ -15,6 +15,9 @@
 `bundle/rules_GAMESPECIFIC.txt` · `bundle/full_layout.txt` (**prose only** — §10.3.1 setup/pre-load, §9.7.2–9.7.3
 CLIP definition; **no point value taken from it**).
 
+**Bundle availability:** `tools/RUN-KICKOFF.sh` generated the bundle locally from the V14 manual; it is not published
+with this repository, because it is FIRST's manual text. Page, section and table numbers refer to the manual itself.
+
 **Method files read:** `STRATEGY-RANKING-PROTOCOL.md` · `ACHIEVABILITY-RUBRIC.md` (§1–§10 and §14 only) ·
 `ACHIEVABILITY-FACTORS.md` §8 · `mechanisms/EXTENSION-ARMS-LIFTS.md` · `mechanisms/INTAKE-AND-MANIPULATION.md`.
 

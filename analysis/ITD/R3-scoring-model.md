@@ -2,6 +2,8 @@
 
 **Game under test:** INTO THE DEEP (Competition Manual V14, 146 pp) — treated as an unseen game.
 **Bundle:** `analysis/ITD/bundle/`. **Ingest gate:** GREEN (`analysis/ITD/STATUS.md`).
+**Bundle availability:** `tools/RUN-KICKOFF.sh` generated the bundle locally from the V14 manual; it is not published
+with this repository, because it is FIRST's manual text. Page, table and figure numbers refer to the manual itself.
 **Written:** 2026-08-23. **Protocol:** `reference/ANALYSIS-PROTOCOL.md` §3, arithmetic conventions from
 `reference/STRATEGY-RANKING-PROTOCOL.md` §6.2–6.3.
 
@@ -142,20 +144,17 @@ the extract did not drop a line.
 
 ### 2.1 Live or at the end? — **AT THE END OF THE PERIOD.** `[MANUAL]`
 
-The governing sentence, §10.5 Scoring, quoted in full:
+Under §10.5 Scoring, FIELD STAFF track accomplishments live and certify them at the end of the MATCH. The
+governing sentence:
 
-> "All accomplishments are tracked live by FIELD STAFF and certified at the end of the MATCH.
-> Accomplishments are officially scored at the end of each MATCH period based on the status of the FIELD,
-> when all ROBOTS and SCORING ELEMENTS have come to rest, except as follows:"
+> "Accomplishments are officially scored at the end of each MATCH period based on the status of the FIELD,
+> when all ROBOTS and SCORING ELEMENTS have come to rest"
 
-Two exceptions follow, both §10.5:
+Two exceptions follow, both §10.5, paraphrased here:
 
-> "**A.** assessment of ASCENT and PARKING points is made 3 seconds after the ARENA timer reaches the end
-> of the MATCH period following AUTO and TELEOP, or when all ROBOTS have come to rest following the
-> conclusion of the MATCH period, whichever happens first."
-
-> "**B.** scoring achievements that occur after the end of the AUTO period and before the start of the
-> TELEOP period will count in the TELEOP period but may violate G403."
+- **A.** ASCENT and PARKING are assessed 3 seconds after the ARENA timer ends AUTO or TELEOP, or once all ROBOTS
+  are at rest, whichever comes first.
+- **B.** An achievement made after AUTO ends and before TELEOP starts counts in TELEOP, "but may violate G403."
 
 **Answer:** *tracked* live, *scored* at the end of each period, off a **snapshot of field state at rest**.
 Not live. The **8-second transition exists precisely so the AUTO snapshot can settle** (§10.4: "*There is an

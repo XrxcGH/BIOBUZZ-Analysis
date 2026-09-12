@@ -35,7 +35,7 @@ FTC has four distinct layers of AI guidance and they do **not** all say the same
 
 | # | Source | Binding on | AI scope | Force of credit requirement | Where |
 |---|---|---|---|---|---|
-| 1 | **BIOBUZZ V0 Competition Manual, rule A201** (§6.2, p.48) | Teams. Enforceable. | **Portfolio only** | "include a footnote or endnote credit" — mandatory | `ROOT/manuals/2026-27_BIOBUZZ/BIOBUZZ_V0_layout.txt` line 1789 |
+| 1 | **BIOBUZZ V0 Competition Manual, rule A201** (§6.2, p.48) | Teams. Enforceable. | **Portfolio only** | "include a footnote or endnote credit" (mandatory) | `ROOT/manuals/2026-27_BIOBUZZ/BIOBUZZ_V0_layout.txt` line 1789 (a local text extract of the manual, not published with the repository; p.48 locates the text in the manual itself) |
 | 2 | **FTC Judging Process Guide**, "Artificial Intelligence in FIRST Tech Challenge" (**Rev 25-26.3**, p.20 of 60) | Judges + Judge Advisors. Shapes our score. | **Portfolio *and* robot code** | "are expected to provide proper credit" — **and never a DQ if you don't** | https://ftc-resources.firstinspires.org/ftc/archive/2026/event/judging-guide |
 | 3 | **FIRST program-wide policy blog**, Chris Rake (EVP & COO), 2023-11-01 | All FIRST programs. Policy, not rule. | Award submissions, handouts, robot code, "etc." | "must provide proper credit and attribution" | https://community.firstinspires.org/expanding-the-first-toolbox-with-artificial-intelligence |
 | 4 | **FRC 2026 Judge Manual**, "Use of Artificial Intelligence (AI)" (p.14, **Rev 2 – 2/18/2026**) | FRC judges. **Not binding on FTC.** Evidence of intent. | Award submissions, handouts, robot code | "**must** provide proper credit" + bans AI detectors | https://info.firstinspires.org/hubfs/web/program/frc/awards/judge-manual.pdf |
@@ -79,11 +79,13 @@ Neighbouring guidance in the same rule that constrains how AI output can be deli
 
 ### 2.2 FTC Judging Process Guide — "Artificial Intelligence in FIRST Tech Challenge" (Rev 25-26.3, p.20) (SEASON-DEPENDENT)
 
-The most important paragraph we have, because it is what the *judges* are trained on. Quoted in full:
+The most important paragraph we have, because it is what the *judges* are trained on. Its operative phrases are quoted; the rest is paraphrased:
 
-> "Teams are permitted and encouraged to use Artificial Intelligence (AI) to assist in the creation of their Portfolio and robot code. A team who uses all the tools available to them can be an important aspect to discovery and innovation and is a valuable part of the learning and growth process for teams. FIRST views AI resources as tools available to students in the same way that CAD programs, programming languages, and 3D printers are tools available for their use. Teams using AI to assist with code or content generation are expected to provide proper credit and attribution, and respect intellectual property rights and licenses. Proper credit could look like this: 'Portfolio Content created, or code enhanced by Team 1000 and ChatGPT.'"
-
-> "A team should never be disqualified for failing to properly credit AI-generated content provided to the Judges. While AI is a powerful tool that teams may opt to use, teams are ultimately responsible for the content they provide to the Judges. A Judge may ask clarifying questions about content provided in the interviews and in the Portfolio but should not consider the use (or lack) if AI as the single determining factor during the nomination or deliberation process."
+- Teams are "permitted and encouraged to use Artificial Intelligence (AI) to assist in the creation of their Portfolio and robot code," and FIRST says that using every tool available supports discovery, innovation and learning.
+- FIRST puts AI resources in the same category as CAD programs, programming languages and 3D printers: tools that students may use.
+- Teams that use AI for code or content are "expected to provide proper credit and attribution," and to "respect intellectual property rights and licenses." The guide's sample credit line names a team and ChatGPT.
+- "A team should never be disqualified for failing to properly credit AI-generated content," although "teams are ultimately responsible for the content they provide to the Judges."
+- A Judge may ask clarifying questions about interview and Portfolio content but "should not consider the use (or lack) if AI as the single determining factor" when nominating or deliberating.
 
 *("the use (or lack) if AI" is a typo for "of AI" in the source document — reproduced as printed.)*
 
@@ -155,11 +157,10 @@ The CIC is new this season and is "an actionable part of the Framework of Behavi
 
 ### 4.2 The mentor model is the AI model
 
-From the FTC Judging Process Guide, "Judging Expectations for Coaches and Mentors" (Rev 25-26.3, p.4):
+From the FTC Judging Process Guide, "Judging Expectations for Coaches and Mentors" (Rev 25-26.3, p.4), paraphrased except for the one quoted clause:
 
-> "Coach or mentor involvement, by itself, should never be considered a reason to exclude a team from award consideration or to rank them lower on a list of nominees. This partnership between teams and mentors is expected and celebrated in FIRST Tech Challenge."
-
-> "Judges should understand that coaches and mentors can assist a team by working on the robot (or code), but **students are ultimately responsible for the answers they give to the Judges.** In general, the judging process wants to reward teams, notably the students, who meet the award criteria and **are able to explain the process or answer behind their robot, outreach, brainstorming process, and so on.**"
+- Coach or mentor involvement is never, on its own, grounds to exclude a team from award consideration or to place it lower among nominees. FIRST Tech Challenge expects and celebrates that partnership between teams and mentors.
+- Coaches and mentors may help with the robot or the code, but "**students are ultimately responsible for the answers they give to the Judges.**" Judging sets out to reward teams whose students meet the award criteria and **can explain the process or the reasoning behind their robot, their outreach and their brainstorming.**
 
 Corroborated in the BIOBUZZ manual itself, §1.4.3 The Role of Mentors (p.12), which poses the question "How much involvement in building the robot should the mentors have?" and answers:
 
@@ -462,7 +463,7 @@ Copy, fill in the team number, adopt at a team meeting, and date it.
 
 ## 12. Sources
 
-**Local (authoritative, held on disk)**
+**Local (authoritative, held on disk, not published with the repository)**
 
 - `manuals/2026-27_BIOBUZZ/BIOBUZZ_V0_layout.txt` — BIOBUZZ Pre-Season V0 Competition Manual, extracted layout text. Key lines verified this session: **1789-1791** (A201 AI clause), **436-557** (§1.5 CIC in full), **340-366** (§1.4.2 Framework of Behaviors), **367-395** (§1.4.3 Role of Mentors), **663** (FTC AI Chatbot), **683-712** (§1.7.4 Q&A), **1628-1650** (§6.1.1 sources judges may consider), **1812-1890** (A203-A210), **1990-2000** (Think criteria), **2138-2192** (Control & Design criteria), **1363-1373** (E301), **3286-3312** (R704.A-E), **3238-3283** (R702 + Table 12-9).
 - `.../manuals/_reference_prior_seasons/` — DECODE (2025-26) A201 and INTO THE DEEP (2024-25) A101 AI clauses.

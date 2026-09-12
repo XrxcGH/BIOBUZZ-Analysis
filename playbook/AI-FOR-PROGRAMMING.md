@@ -860,9 +860,9 @@ the class → compile → `/footgun-review` → bench test with the mechanism un
 `opModeIsActive()` or `!isStopRequested()` or the OpMode gets stuck in start/loop/stop
 ([gm0.org](https://gm0.org/en/latest/docs/software/getting-started/common-issues.html)).
 
-**[J] The judge-interview payoff.** "Walk us through the process your team used" (Think) and "What
+**[J] The judge-interview payoff.** "Walk us through the process your team used" (Innovate) and "What
 enhancements did your team program to assist the drivers?" (Control) are both in the real question bank
-(`research/SCOUTING-AND-AWARDS.md` §13.3). A student who designed the state table can answer both from
+(linked from `research/SCOUTING-AND-AWARDS.md` §13.3). A student who designed the state table can answer both from
 memory. A student who prompted for a scoring sequence cannot.
 
 ---

@@ -2,6 +2,9 @@
 
 **Phase:** R3 (`reference/ANALYSIS-PROTOCOL.md` §3) · **Run:** 2026-08-23 beta test
 **Manual under review:** ingested bundle at `analysis/kickoff/bundle/`, 188 pp, 214 rules, 17 game-specific.
+**Bundle availability:** `tools/RUN-KICKOFF.sh` generated the bundle locally from `DECODE_Competition_Manual_TU32.pdf`;
+it is not published with this repository, because it is FIRST's manual text. Page, table and figure numbers refer
+to the manual itself.
 **Sources used:** `bundle/TABLES.md`, `bundle/rules_full.tsv`, `bundle/VIOLATIONS.tsv`, `bundle/figures/*.png`,
 Sections 8/9/10/13/16 prose from `bundle/full_layout.txt` (**prose only — every point value in this file came
 from `TABLES.md` and was re-verified against the rendered page image `figures/p088_s10-game-details.png`**).
@@ -150,27 +153,15 @@ opponent's human player.** This closed loop is why GOAL RP can exceed the 36 ART
 
 ## 2. THE HIGHEST-LEVERAGE QUESTION — is AUTO scored live or at the end, and is it re-counted?
 
-### 2.1 The governing text, quoted in full
+### 2.1 The governing text
 
-`[MANUAL]` §10.5 Scoring, p.83: "All achievements are updated by FIELD STAFF throughout the MATCH. Scoring
-achievements are assessed as follows:
+`[MANUAL]` §10.5 Scoring, p.83, items B and C (§2.2 paraphrases items A and D to F by letter):
 
-> **A.** Assessment of ARTIFACTS as either CLASSIFIED or OVERFLOW occurs throughout the MATCH and continues
-> until all ARTIFACTS have come to rest following the conclusion of the MATCH. ARTIFACTS that meet scoring
-> criteria prior to the start of TELEOP are assessed as part of AUTO
->
 > **B.** Assessment of AUTO PATTERN scoring occurs at when all ARTIFACTS have come to rest following the
 > conclusion of AUTO or the start of TELEOP, whichever comes first.
 >
 > **C.** Assessment of TELEOP PATTERN scoring occurs when all ROBOTS and ARTIFACTS have come to rest
 > following the conclusion of the MATCH.
->
-> **D.** Assessment of DEPOT scoring occurs at the end of TELEOP when all ROBOTS and ARTIFACTS have come to
-> rest following the conclusion of the MATCH.
->
-> **E.** Assessment of LEAVE scoring occurs at the end of AUTO.
->
-> **F.** Assessment of BASE scoring occurs at the end of the TELEOP."
 
 And §10.5.2, p.86 `[MANUAL]`: "**At the end of AUTO and TELEOP**, ARTIFACTS that are directly on the RAMP
 score for PATTERN points if the color of the ARTIFACT in order matches the MOTIF color for that index, and

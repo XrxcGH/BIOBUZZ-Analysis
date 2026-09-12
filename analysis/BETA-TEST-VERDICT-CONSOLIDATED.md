@@ -6,6 +6,8 @@
 worked only from the ingest bundle and the game-agnostic method files, and were forbidden from reading
 this workspace's own analysis of those seasons (`SCORING-PATTERNS.md`, `LOOPHOLE-CASEBOOK.md`, the
 archetype library, the raw prior-season corpus). Then the answer key was opened and the output scored.
+The ingest bundles exist only on the machine that ran the script and are not published with this repository,
+because they are FIRST's manual text.
 
 **Why two seasons.** DECODE is 188 pp / 214 rules / 17 orange. INTO THE DEEP is 146 pp / 209 rules / 16
 orange. If a component only worked on one, it is season-shaped and will mislead on BIOBUZZ.

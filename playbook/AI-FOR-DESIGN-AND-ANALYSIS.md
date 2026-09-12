@@ -1350,8 +1350,8 @@ BIOBUZZ §6.1.2 and the *Judging Quick Start*:
 
 **[FACT] The real question bank** is published by FIRST at
 <https://ftc-resources.firstinspires.org/ftc/archive/2026/event/question-bank> (Revision 25-26.1; the BIOBUZZ
-revision was listed as "coming soon" in V0). Representative verbatim questions are reproduced in
-`research/SCOUTING-AND-AWARDS.md` §13.3.
+revision was listed as "coming soon" in V0). `research/SCOUTING-AND-AWARDS.md` §13.3 summarizes what each
+award's questions probe and quotes only the questions the playbooks cite; read the bank itself for the rest.
 
 #### The full mock-interview prompt
 
@@ -1372,7 +1372,7 @@ FORMAT — follow it exactly:
      say "thank you" and move on.
   3. Then ask exactly TWO mandated questions first: one from the MCI category (Innovate, Control
      or Design) and one from the TA category (Connect, Reach or Sustain), drawn from the FIRST
-     Judging Question Bank style reproduced in research/SCOUTING-AND-AWARDS.md section 13.3.
+     Judging Question Bank style (summarized by award in research/SCOUTING-AND-AWARDS.md section 13.3).
   4. Then ask open-ended follow-ups for the remaining time.
   5. Conclude the interview yourself. Do not let it drift.
 
